@@ -1,0 +1,2175 @@
+[submodule "JSON2"]
+	path = JSON2
+	url = git://github.com/ddopson/JSON-js.git
+[submodule "zuul"]
+	path = zuul
+	url = git://github.com/shtylman/zuul.git
+[submodule "zuul-ngrok"]
+	path = zuul-ngrok
+	url = git://github.com/rase-/zuul-ngrok
+[submodule "yauzl"]
+	path = yauzl
+	url = https://github.com/thejoshwolfe/yauzl.git
+[submodule "yargs"]
+	path = yargs
+	url = https://github.com/isysd/tech-js-yargs-gap-json.git
+[submodule "yargs-parser"]
+	path = yargs-parser
+	url = git@github.com:yargs/yargs-parser.git
+[submodule "yapool"]
+	path = yapool
+	url = https://github.com/isaacs/yapool.git
+[submodule "yamlparser"]
+	path = yamlparser
+	url = git://github.com/h4evr/commonjs-javascript-yaml-parser.git
+[submodule "yallist"]
+	path = yallist
+	url = https://github.com/isaacs/yallist.git
+[submodule "y18n"]
+	path = y18n
+	url = git@github.com:yargs/y18n.git
+[submodule "xtend"]
+	path = xtend
+	url = git://github.com/Raynos/xtend.git
+[submodule "xo"]
+	path = xo
+	url = https://github.com/isysd/tech-js-xo-gap-json.git
+[submodule "xmlhttprequest"]
+	path = xmlhttprequest
+	url = git://github.com/driverdan/node-XMLHttpRequest.git
+[submodule "ws"]
+	path = ws
+	url = https://github.com/websockets/ws.git
+[submodule "write-pkg"]
+	path = write-pkg
+	url = https://github.com/sindresorhus/write-pkg.git
+[submodule "wrappy"]
+	path = wrappy
+	url = https://github.com/npm/wrappy.git
+[submodule "wordwrap"]
+	path = wordwrap
+	url = http://github.com/thlorenz/deep-is
+[submodule "window-or-global"]
+	path = window-or-global
+	url = https://github.com/purposeindustries/window-or-global.git
+[submodule "win-fork"]
+	path = win-fork
+	url = https://github.com/ForbesLindesay/win-spawn
+[submodule "which"]
+	path = which
+	url = https://github.com/npm/node-which.git
+[submodule "which-module"]
+	path = which-module
+	url = https://github.com/nexdrew/which-module.git
+[submodule "webpack"]
+	path = webpack
+	url = https://github.com/webpack/webpack.git
+[submodule "webpack-dev-server"]
+	path = webpack-dev-server
+	url = git://github.com/webpack/webpack-dev-server.git
+[submodule "watchify"]
+	path = watchify
+	url = git://github.com/substack/watchify.git
+[submodule "vue-eslint-parser"]
+	path = vue-eslint-parser
+	url = https://github.com/mysticatea/vue-eslint-parser.git
+[submodule "vows"]
+	path = vows
+	url = https://github.com/cloudhead/vows.git
+[submodule "void-elements"]
+	path = void-elements
+	url = https://github.com/pugjs/void-elements.git
+[submodule "vm-browserify"]
+	path = vm-browserify
+	url = http://github.com/substack/vm-browserify
+[submodule "vinyl"]
+	path = vinyl
+	url = https://github.com/gulpjs/vinyl.git
+[submodule "vinyl-sourcemaps-apply"]
+	path = vinyl-sourcemaps-apply
+	url = git://github.com/floridoo/vinyl-sourcemaps-apply.git
+[submodule "vinyl-source-stream"]
+	path = vinyl-source-stream
+	url = git://github.com/hughsk/vinyl-source-stream
+[submodule "vinyl-fs"]
+	path = vinyl-fs
+	url = git://github.com/wearefractal/vinyl-fs.git
+[submodule "vinyl-buffer"]
+	path = vinyl-buffer
+	url = git://github.com/hughsk/vinyl-buffer
+[submodule "verror"]
+	path = verror
+	url = https://github.com/joyent/node-verror.git
+[submodule "validate-commit-msg"]
+	path = validate-commit-msg
+	url = https://github.com/kentcdodds/validate-commit-msg.git
+[submodule "v8flags"]
+	path = v8flags
+	url = git://github.com/tkellen/node-v8flags.git
+[submodule "uuid"]
+	path = uuid
+	url = https://github.com/kelektiv/node-uuid.git
+[submodule "utils-merge"]
+	path = utils-merge
+	url = git://github.com/jaredhanson/utils-merge.git
+[submodule "util"]
+	path = util
+	url = git://github.com/defunctzombie/node-util
+[submodule "util-deprecate"]
+	path = util-deprecate
+	url = git://github.com/TooTallNate/util-deprecate.git
+[submodule "useragent"]
+	path = useragent
+	url = git@github.com:3rd-Eden/useragent.git
+[submodule "user-home"]
+	path = user-home
+	url = https://github.com/sindresorhus/user-home
+[submodule "urlgrey"]
+	path = urlgrey
+	url = git://github.com/cainus/urlgrey.git
+[submodule "url"]
+	path = url
+	url = https://github.com/defunctzombie/node-url.git
+[submodule "url-to-options"]
+	path = url-to-options
+	url = https://github.com/stevenvachon/url-to-options.git
+[submodule "url-parse-lax"]
+	path = url-parse-lax
+	url = https://github.com/sindresorhus/url-parse-lax.git
+[submodule "unpipe"]
+	path = unpipe
+	url = https://github.com/stream-utils/unpipe
+[submodule "universalify"]
+	path = universalify
+	url = https://github.com/RyanZim/universalify.git
+[submodule "universal-url"]
+	path = universal-url
+	url = https://github.com/stevenvachon/universal-url.git
+[submodule "unified"]
+	path = unified
+	url = https://github.com/unifiedjs/unified.git
+[submodule "unicode-9.0.0"]
+	path = unicode-9.0.0
+	url = https://github.com/mathiasbynens/unicode-9.0.0.git
+[submodule "underscore"]
+	path = underscore
+	url = git://github.com/jashkenas/underscore.git
+[submodule "umd"]
+	path = umd
+	url = https://github.com/ForbesLindesay/umd
+[submodule "uglify-js"]
+	path = uglify-js
+	url = https://github.com/isysd/tech-js-uglify-js-gap-json.git
+[submodule "typedarray"]
+	path = typedarray
+	url = git://github.com/substack/typedarray.git
+[submodule "type-is"]
+	path = type-is
+	url = https://github.com/jshttp/type-is.git
+[submodule "type-detect"]
+	path = type-detect
+	url = git@github.com:chaijs/type-detect.git
+[submodule "type-check"]
+	path = type-check
+	url = git://github.com/gkz/type-check.git
+[submodule "tunnel-agent"]
+	path = tunnel-agent
+	url = https://github.com/request/tunnel-agent.git
+[submodule "tty-browserify"]
+	path = tty-browserify
+	url = git://github.com/substack/node-syntax-error.git
+[submodule "trees"]
+	path = trees
+	url = git://github.com/dominictarr/trees.git
+[submodule "tree-kill"]
+	path = tree-kill
+	url = git://github.com/pkrumins/node-tree-kill.git
+[submodule "traceur"]
+	path = traceur
+	url = https://github.com/google/traceur-compiler.git
+[submodule "tough-cookie"]
+	path = tough-cookie
+	url = https://github.com/salesforce/tough-cookie.git
+[submodule "tmp"]
+	path = tmp
+	url = https://github.com/raszi/node-tmp.git
+[submodule "tiny-lr"]
+	path = tiny-lr
+	url = git://github.com/mklabs/tiny-lr.git
+[submodule "timers-browserify"]
+	path = timers-browserify
+	url = git://github.com/jryans/timers-browserify.git
+[submodule "timed-out"]
+	path = timed-out
+	url = https://github.com/floatdrop/timed-out.git
+[submodule "tildify"]
+	path = tildify
+	url = https://github.com/sindresorhus/tildify.git
+[submodule "ticky"]
+	path = ticky
+	url = https://github.com/bevacqua/ticky.git
+[submodule "through2"]
+	path = through2
+	url = https://github.com/rvagg/through2.git
+[submodule "through"]
+	path = through
+	url = https://github.com/dominictarr/through.git
+[submodule "testswarm"]
+	path = testswarm
+	url = git://github.com/jzaefferer/node-testswarm.git
+[submodule "temp"]
+	path = temp
+	url = https://github.com/cindy-zimmerman/temp.git
+[submodule "temp-write"]
+	path = temp-write
+	url = https://github.com/sindresorhus/temp-write.git
+[submodule "taper"]
+	path = taper
+	url = https://github.com/nylen/taper.git
+[submodule "tape"]
+	path = tape
+	url = https://github.com/isysd/tech-js-tape-gap-json.git
+[submodule "tap"]
+	path = tap
+	url = https://github.com/tapjs/node-tap.git
+[submodule "tap-parser"]
+	path = tap-parser
+	url = git://github.com/substack/tap-parser.git
+[submodule "syntax-error"]
+	path = syntax-error
+	url = git://github.com/substack/node-syntax-error.git
+[submodule "superagent"]
+	path = superagent
+	url = git://github.com/visionmedia/superagent.git
+[submodule "subarg"]
+	path = subarg
+	url = git://github.com/rvagg/string_decoder.git
+[submodule "strip-json-comments"]
+	path = strip-json-comments
+	url = https://github.com/sindresorhus/strip-json-comments.git
+[submodule "strip-bom"]
+	path = strip-bom
+	url = https://github.com/sindresorhus/strip-bom.git
+[submodule "strip-bom-stream"]
+	path = strip-bom-stream
+	url = https://github.com/sindresorhus/strip-bom-stream.git
+[submodule "stringstream"]
+	path = stringstream
+	url = https://github.com/mhart/StringStream.git
+[submodule "stringcase"]
+	path = stringcase
+	url = https://github.com/okunishinishi/node-stringcase.git
+[submodule "string_decoder"]
+	path = string_decoder
+	url = git://github.com/rvagg/string_decoder.git
+[submodule "string-width"]
+	path = string-width
+	url = https://github.com/sindresorhus/string-width.git
+[submodule "streamfilter"]
+	path = streamfilter
+	url = git@github.com:nfroidure/streamfilter.git
+[submodule "stream-splicer"]
+	path = stream-splicer
+	url = git://github.com/substack/stream-splicer.git
+[submodule "stream-http"]
+	path = stream-http
+	url = git://github.com/substack/stream-browserify.git
+[submodule "stream-combiner2"]
+	path = stream-combiner2
+	url = git://github.com/substack/stream-combiner2.git
+[submodule "stream-browserify"]
+	path = stream-browserify
+	url = git://github.com/substack/stream-browserify.git
+[submodule "statuses"]
+	path = statuses
+	url = https://github.com/jshttp/statuses
+[submodule "standard"]
+	path = standard
+	url = https://github.com/isysd/tech-js-standard-gap-json.git
+[submodule "standard-markdown"]
+	path = standard-markdown
+	url = https://github.com/zeke/standard-markdown.git
+[submodule "stacktrace-js"]
+	path = stacktrace-js
+	url = git://github.com/stacktracejs/stacktrace.js.git
+[submodule "stack-mapper"]
+	path = stack-mapper
+	url = git://github.com/thlorenz/stack-mapper.git
+[submodule "sshpk"]
+	path = sshpk
+	url = https://github.com/joyent/node-sshpk.git
+[submodule "sprintf"]
+	path = sprintf
+	url = https://github.com/maritz/node-sprintf
+[submodule "spawn-command"]
+	path = spawn-command
+	url = https://github.com/mmalecki/spawn-command
+[submodule "source-map"]
+	path = source-map
+	url = https://github.com/xjamundx/eslint-plugin-standard.git
+[submodule "source-map-support"]
+	path = source-map-support
+	url = https://github.com/evanw/node-source-map-support.git
+[submodule "sntp"]
+	path = sntp
+	url = https://github.com/hueniverse/sntp.git
+[submodule "sinon"]
+	path = sinon
+	url = https://github.com/isysd/tech-js-sinon-gap-json.git
+[submodule "signal-exit"]
+	path = signal-exit
+	url = https://github.com/tapjs/signal-exit.git
+[submodule "shrinkydink"]
+	path = shrinkydink
+	url = git://github.com/nlf/shrinkydink.git
+[submodule "should"]
+	path = should
+	url = https://github.com/shouldjs/should.js.git
+[submodule "should-type"]
+	path = should-type
+	url = https://github.com/shouldjs/type.git
+[submodule "should-equal"]
+	path = should-equal
+	url = https://github.com/shouldjs/equal.git
+[submodule "shelljs"]
+	path = shelljs
+	url = git://github.com/shelljs/shelljs.git
+[submodule "shell-quote"]
+	path = shell-quote
+	url = git@github.com:substack/node-shell-quote.git
+[submodule "shasum"]
+	path = shasum
+	url = git://github.com/dominictarr/shasum.git
+[submodule "shallow-copy"]
+	path = shallow-copy
+	url = git://github.com/substack/shallow-copy.git
+[submodule "sha.js"]
+	path = sha.js
+	url = git://github.com/crypto-browserify/sha.js.git
+[submodule "setprototypeof"]
+	path = setprototypeof
+	url = https://github.com/wesleytodd/setprototypeof.git
+[submodule "setimmediate"]
+	path = setimmediate
+	url = https://github.com/yuzujs/setImmediate.git
+[submodule "set-blocking"]
+	path = set-blocking
+	url = https://github.com/yargs/set-blocking.git
+[submodule "server-destroy"]
+	path = server-destroy
+	url = git://github.com/isaacs/server-destroy.git
+[submodule "seq"]
+	path = seq
+	url = git://github.com/substack/node-seq.git
+[submodule "semver"]
+	path = semver
+	url = https://github.com/isysd/tech-js-semver-gap-json.git
+[submodule "seedrandom"]
+	path = seedrandom
+	url = git://github.com/davidbau/seedrandom.git
+[submodule "sections"]
+	path = sections
+	url = https://github.com/jonschlinkert/sections.git
+[submodule "safe-publish-latest"]
+	path = safe-publish-latest
+	url = git://github.com/ljharb/safe-publish-latest.git
+[submodule "safe-buffer"]
+	path = safe-buffer
+	url = git://github.com/feross/safe-buffer.git
+[submodule "rx"]
+	path = rx
+	url = https://github.com/isysd/tech-js-rx-gap-json.git
+[submodule "rsvp"]
+	path = rsvp
+	url = https://github.com/tildeio/rsvp.js.git
+[submodule "rollup"]
+	path = rollup
+	url = https://github.com/rollup/rollup.git
+[submodule "ripemd160"]
+	path = ripemd160
+	url = https://github.com/crypto-browserify/ripemd160.git
+[submodule "rimraf"]
+	path = rimraf
+	url = https://github.com/isysd/tech-js-rimraf-gap-json.git
+[submodule "reveal"]
+	path = reveal
+	url = https://github.com/ForbesLindesay/reveal
+[submodule "resolve"]
+	path = resolve
+	url = https://github.com/substack/node-resolve.git
+[submodule "resolve-glob"]
+	path = resolve-glob
+	url = https://github.com/jonschlinkert/resolve-glob.git
+[submodule "requires-port"]
+	path = requires-port
+	url = https://github.com/unshiftio/requires-port.git
+[submodule "requirejs"]
+	path = requirejs
+	url = https://github.com/requirejs/requirejs-npm.git
+[submodule "require-module"]
+	path = require-module
+	url = git://github.com/thlorenz/require-module.git
+[submodule "require-main-filename"]
+	path = require-main-filename
+	url = git@github.com:yargs/require-main-filename.git
+[submodule "require-directory"]
+	path = require-directory
+	url = git://github.com/troygoode/node-require-directory.git
+[submodule "require-dir"]
+	path = require-dir
+	url = git://github.com/aseemk/requireDir.git
+[submodule "request"]
+	path = request
+	url = https://github.com/request/request.git
+[submodule "replace-ext"]
+	path = replace-ext
+	url = https://github.com/gulpjs/replace-ext.git
+[submodule "remove-trailing-separator"]
+	path = remove-trailing-separator
+	url = https://github.com/darsain/remove-trailing-separator.git
+[submodule "remarkable"]
+	path = remarkable
+	url = https://github.com/jonschlinkert/remarkable.git
+[submodule "remark"]
+	path = remark
+	url = https://github.com/wooorm/remark.git
+[submodule "registry-url"]
+	path = registry-url
+	url = https://github.com/sindresorhus/registry-url.git
+[submodule "registry-auth-token"]
+	path = registry-auth-token
+	url = https://github.com/rexxars/registry-auth-token.git
+[submodule "readdirp"]
+	path = readdirp
+	url = git://github.com/thlorenz/readdirp.git
+[submodule "readable-stream"]
+	path = readable-stream
+	url = git://github.com/nodejs/readable-stream.git
+[submodule "read-pkg"]
+	path = read-pkg
+	url = https://github.com/sindresorhus/read-pkg.git
+[submodule "read-pkg-up"]
+	path = read-pkg-up
+	url = https://github.com/sindresorhus/read-pkg-up.git
+[submodule "read-only-stream"]
+	path = read-only-stream
+	url = git://github.com/substack/read-only-stream.git
+[submodule "read-dir-files"]
+	path = read-dir-files
+	url = git://github.com/mmalecki/node-read-dir-files.git
+[submodule "rc"]
+	path = rc
+	url = https://github.com/dominictarr/rc.git
+[submodule "raw-body"]
+	path = raw-body
+	url = https://github.com/stream-utils/raw-body.git
+[submodule "range-parser"]
+	path = range-parser
+	url = https://github.com/jshttp/range-parser
+[submodule "randomstring"]
+	path = randomstring
+	url = git://github.com/klughammer/node-randomstring.git
+[submodule "randombytes"]
+	path = randombytes
+	url = git@github.com:crypto-browserify/randombytes.git
+[submodule "ramda"]
+	path = ramda
+	url = git://github.com/ramda/ramda.git
+[submodule "querystring"]
+	path = querystring
+	url = git://github.com/Gozala/querystring.git
+[submodule "querystring-es3"]
+	path = querystring-es3
+	url = git://github.com/substack/https-browserify.git
+[submodule "qs"]
+	path = qs
+	url = https://github.com/ljharb/qs.git
+[submodule "qjobs"]
+	path = qjobs
+	url = git://github.com/franck34/qjobs.git
+[submodule "punycode"]
+	path = punycode
+	url = https://github.com/bestiejs/punycode.js.git
+[submodule "public-encrypt"]
+	path = public-encrypt
+	url = https://github.com/crypto-browserify/publicEncrypt.git
+[submodule "protocols"]
+	path = protocols
+	url = https://github.com/IonicaBizau/protocols.git
+[submodule "prompt"]
+	path = prompt
+	url = git@github.com:flatiron/prompt.git
+[submodule "process"]
+	path = process
+	url = git://github.com/shtylman/node-process.git
+[submodule "process-nextick-args"]
+	path = process-nextick-args
+	url = https://github.com/calvinmetcalf/process-nextick-args
+[submodule "pretty-remarkable"]
+	path = pretty-remarkable
+	url = https://github.com/jonschlinkert/pretty-remarkable.git
+[submodule "pretty-hrtime"]
+	path = pretty-hrtime
+	url = git://github.com/robrich/pretty-hrtime.git
+[submodule "prepend-http"]
+	path = prepend-http
+	url = https://github.com/sindresorhus/prepend-http.git
+[submodule "prelude-ls"]
+	path = prelude-ls
+	url = https://github.com/gkz/prelude-ls.git
+[submodule "pre-commit"]
+	path = pre-commit
+	url = git://github.com/observing/pre-commit.git
+[submodule "pluralize"]
+	path = pluralize
+	url = https://github.com/blakeembrey/pluralize.git
+[submodule "plugin-log"]
+	path = plugin-log
+	url = https://github.com/stevelacy/plugin-log.git
+[submodule "plugin-error"]
+	path = plugin-error
+	url = git://github.com/jonschlinkert/plugin-error.git
+[submodule "platform"]
+	path = platform
+	url = https://github.com/bestiejs/platform.js.git
+[submodule "pkg-dir"]
+	path = pkg-dir
+	url = https://github.com/sindresorhus/pkg-dir.git
+[submodule "pify"]
+	path = pify
+	url = https://github.com/sindresorhus/pify.git
+[submodule "phantomjs-prebuilt"]
+	path = phantomjs-prebuilt
+	url = git://github.com/Medium/phantomjs.git
+[submodule "phantom"]
+	path = phantom
+	url = git://github.com/amir20/phantomjs-node.git
+[submodule "performance-now"]
+	path = performance-now
+	url = https://github.com/braveg1rl/performance-now.git
+[submodule "pbkdf2"]
+	path = pbkdf2
+	url = https://github.com/crypto-browserify/pbkdf2.git
+[submodule "pathval"]
+	path = pathval
+	url = git@github.com:chaijs/pathval.git
+[submodule "path-type"]
+	path = path-type
+	url = https://github.com/sindresorhus/path-type.git
+[submodule "path-starts-with"]
+	path = path-starts-with
+	url = https://github.com/jonschlinkert/path-starts-with.git
+[submodule "path-platform"]
+	path = path-platform
+	url = http://github.com/tjfontaine/node-path-platform
+[submodule "path-parse"]
+	path = path-parse
+	url = https://github.com/jbgutierrez/path-parse
+[submodule "path-is-absolute"]
+	path = path-is-absolute
+	url = https://github.com/sindresorhus/path-is-absolute.git
+[submodule "path-exists"]
+	path = path-exists
+	url = https://github.com/isysd/tech-js-path-exists-gap-json.git
+[submodule "path-browserify"]
+	path = path-browserify
+	url = git://github.com/substack/path-browserify.git
+[submodule "parseurl"]
+	path = parseurl
+	url = https://github.com/pillarjs/parseurl
+[submodule "parse-url"]
+	path = parse-url
+	url = https://github.com/IonicaBizau/parse-url.git
+[submodule "parse-json"]
+	path = parse-json
+	url = https://github.com/sindresorhus/parse-json.git
+[submodule "parse-author"]
+	path = parse-author
+	url = https://github.com/jonschlinkert/parse-author.git
+[submodule "parse-asn1"]
+	path = parse-asn1
+	url = git://github.com/crypto-browserify/parse-asn1.git
+[submodule "parents"]
+	path = parents
+	url = git://github.com/substack/node-parents.git
+[submodule "p-timeout"]
+	path = p-timeout
+	url = https://github.com/sindresorhus/p-timeout.git
+[submodule "p-locate"]
+	path = p-locate
+	url = https://github.com/sindresorhus/p-locate.git
+[submodule "p-limit"]
+	path = p-limit
+	url = https://github.com/sindresorhus/p-limit.git
+[submodule "p-finally"]
+	path = p-finally
+	url = https://github.com/sindresorhus/p-finally.git
+[submodule "p-cancelable"]
+	path = p-cancelable
+	url = https://github.com/sindresorhus/p-cancelable.git
+[submodule "outpipe"]
+	path = outpipe
+	url = git://github.com/substack/outpipe.git
+[submodule "osenv"]
+	path = osenv
+	url = https://github.com/npm/osenv.git
+[submodule "os-tmpdir"]
+	path = os-tmpdir
+	url = https://github.com/sindresorhus/os-tmpdir.git
+[submodule "os-locale"]
+	path = os-locale
+	url = https://github.com/sindresorhus/os-locale.git
+[submodule "os-homedir"]
+	path = os-homedir
+	url = https://github.com/sindresorhus/os-homedir.git
+[submodule "os-browserify"]
+	path = os-browserify
+	url = git@github.com:CoderPuppy/os-browserify.git
+[submodule "orchestrator"]
+	path = orchestrator
+	url = git://github.com/robrich/orchestrator.git
+[submodule "optionator"]
+	path = optionator
+	url = git://github.com/gkz/optionator.git
+[submodule "optimist"]
+	path = optimist
+	url = https://github.com/isysd/tech-js-optimist-gap-json.git
+[submodule "openpgp"]
+	path = openpgp
+	url = https://github.com/openpgpjs/openpgpjs.git
+[submodule "opener"]
+	path = opener
+	url = https://github.com/domenic/opener.git
+[submodule "once"]
+	path = once
+	url = git://github.com/isaacs/once.git
+[submodule "on-finished"]
+	path = on-finished
+	url = https://github.com/jshttp/on-finished
+[submodule "octonode"]
+	path = octonode
+	url = https://github.com/pksunkara/octonode.git
+[submodule "object-assign"]
+	path = object-assign
+	url = https://github.com/sindresorhus/object-assign.git
+[submodule "oauth-sign"]
+	path = oauth-sign
+	url = https://github.com/request/oauth-sign.git
+[submodule "nyc"]
+	path = nyc
+	url = git@github.com:istanbuljs/nyc.git
+[submodule "nsp"]
+	path = nsp
+	url = git://github.com/nodesecurity/nsp.git
+[submodule "npmlog"]
+	path = npmlog
+	url = https://github.com/npm/npmlog.git
+[submodule "npm-user"]
+	path = npm-user
+	url = https://github.com/sindresorhus/npm-user.git
+[submodule "npm-run-path"]
+	path = npm-run-path
+	url = https://github.com/sindresorhus/npm-run-path.git
+[submodule "npm-license"]
+	path = npm-license
+	url = git@github.com:AceMetrix/npm-license.git
+[submodule "normalize-path"]
+	path = normalize-path
+	url = https://github.com/jonschlinkert/normalize-path.git
+[submodule "nopt"]
+	path = nopt
+	url = https://github.com/npm/nopt.git
+[submodule "nodegit"]
+	path = nodegit
+	url = git://github.com/nodegit/nodegit.git
+[submodule "node-pre-gyp"]
+	path = node-pre-gyp
+	url = git://github.com/mapbox/node-pre-gyp.git
+[submodule "node-ledger-web"]
+	path = node-ledger-web
+	url = https://github.com/slashdotdash/node-ledger-web.git
+[submodule "node-ledger-rest"]
+	path = node-ledger-rest
+	url = https://github.com/slashdotdash/node-ledger-rest.git
+[submodule "nock"]
+	path = nock
+	url = git+ssh://git@github.com/node-nock/nock.git
+[submodule "netrc"]
+	path = netrc
+	url = https://github.com/CamShaft/netrc.git
+[submodule "native-promise-only"]
+	path = native-promise-only
+	url = git://github.com/getify/native-promise-only.git
+[submodule "mustache"]
+	path = mustache
+	url = https://github.com/janl/mustache.js.git
+[submodule "multimatch"]
+	path = multimatch
+	url = https://github.com/sindresorhus/multimatch
+[submodule "ms"]
+	path = ms
+	url = https://github.com/zeit/ms.git
+[submodule "module-deps"]
+	path = module-deps
+	url = git://github.com/substack/module-deps.git
+[submodule "mock-fs"]
+	path = mock-fs
+	url = git://github.com/tschaub/mock-fs.git
+[submodule "mocha"]
+	path = mocha
+	url = https://github.com/isysd/tech-js-mocha-gap-json.git
+[submodule "mkdirp"]
+	path = mkdirp
+	url = https://github.com/isysd/tech-js-mkdirp-gap-json.git
+[submodule "mixin-deep"]
+	path = mixin-deep
+	url = https://github.com/jonschlinkert/mixin-deep.git
+[submodule "minimist"]
+	path = minimist
+	url = git://github.com/substack/minimist.git
+[submodule "minimatch"]
+	path = minimatch
+	url = https://github.com/isysd/tech-js-minimatch-gap-json.git
+[submodule "minimalistic-crypto-utils"]
+	path = minimalistic-crypto-utils
+	url = git@github.com:indutny/minimalistic-crypto-utils.git
+[submodule "minimalistic-assert"]
+	path = minimalistic-assert
+	url = https://github.com/calvinmetcalf/minimalistic-assert
+[submodule "mime"]
+	path = mime
+	url = https://github.com/isysd/tech-js-mime-gap-json.git
+[submodule "mime-types"]
+	path = mime-types
+	url = https://github.com/jshttp/mime-types.git
+[submodule "mime-db"]
+	path = mime-db
+	url = https://github.com/jshttp/mime-db.git
+[submodule "miller-rabin"]
+	path = miller-rabin
+	url = git@github.com:indutny/miller-rabin.git
+[submodule "micromatch"]
+	path = micromatch
+	url = https://github.com/micromatch/micromatch.git
+[submodule "media-typer"]
+	path = media-typer
+	url = https://github.com/jshttp/media-typer
+[submodule "markdownlint"]
+	path = markdownlint
+	url = https://github.com/DavidAnson/markdownlint.git
+[submodule "markdown"]
+	path = markdown
+	url = git://github.com/evilstreak/markdown-js.git
+[submodule "map-stream"]
+	path = map-stream
+	url = git://github.com/dominictarr/map-stream.git
+[submodule "make-dir"]
+	path = make-dir
+	url = https://github.com/sindresorhus/make-dir.git
+[submodule "lru-cache"]
+	path = lru-cache
+	url = git://github.com/isaacs/node-lru-cache.git
+[submodule "lowercase-keys"]
+	path = lowercase-keys
+	url = https://github.com/sindresorhus/lowercase-keys.git
+[submodule "log-utils"]
+	path = log-utils
+	url = https://github.com/jonschlinkert/log-utils.git
+[submodule "lodash"]
+	path = lodash
+	url = https://github.com/isysd/tech-js-lodash-gap-json.git
+[submodule "lodash.memoize"]
+	path = lodash.memoize
+	url = https://github.com/lodash/lodash.git
+[submodule "lodash-es"]
+	path = lodash-es
+	url = https://github.com/lodash/lodash.git
+[submodule "locate-path"]
+	path = locate-path
+	url = https://github.com/sindresorhus/locate-path.git
+[submodule "load-script"]
+	path = load-script
+	url = git://github.com/eldargab/load-script
+[submodule "load-json-file"]
+	path = load-json-file
+	url = https://github.com/sindresorhus/load-json-file.git
+[submodule "load-grunt-tasks"]
+	path = load-grunt-tasks
+	url = https://github.com/sindresorhus/load-grunt-tasks.git
+[submodule "linefix"]
+	path = linefix
+	url = http://github.com/jhoff/linefix
+[submodule "liftoff"]
+	path = liftoff
+	url = git://github.com/js-cli/js-liftoff.git
+[submodule "lexical-scope"]
+	path = lexical-scope
+	url = git://github.com/substack/lexical-scope.git
+[submodule "levn"]
+	path = levn
+	url = git://github.com/gkz/type-check.git
+[submodule "lerna"]
+	path = lerna
+	url = https://github.com/lerna/lerna.git
+[submodule "ledger-cli"]
+	path = ledger-cli
+	url = git@github.com:isysd/node-ledger.git
+[submodule "lazy-cache"]
+	path = lazy-cache
+	url = https://github.com/jonschlinkert/lazy-cache.git
+[submodule "labeled-stream-splicer"]
+	path = labeled-stream-splicer
+	url = git://github.com/substack/labeled-stream-splicer.git
+[submodule "kind-of"]
+	path = kind-of
+	url = https://github.com/jonschlinkert/kind-of.git
+[submodule "keybase-user"]
+	path = keybase-user
+	url = https://github.com/gamontalvo/keybase-user.git
+[submodule "kew"]
+	path = kew
+	url = https://github.com/Medium/kew.git
+[submodule "karma"]
+	path = karma
+	url = git://github.com/karma-runner/karma.git
+[submodule "karma-tap"]
+	path = karma-tap
+	url = https://github.com/bySabi/karma-tap.git
+[submodule "karma-phantomjs-launcher"]
+	path = karma-phantomjs-launcher
+	url = git://github.com/karma-runner/karma-phantomjs-launcher.git
+[submodule "karma-coverage"]
+	path = karma-coverage
+	url = git://github.com/karma-runner/karma-coverage.git
+[submodule "karma-cli"]
+	path = karma-cli
+	url = git://github.com/karma-runner/karma-cli.git
+[submodule "karma-browserify"]
+	path = karma-browserify
+	url = git+ssh://git@github.com/nikku/karma-browserify.git
+[submodule "jsx-ast-utils"]
+	path = jsx-ast-utils
+	url = https://github.com/evcohen/jsx-ast-utils.git
+[submodule "jsprime"]
+	path = jsprime
+	url = https://github.com/dpnishant/jsprime.git
+[submodule "jsprim"]
+	path = jsprim
+	url = https://github.com/joyent/node-jsprim.git
+[submodule "jsonparse"]
+	path = jsonparse
+	url = git@github.com:creationix/jsonparse.git
+[submodule "jsonify"]
+	path = jsonify
+	url = git://github.com/substack/jsonify.git
+[submodule "jsonfile"]
+	path = jsonfile
+	url = https://github.com/jprichardson/node-jsonfile.git
+[submodule "json3"]
+	path = json3
+	url = https://github.com/isysd/tech-js-json-3-gap-json.git
+[submodule "json-stringify-safe"]
+	path = json-stringify-safe
+	url = https://github.com/isaacs/json-stringify-safe.git
+[submodule "json-stable-stringify"]
+	path = json-stable-stringify
+	url = git://github.com/substack/json-stable-stringify.git
+[submodule "json-schema"]
+	path = json-schema
+	url = git@github.com:kriszyp/json-schema.git
+[submodule "json-schema-traverse"]
+	path = json-schema-traverse
+	url = https://github.com/epoberezkin/json-schema-traverse.git
+[submodule "json-diff"]
+	path = json-diff
+	url = git@github.com:andreyvit/json-diff.git
+[submodule "jshint"]
+	path = jshint
+	url = https://github.com/isysd/tech-js-jshint-gap-json.git
+[submodule "jshint-stylish"]
+	path = jshint-stylish
+	url = https://github.com/isysd/tech-js-jshint-stylish-gap-json.git
+[submodule "jsdoc-to-markdown"]
+	path = jsdoc-to-markdown
+	url = https://github.com/isysd/tech-js-jsdoc-to-markdown-gap-json.git
+[submodule "js-yaml"]
+	path = js-yaml
+	url = https://github.com/isysd/tech-js-js-yaml-gap-json.git
+[submodule "js-tokens"]
+	path = js-tokens
+	url = https://github.com/lydell/js-tokens.git
+[submodule "jquery-ui"]
+	path = jquery-ui
+	url = git://github.com/jquery/jquery-ui.git
+[submodule "jest"]
+	path = jest
+	url = https://github.com/facebook/jest.git
+[submodule "isurl"]
+	path = isurl
+	url = https://github.com/stevenvachon/isurl.git
+[submodule "istanbul"]
+	path = istanbul
+	url = https://github.com/isysd/tech-js-istanbul-gap-json.git
+[submodule "istanbul-threshold-checker"]
+	path = istanbul-threshold-checker
+	url = https://github.com/peterjwest/istanbul-threshold-checker.git
+[submodule "istanbul-middleware"]
+	path = istanbul-middleware
+	url = git@github.com:gotwarlost/istanbul-middleware.git
+[submodule "isstream"]
+	path = isstream
+	url = https://github.com/rvagg/isstream.git
+[submodule "isexe"]
+	path = isexe
+	url = https://github.com/isaacs/isexe.git
+[submodule "isbinaryfile"]
+	path = isbinaryfile
+	url = https://github.com/isysd/tech-js-isbinaryfile-gap-json.git
+[submodule "isarray"]
+	path = isarray
+	url = git://github.com/juliangruber/isarray.git
+[submodule "is-windows"]
+	path = is-windows
+	url = https://github.com/jonschlinkert/is-windows.git
+[submodule "is-typedarray"]
+	path = is-typedarray
+	url = https://github.com/hughsk/is-typedarray.git
+[submodule "is-stream"]
+	path = is-stream
+	url = https://github.com/sindresorhus/is-stream.git
+[submodule "is-ssh"]
+	path = is-ssh
+	url = https://github.com/IonicaBizau/is-ssh.git
+[submodule "is-retry-allowed"]
+	path = is-retry-allowed
+	url = https://github.com/floatdrop/is-retry-allowed.git
+[submodule "is-plain-obj"]
+	path = is-plain-obj
+	url = https://github.com/sindresorhus/is-plain-obj
+[submodule "is-object"]
+	path = is-object
+	url = https://github.com/ljharb/is-object.git
+[submodule "is-mergeable-object"]
+	path = is-mergeable-object
+	url = git+ssh://git@github.com/TehShrike/is-mergeable-object.git
+[submodule "is-glob"]
+	path = is-glob
+	url = https://github.com/jonschlinkert/is-glob.git
+[submodule "is-extendable"]
+	path = is-extendable
+	url = https://github.com/jonschlinkert/is-extendable.git
+[submodule "is-buffer"]
+	path = is-buffer
+	url = git://github.com/feross/is-buffer.git
+[submodule "is-binary-path"]
+	path = is-binary-path
+	url = https://github.com/sindresorhus/is-binary-path.git
+[submodule "is-arrayish"]
+	path = is-arrayish
+	url = https://github.com/Qix-/node-is-arrayish.git
+[submodule "invariant"]
+	path = invariant
+	url = https://github.com/zertosh/invariant.git
+[submodule "interpret"]
+	path = interpret
+	url = git://github.com/tkellen/node-interpret.git
+[submodule "insert-module-globals"]
+	path = insert-module-globals
+	url = git://github.com/substack/insert-module-globals.git
+[submodule "inquirer"]
+	path = inquirer
+	url = https://github.com/SBoudrias/Inquirer.js.git
+[submodule "inline-source-map"]
+	path = inline-source-map
+	url = git://github.com/thlorenz/inline-source-map.git
+[submodule "ini"]
+	path = ini
+	url = https://github.com/isysd/tech-js-ini-gap-json.git
+[submodule "inherits"]
+	path = inherits
+	url = git://github.com/isaacs/inherits.git
+[submodule "inflight"]
+	path = inflight
+	url = https://github.com/npm/inflight.git
+[submodule "inflection"]
+	path = inflection
+	url = https://github.com/dreamerslab/node.inflection.git
+[submodule "in-publish"]
+	path = in-publish
+	url = https://github.com/iarna/in-publish.git
+[submodule "ignore"]
+	path = ignore
+	url = git@github.com:kaelzhang/node-ignore.git
+[submodule "iftype"]
+	path = iftype
+	url = https://github.com/okunishinishi/node-iftype.git
+[submodule "ieee754"]
+	path = ieee754
+	url = git://github.com/feross/ieee754.git
+[submodule "iconv-lite"]
+	path = iconv-lite
+	url = git://github.com/ashtuchkin/iconv-lite.git
+[submodule "hyperquest"]
+	path = hyperquest
+	url = git://github.com/substack/hyperquest.git
+[submodule "husky"]
+	path = husky
+	url = git://github.com/typicode/husky.git
+[submodule "humanize-duration"]
+	path = humanize-duration
+	url = git://github.com/EvanHahn/HumanizeDuration.js.git
+[submodule "https-proxy-agent"]
+	path = https-proxy-agent
+	url = git://github.com/TooTallNate/node-https-proxy-agent.git
+[submodule "https-browserify"]
+	path = https-browserify
+	url = git://github.com/substack/https-browserify.git
+[submodule "http2"]
+	path = http2
+	url = https://github.com/molnarg/node-http2.git
+[submodule "http-signature"]
+	path = http-signature
+	url = https://github.com/joyent/node-http-signature.git
+[submodule "http-server"]
+	path = http-server
+	url = git://github.com/indexzero/http-server.git
+[submodule "http-proxy"]
+	path = http-proxy
+	url = https://github.com/nodejitsu/node-http-proxy.git
+[submodule "http-errors"]
+	path = http-errors
+	url = https://github.com/jshttp/http-errors.git
+[submodule "htmlparser2"]
+	path = htmlparser2
+	url = https://github.com/fb55/htmlparser2.git
+[submodule "htmlescape"]
+	path = htmlescape
+	url = git://github.com/zertosh/htmlescape.git
+[submodule "hoek"]
+	path = hoek
+	url = https://github.com/hapijs/hoek.git
+[submodule "hmac-drbg"]
+	path = hmac-drbg
+	url = git@github.com:indutny/hmac-drbg.git
+[submodule "hkp-client"]
+	path = hkp-client
+	url = https://github.com/freewil/node-hkp-client.git
+[submodule "highlight.js"]
+	path = highlight.js
+	url = git://github.com/isagalaev/highlight.js.git
+[submodule "hbs"]
+	path = hbs
+	url = git://github.com/pillarjs/hbs.git
+[submodule "hawk"]
+	path = hawk
+	url = https://github.com/hueniverse/hawk.git
+[submodule "hashish"]
+	path = hashish
+	url = git://github.com/substack/node-hashish.git
+[submodule "hash.js"]
+	path = hash.js
+	url = git@github.com:indutny/hash.js.git
+[submodule "hash-test-vectors"]
+	path = hash-test-vectors
+	url = git://github.com/crypto-browserify/hash-test-vectors.git
+[submodule "hash-base"]
+	path = hash-base
+	url = https://github.com/crypto-browserify/hash-base.git
+[submodule "hasbin"]
+	path = hasbin
+	url = https://github.com/springernature/hasbin.git
+[submodule "has"]
+	path = has
+	url = git://github.com/tarruda/has.git
+[submodule "has-values"]
+	path = has-values
+	url = https://github.com/jonschlinkert/has-values.git
+[submodule "has-to-string-tag-x"]
+	path = has-to-string-tag-x
+	url = https://github.com/Xotic750/has-to-string-tag-x.git
+[submodule "has-symbol-support-x"]
+	path = has-symbol-support-x
+	url = https://github.com/Xotic750/has-symbol-support-x.git
+[submodule "has-flag"]
+	path = has-flag
+	url = https://github.com/sindresorhus/has-flag.git
+[submodule "handlebars"]
+	path = handlebars
+	url = https://github.com/wycats/handlebars.js.git
+[submodule "gulplog"]
+	path = gulplog
+	url = https://github.com/gulpjs/gulplog.git
+[submodule "gulp"]
+	path = gulp
+	url = https://github.com/isysd/tech-js-gulp-gap-json.git
+[submodule "gulp-watch"]
+	path = gulp-watch
+	url = git://github.com/floatdrop/gulp-watch.git
+[submodule "gulp-util"]
+	path = gulp-util
+	url = https://github.com/gulpjs/gulp-util.git
+[submodule "gulp-unused"]
+	path = gulp-unused
+	url = https://github.com/jonschlinkert/gulp-unused.git
+[submodule "gulp-uglify"]
+	path = gulp-uglify
+	url = https://github.com/isysd/tech-js-gulp-uglify-gap-json.git
+[submodule "gulp-tag-version"]
+	path = gulp-tag-version
+	url = git@github.com:ikari-pl/gulp-tag-version.git
+[submodule "gulp-plumber"]
+	path = gulp-plumber
+	url = https://github.com/isysd/tech-js-gulp-plumber-gap-json.git
+[submodule "gulp-newer"]
+	path = gulp-newer
+	url = git://github.com/tschaub/gulp-newer.git
+[submodule "gulp-mocha"]
+	path = gulp-mocha
+	url = https://github.com/sindresorhus/gulp-mocha.git
+[submodule "gulp-istanbul"]
+	path = gulp-istanbul
+	url = git://github.com/SBoudrias/gulp-istanbul.git
+[submodule "gulp-git"]
+	path = gulp-git
+	url = git@github.com:stevelacy/gulp-git.git
+[submodule "gulp-format-md"]
+	path = gulp-format-md
+	url = https://github.com/jonschlinkert/gulp-format-md.git
+[submodule "gulp-filter"]
+	path = gulp-filter
+	url = https://github.com/sindresorhus/gulp-filter.git
+[submodule "gulp-eslint"]
+	path = gulp-eslint
+	url = https://github.com/adametry/gulp-eslint.git
+[submodule "gulp-concat"]
+	path = gulp-concat
+	url = https://github.com/isysd/tech-js-gulp-concat-gap-json.git
+[submodule "gulp-bump"]
+	path = gulp-bump
+	url = https://github.com/isysd/tech-js-gulp-bump-gap-json.git
+[submodule "gulp-babel"]
+	path = gulp-babel
+	url = https://github.com/isysd/tech-js-gulp-babel-gap-json.git
+[submodule "guld-vrcave"]
+	path = guld-vrcave
+	url = git@github.com:isysd/guld-vrcave.git
+[submodule "guld-import"]
+	path = guld-import
+	url = git@github.com:isysd/guld-import.git
+[submodule "guld-browser"]
+	path = guld-browser
+	url = https://github.com/isysd/guld-browser.git
+[submodule "grunt"]
+	path = grunt
+	url = https://github.com/gruntjs/grunt.git
+[submodule "grunt-svgmin"]
+	path = grunt-svgmin
+	url = https://github.com/sindresorhus/grunt-svgmin.git
+[submodule "grunt-legacy-util"]
+	path = grunt-legacy-util
+	url = git://github.com/gruntjs/grunt-legacy-util.git
+[submodule "grunt-legacy-log"]
+	path = grunt-legacy-log
+	url = git://github.com/gruntjs/grunt-legacy-log.git
+[submodule "grunt-known-options"]
+	path = grunt-known-options
+	url = https://github.com/gruntjs/grunt-known-options.git
+[submodule "grunt-cli"]
+	path = grunt-cli
+	url = https://github.com/gruntjs/grunt-cli.git
+[submodule "graceful-readlink"]
+	path = graceful-readlink
+	url = git://github.com/zhiyelee/graceful-readlink.git
+[submodule "graceful-fs"]
+	path = graceful-fs
+	url = https://github.com/isaacs/node-graceful-fs.git
+[submodule "got"]
+	path = got
+	url = https://github.com/sindresorhus/got.git
+[submodule "globs-to-files"]
+	path = globs-to-files
+	url = http://github.com/chinedufn/globs-to-files
+[submodule "globals"]
+	path = globals
+	url = https://github.com/sindresorhus/globals.git
+[submodule "glob"]
+	path = glob
+	url = https://github.com/isysd/tech-js-glob-gap-json.git
+[submodule "glob-promise"]
+	path = glob-promise
+	url = https://github.com/ahmadnassri/glob-promise.git
+[submodule "glob-parent"]
+	path = glob-parent
+	url = https://github.com/es128/glob-parent.git
+[submodule "github"]
+	path = github
+	url = https://github.com/mikedeboer/node-github.git
+[submodule "github-username"]
+	path = github-username
+	url = https://github.com/sindresorhus/github-username.git
+[submodule "github-api"]
+	path = github-api
+	url = git://github.com/github-tools/github.git
+[submodule "git-url-parse"]
+	path = git-url-parse
+	url = https://github.com/IonicaBizau/git-url-parse.git
+[submodule "git-up"]
+	path = git-up
+	url = https://github.com/IonicaBizau/git-up.git
+[submodule "git-source"]
+	path = git-source
+	url = https://github.com/IonicaBizau/git-source.git
+[submodule "gh-user"]
+	path = gh-user
+	url = https://github.com/sindresorhus/gh-user.git
+[submodule "gh-pages-deploy"]
+	path = gh-pages-deploy
+	url = https://github.com/meandavejustice/gh-pages-deploy.git
+[submodule "get-stream"]
+	path = get-stream
+	url = https://github.com/sindresorhus/get-stream.git
+[submodule "get-port"]
+	path = get-port
+	url = https://github.com/sindresorhus/get-port.git
+[submodule "get-func-name"]
+	path = get-func-name
+	url = git@github.com:chaijs/get-func-name.git
+[submodule "get-caller-file"]
+	path = get-caller-file
+	url = https://github.com/stefanpenner/get-caller-file.git
+[submodule "gasket"]
+	path = gasket
+	url = https://github.com/datproject/gasket
+[submodule "gapp"]
+	path = gapp
+	url = https://github.com/isysd/gapp.git
+[submodule "gapp-tech-js"]
+	path = gapp-tech-js
+	url = git@github.com:isysd/gapp-tech-js.git
+[submodule "gapp-panafintech"]
+	path = gapp-panafintech
+	url = git@github.com:isysd/gapp-panafintech.git
+[submodule "gapp-npm"]
+	path = gapp-npm
+	url = git@github.com:isysd/gapp-npm.git
+[submodule "gapp-mit"]
+	path = gapp-mit
+	url = git@github.com:isysd/gapp-mit.git
+[submodule "gapp-markdown"]
+	path = gapp-markdown
+	url = git@github.com:isysd/gapp-markdown.git
+[submodule "gapp-life"]
+	path = gapp-life
+	url = https://github.com/isysd/gapp-life.git
+[submodule "gapp-keys-pgp"]
+	path = gapp-keys-pgp
+	url = git@github.com:isysd/gapp-keys-pgp.git
+[submodule "gapp-keybase"]
+	path = gapp-keybase
+	url = git@github.com:isysd/gapp-keybase.git
+[submodule "gapp-image"]
+	path = gapp-image
+	url = git@github.com:isysd/gapp-image.git
+[submodule "gapp-github"]
+	path = gapp-github
+	url = git@github.com:isysd/gapp-github.git
+[submodule "gapp-community"]
+	path = gapp-community
+	url = git@github.com:isysd/gapp-community.git
+[submodule "gapp-address-bar"]
+	path = gapp-address-bar
+	url = git@github.com:isysd/gapp-address-bar.git
+[submodule "function-bind"]
+	path = function-bind
+	url = git://github.com/Raynos/function-bind.git
+[submodule "fsevents"]
+	path = fsevents
+	url = https://github.com/strongloop/fsevents.git
+[submodule "fs.realpath"]
+	path = fs.realpath
+	url = https://github.com/isaacs/fs.realpath.git
+[submodule "form-data"]
+	path = form-data
+	url = https://github.com/form-data/form-data.git
+[submodule "forever-agent"]
+	path = forever-agent
+	url = https://github.com/request/forever-agent.git
+[submodule "for-own"]
+	path = for-own
+	url = https://github.com/jonschlinkert/for-own.git
+[submodule "firefox-profile"]
+	path = firefox-profile
+	url = git://github.com/saadtazi/firefox-profile-js.git
+[submodule "findup-sync"]
+	path = findup-sync
+	url = https://github.com/cowboy/node-findup-sync.git
+[submodule "findout"]
+	path = findout
+	url = https://github.com/okunishinishi/node-findout.git
+[submodule "find-up"]
+	path = find-up
+	url = https://github.com/isysd/tech-js-find-up-gap-json.git
+[submodule "find-nearest-file"]
+	path = find-nearest-file
+	url = git@github.com:bengourley/find-nearest-file.git
+[submodule "find-cache-dir"]
+	path = find-cache-dir
+	url = https://github.com/avajs/find-cache-dir.git
+[submodule "file-reader"]
+	path = file-reader
+	url = https://github.com/jonschlinkert/file-reader.git
+[submodule "faucet"]
+	path = faucet
+	url = git://github.com/substack/faucet.git
+[submodule "fast-url-parser"]
+	path = fast-url-parser
+	url = git://github.com/petkaantonov/urlparser.git
+[submodule "fast-levenshtein"]
+	path = fast-levenshtein
+	url = https://github.com/hiddentao/fast-levenshtein.git
+[submodule "fast-deep-equal"]
+	path = fast-deep-equal
+	url = https://github.com/epoberezkin/fast-deep-equal.git
+[submodule "fancytree"]
+	path = fancytree
+	url = https://github.com/mar10/fancytree.git
+[submodule "extsprintf"]
+	path = extsprintf
+	url = https://github.com/davepacheco/node-extsprintf.git
+[submodule "extract-zip"]
+	path = extract-zip
+	url = https://github.com/isysd/tech-js-extract-zip-gap-json.git
+[submodule "extend"]
+	path = extend
+	url = https://github.com/justmoon/node-extend.git
+[submodule "extend-shallow"]
+	path = extend-shallow
+	url = https://github.com/jonschlinkert/extend-shallow.git
+[submodule "express"]
+	path = express
+	url = https://github.com/expressjs/express.git
+[submodule "express-state"]
+	path = express-state
+	url = git://github.com/yahoo/express-state.git
+[submodule "expand-braces"]
+	path = expand-braces
+	url = https://github.com/jonschlinkert/expand-braces.git
+[submodule "exit"]
+	path = exit
+	url = git://github.com/cowboy/node-exit.git
+[submodule "execcli"]
+	path = execcli
+	url = https://github.com/okunishinishi/node-execcli.git
+[submodule "execa"]
+	path = execa
+	url = https://github.com/sindresorhus/execa.git
+[submodule "evp_bytestokey"]
+	path = evp_bytestokey
+	url = https://github.com/crypto-browserify/EVP_BytesToKey.git
+[submodule "events"]
+	path = events
+	url = https://github.com/deoxxa/duplexer2.git
+[submodule "eventemitter3"]
+	path = eventemitter3
+	url = git://github.com/primus/eventemitter3.git
+[submodule "eventemitter2"]
+	path = eventemitter2
+	url = git://github.com/hij1nx/EventEmitter2.git
+[submodule "esutils"]
+	path = esutils
+	url = http://github.com/estools/esutils
+[submodule "estraverse"]
+	path = estraverse
+	url = git@github.com:estools/estraverse.git
+[submodule "esrecurse"]
+	path = esrecurse
+	url = https://github.com/estools/esrecurse.git
+[submodule "esprima"]
+	path = esprima
+	url = https://github.com/jquery/esprima.git
+[submodule "espree"]
+	path = espree
+	url = https://github.com/eslint/espree.git
+[submodule "eslint"]
+	path = eslint
+	url = https://github.com/eslint/eslint.git
+[submodule "eslint-scope"]
+	path = eslint-scope
+	url = https://github.com/eslint/eslint-scope.git
+[submodule "eslint-release"]
+	path = eslint-release
+	url = https://github.com/eslint/eslint-release.git
+[submodule "eslint-plugin-standard"]
+	path = eslint-plugin-standard
+	url = https://github.com/xjamundx/eslint-plugin-standard.git
+[submodule "eslint-plugin-react"]
+	path = eslint-plugin-react
+	url = https://github.com/yannickcr/eslint-plugin-react.git
+[submodule "eslint-plugin-promise"]
+	path = eslint-plugin-promise
+	url = git@github.com:xjamundx/eslint-plugin-promise.git
+[submodule "eslint-plugin-node"]
+	path = eslint-plugin-node
+	url = https://github.com/mysticatea/eslint-plugin-node.git
+[submodule "eslint-plugin-mysticatea"]
+	path = eslint-plugin-mysticatea
+	url = https://github.com/mysticatea/eslint-plugin.git
+[submodule "eslint-plugin-mocha"]
+	path = eslint-plugin-mocha
+	url = git://github.com/lo1tuma/eslint-plugin-mocha.git
+[submodule "eslint-plugin-markdown"]
+	path = eslint-plugin-markdown
+	url = https://github.com/eslint/eslint-plugin-markdown.git
+[submodule "eslint-plugin-import"]
+	path = eslint-plugin-import
+	url = https://github.com/benmosher/eslint-plugin-import.git
+[submodule "eslint-plugin-eslint-plugin"]
+	path = eslint-plugin-eslint-plugin
+	url = https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin.git
+[submodule "eslint-plugin-eslint-comments"]
+	path = eslint-plugin-eslint-comments
+	url = https://github.com/mysticatea/eslint-plugin-eslint-comments.git
+[submodule "eslint-module-utils"]
+	path = eslint-module-utils
+	url = https://github.com/benmosher/eslint-plugin-import.git
+[submodule "eslint-index"]
+	path = eslint-index
+	url = git@github.com:wagerfield/eslint-index.git
+[submodule "eslint-import-resolver-node"]
+	path = eslint-import-resolver-node
+	url = https://github.com/eslint/doctrine.git
+[submodule "eslint-config-standard"]
+	path = eslint-config-standard
+	url = git://github.com/feross/eslint-config-standard.git
+[submodule "eslint-config-standard-jsx"]
+	path = eslint-config-standard-jsx
+	url = git://github.com/feross/eslint-config-standard-jsx.git
+[submodule "eslint-config-sinon"]
+	path = eslint-config-sinon
+	url = git@github.com:sinonjs/eslint-config-sinon.git
+[submodule "eslint-config-shouldjs"]
+	path = eslint-config-shouldjs
+	url = https://github.com/shouldjs/eslint-config-shouldjs.git
+[submodule "eslint-config-mysticatea"]
+	path = eslint-config-mysticatea
+	url = https://github.com/mysticatea/eslint-config.git
+[submodule "eslint-config-eslint"]
+	path = eslint-config-eslint
+	url = https://github.com/eslint/eslint.git
+[submodule "escodegen"]
+	path = escodegen
+	url = git@github.com:estools/escodegen.git
+[submodule "escape-string-regexp"]
+	path = escape-string-regexp
+	url = https://github.com/isysd/tech-js-escape-string-regexp-gap-json.git
+[submodule "es6ify"]
+	path = es6ify
+	url = https://github.com/thlorenz/es6ify
+[submodule "es6-set"]
+	path = es6-set
+	url = git://github.com/medikoo/es6-set.git
+[submodule "es6-promise"]
+	path = es6-promise
+	url = git://github.com/stefanpenner/es6-promise.git
+[submodule "error-ex"]
+	path = error-ex
+	url = https://github.com/Qix-/node-error-ex.git
+[submodule "ent"]
+	path = ent
+	url = https://github.com/substack/node-ent
+[submodule "elliptic"]
+	path = elliptic
+	url = git@github.com:indutny/elliptic.git
+[submodule "electron"]
+	path = electron
+	url = https://github.com/isysd/tech-js-electron-gap-json.git
+[submodule "electron-tabs"]
+	path = electron-tabs
+	url = https://github.com/brrd/electron-tabs.git
+[submodule "electron-sample-apps"]
+	path = electron-sample-apps
+	url = https://github.com/hokein/electron-sample-apps.git
+[submodule "electron-prebuilt"]
+	path = electron-prebuilt
+	url = https://github.com/electron-userland/electron-prebuilt.git
+[submodule "electron-download"]
+	path = electron-download
+	url = https://github.com/isysd/tech-js-electron-download-gap-json.git
+[submodule "electron-dl"]
+	path = electron-dl
+	url = https://github.com/sindresorhus/electron-dl.git
+[submodule "electron-context-menu"]
+	path = electron-context-menu
+	url = https://github.com/isysd/tech-js-electron-context-menu-gap-json.git
+[submodule "electron-builder"]
+	path = electron-builder
+	url = https://github.com/isysd/tech-js-electron-builder-gap-json.git
+[submodule "ejs"]
+	path = ejs
+	url = https://github.com/isysd/tech-js-ejs-gap-json.git
+[submodule "ee-first"]
+	path = ee-first
+	url = https://github.com/jonathanong/ee-first
+[submodule "duplexer3"]
+	path = duplexer3
+	url = https://github.com/floatdrop/duplexer3
+[submodule "duplexer2"]
+	path = duplexer2
+	url = https://github.com/deoxxa/duplexer2.git
+[submodule "duplexer"]
+	path = duplexer
+	url = git://github.com/Raynos/duplexer.git
+[submodule "dragula"]
+	path = dragula
+	url = https://github.com/bevacqua/dragula.git
+[submodule "domelementtype"]
+	path = domelementtype
+	url = https://github.com/fb55/domelementtype.git
+[submodule "domain-browser"]
+	path = domain-browser
+	url = git://github.com/substack/defined.git
+[submodule "dom-serializer"]
+	path = dom-serializer
+	url = https://github.com/cheeriojs/dom-serializer.git
+[submodule "dom-serialize"]
+	path = dom-serialize
+	url = git://github.com/webmodules/dom-serialize.git
+[submodule "documentation"]
+	path = documentation
+	url = https://github.com/documentationjs/documentation.git
+[submodule "docco"]
+	path = docco
+	url = https://github.com/jashkenas/docco.git
+[submodule "diffie-hellman"]
+	path = diffie-hellman
+	url = https://github.com/crypto-browserify/diffie-hellman.git
+[submodule "diff"]
+	path = diff
+	url = https://github.com/isysd/tech-js-diff-gap-json.git
+[submodule "di"]
+	path = di
+	url = git://github.com/vojtajina/node-di.git
+[submodule "detective"]
+	path = detective
+	url = git://github.com/substack/node-detective.git
+[submodule "des.js"]
+	path = des.js
+	url = git@github.com:indutny/des.js.git
+[submodule "deps-sort"]
+	path = deps-sort
+	url = git://github.com/substack/deps-sort.git
+[submodule "deprecated"]
+	path = deprecated
+	url = git://github.com/wearefractal/deprecated.git
+[submodule "depd"]
+	path = depd
+	url = https://github.com/dougwilson/nodejs-depd
+[submodule "delayed-stream"]
+	path = delayed-stream
+	url = https://github.com/felixge/node-delayed-stream.git
+[submodule "del"]
+	path = del
+	url = https://github.com/isysd/tech-js-del-gap-json.git
+[submodule "defined"]
+	path = defined
+	url = git://github.com/Raynos/console-browserify.git
+[submodule "define-property"]
+	path = define-property
+	url = https://github.com/jonschlinkert/define-property.git
+[submodule "deepmerge"]
+	path = deepmerge
+	url = https://github.com/KyleAMathews/deepmerge.git
+[submodule "deep-is"]
+	path = deep-is
+	url = http://github.com/thlorenz/deep-is
+[submodule "deep-extend"]
+	path = deep-extend
+	url = https://github.com/unclechu/node-deep-extend.git
+[submodule "deep-equal"]
+	path = deep-equal
+	url = git+ssh://git@github.com/substack/node-deep-equal.git
+[submodule "deep-eql"]
+	path = deep-eql
+	url = git@github.com:chaijs/deep-eql.git
+[submodule "decompress-response"]
+	path = decompress-response
+	url = https://github.com/sindresorhus/decompress-response.git
+[submodule "decamelize"]
+	path = decamelize
+	url = https://github.com/sindresorhus/decamelize.git
+[submodule "debug"]
+	path = debug
+	url = https://github.com/isysd/tech-js-debug-gap-json.git
+[submodule "dateformat"]
+	path = dateformat
+	url = https://github.com/felixge/node-dateformat.git
+[submodule "date-now"]
+	path = date-now
+	url = git://github.com/Raynos/date-now.git
+[submodule "date-fns"]
+	path = date-fns
+	url = https://github.com/date-fns/date-fns.git
+[submodule "dargs"]
+	path = dargs
+	url = https://github.com/sindresorhus/dargs.git
+[submodule "custom-event"]
+	path = custom-event
+	url = git://github.com/webmodules/custom-event.git
+[submodule "csv-parse"]
+	path = csv-parse
+	url = http://www.github.com/wdavidw/node-csv-parse
+[submodule "crypto-browserify"]
+	path = crypto-browserify
+	url = git://github.com/crypto-browserify/crypto-browserify.git
+[submodule "cryptiles"]
+	path = cryptiles
+	url = https://github.com/hapijs/cryptiles.git
+[submodule "cross-env"]
+	path = cross-env
+	url = https://github.com/kentcdodds/cross-env.git
+[submodule "create-hmac"]
+	path = create-hmac
+	url = https://github.com/crypto-browserify/createHmac.git
+[submodule "create-hash"]
+	path = create-hash
+	url = git@github.com:crypto-browserify/createHash.git
+[submodule "create-ecdh"]
+	path = create-ecdh
+	url = https://github.com/crypto-browserify/createECDH.git
+[submodule "covert"]
+	path = covert
+	url = git://github.com/substack/covert.git
+[submodule "coveralls"]
+	path = coveralls
+	url = git://github.com/nickmerwin/node-coveralls.git
+[submodule "core-util-is"]
+	path = core-util-is
+	url = git://github.com/isaacs/core-util-is.git
+[submodule "core-js"]
+	path = core-js
+	url = https://github.com/zloirock/core-js.git
+[submodule "convert-source-map"]
+	path = convert-source-map
+	url = https://github.com/isysd/tech-js-convert-source-map-gap-json.git
+[submodule "contra"]
+	path = contra
+	url = git://github.com/bevacqua/contra.git
+[submodule "content-type"]
+	path = content-type
+	url = https://github.com/jshttp/content-type.git
+[submodule "contains-path"]
+	path = contains-path
+	url = https://github.com/jonschlinkert/contains-path.git
+[submodule "constants-browserify"]
+	path = constants-browserify
+	url = git://github.com/juliangruber/constants-browserify.git
+[submodule "console-control-strings"]
+	path = console-control-strings
+	url = https://github.com/iarna/console-control-strings.git
+[submodule "console-browserify"]
+	path = console-browserify
+	url = git://github.com/Raynos/console-browserify.git
+[submodule "concurrently"]
+	path = concurrently
+	url = https://github.com/kimmobrunfeldt/concurrently.git
+[submodule "concat-with-sourcemaps"]
+	path = concat-with-sourcemaps
+	url = git://github.com/floridoo/concat-with-sourcemaps.git
+[submodule "concat-stream"]
+	path = concat-stream
+	url = http://github.com/maxogden/concat-stream
+[submodule "concat-map"]
+	path = concat-map
+	url = https://github.com/substack/node-concat-map.git
+[submodule "compression"]
+	path = compression
+	url = https://github.com/expressjs/compression.git
+[submodule "component"]
+	path = component
+	url = https://github.com/componentjs/component
+[submodule "component-watcher"]
+	path = component-watcher
+	url = https://github.com/component/watcher.js
+[submodule "component-updater"]
+	path = component-updater
+	url = https://github.com/component/update.js
+[submodule "component-search2"]
+	path = component-search2
+	url = https://github.com/component/search.js
+[submodule "component-resolver"]
+	path = component-resolver
+	url = https://github.com/component/resolver.js
+[submodule "component-remotes"]
+	path = component-remotes
+	url = https://github.com/component/remotes.js
+[submodule "component-pin"]
+	path = component-pin
+	url = https://github.com/component/pin.js
+[submodule "component-outdated2"]
+	path = component-outdated2
+	url = https://github.com/component/outdated.js
+[submodule "component-ls"]
+	path = component-ls
+	url = https://github.com/component/ls.js
+[submodule "component-flatten"]
+	path = component-flatten
+	url = https://github.com/component/flatten.js
+[submodule "component-consoler"]
+	path = component-consoler
+	url = https://github.com/component/console.js
+[submodule "component-build"]
+	path = component-build
+	url = git://github.com/component/build.js
+[submodule "commondir"]
+	path = commondir
+	url = http://github.com/substack/node-commondir
+[submodule "commander"]
+	path = commander
+	url = https://github.com/isysd/tech-js-commander-gap-json.git
+[submodule "combined-stream"]
+	path = combined-stream
+	url = https://github.com/felixge/node-combined-stream.git
+[submodule "combine-source-map"]
+	path = combine-source-map
+	url = git://github.com/thlorenz/combine-source-map.git
+[submodule "combine-lists"]
+	path = combine-lists
+	url = https://github.com/sjelin/combine-lists.git
+[submodule "colors"]
+	path = colors
+	url = http://github.com/Marak/colors.js
+[submodule "color-support"]
+	path = color-support
+	url = https://github.com/isaacs/color-support.git
+[submodule "color-name"]
+	path = color-name
+	url = git+ssh://git@github.com/dfcreative/color-name.git
+[submodule "color-convert"]
+	path = color-convert
+	url = https://github.com/qix-/color-convert.git
+[submodule "coffee-script"]
+	path = coffee-script
+	url = https://github.com/isysd/tech-js-coffee-script-gap-json.git
+[submodule "codecov"]
+	path = codecov
+	url = https://github.com/codecov/codecov-node.git
+[submodule "co"]
+	path = co
+	url = https://github.com/isysd/tech-js-co-gap-json.git
+[submodule "cloneable-readable"]
+	path = cloneable-readable
+	url = https://github.com/mcollina/cloneable-readable.git
+[submodule "clone"]
+	path = clone
+	url = git://github.com/pvorb/node-clone.git
+[submodule "clone-stats"]
+	path = clone-stats
+	url = git://github.com/hughsk/clone-stats.git
+[submodule "clone-buffer"]
+	path = clone-buffer
+	url = https://github.com/gulpjs/clone-buffer.git
+[submodule "cliui"]
+	path = cliui
+	url = git@github.com:yargs/cliui.git
+[submodule "cli-table2"]
+	path = cli-table2
+	url = https://github.com/jamestalmage/cli-table2.git
+[submodule "cli-color"]
+	path = cli-color
+	url = git://github.com/medikoo/cli-color.git
+[submodule "clean-css"]
+	path = clean-css
+	url = https://github.com/jakubpawlowicz/clean-css.git
+[submodule "cipher-base"]
+	path = cipher-base
+	url = https://github.com/crypto-browserify/cipher-base.git
+[submodule "chokidar"]
+	path = chokidar
+	url = https://github.com/paulmillr/chokidar.git
+[submodule "cheerio"]
+	path = cheerio
+	url = https://github.com/cheeriojs/cheerio.git
+[submodule "check-error"]
+	path = check-error
+	url = git@github.com:chaijs/check-error.git
+[submodule "char-split"]
+	path = char-split
+	url = git://github.com/marcello3d/node-char-split.git
+[submodule "chalk"]
+	path = chalk
+	url = https://github.com/isysd/tech-js-chalk-gap-json.git
+[submodule "chai"]
+	path = chai
+	url = https://github.com/chaijs/chai.git
+[submodule "caseless"]
+	path = caseless
+	url = https://github.com/request/caseless.git
+[submodule "camelcase"]
+	path = camelcase
+	url = https://github.com/sindresorhus/camelcase.git
+[submodule "caching-transform"]
+	path = caching-transform
+	url = https://github.com/jamestalmage/caching-transform.git
+[submodule "cached-path-relative"]
+	path = cached-path-relative
+	url = git://github.com/ashaffer/cached-path-relative.git
+[submodule "bytes"]
+	path = bytes
+	url = https://github.com/visionmedia/bytes.js.git
+[submodule "bump-regex"]
+	path = bump-regex
+	url = https://github.com/stevelacy/bump-regex.git
+[submodule "builtin-modules"]
+	path = builtin-modules
+	url = https://github.com/sindresorhus/builtin-modules.git
+[submodule "buffer"]
+	path = buffer
+	url = git://github.com/feross/buffer.git
+[submodule "buffer-xor"]
+	path = buffer-xor
+	url = https://github.com/crypto-browserify/buffer-xor.git
+[submodule "browserify"]
+	path = browserify
+	url = https://github.com/isysd/tech-js-browserify-gap-json.git
+[submodule "browserify-zlib"]
+	path = browserify-zlib
+	url = git://github.com/crypto-browserify/crypto-browserify.git
+[submodule "browserify-sign"]
+	path = browserify-sign
+	url = https://github.com/crypto-browserify/browserify-sign.git
+[submodule "browserify-rsa"]
+	path = browserify-rsa
+	url = git@github.com:crypto-browserify/browserify-rsa.git
+[submodule "browserify-istanbul"]
+	path = browserify-istanbul
+	url = git://github.com/devongovett/browserify-istanbul.git
+[submodule "browserify-des"]
+	path = browserify-des
+	url = https://github.com/crypto-browserify/browserify-des.git
+[submodule "browserify-cipher"]
+	path = browserify-cipher
+	url = git@github.com:crypto-browserify/browserify-cipher.git
+[submodule "browserify-aes"]
+	path = browserify-aes
+	url = git://github.com/crypto-browserify/browserify-aes.git
+[submodule "browser-resolve"]
+	path = browser-resolve
+	url = git://github.com/shtylman/node-browser-resolve.git
+[submodule "browser-pack"]
+	path = browser-pack
+	url = git://github.com/substack/browser-pack.git
+[submodule "brorand"]
+	path = brorand
+	url = git@github.com:indutny/brorand.git
+[submodule "broccoli-babel-transpiler"]
+	path = broccoli-babel-transpiler
+	url = https://github.com/babel/broccoli-babel-transpiler.git
+[submodule "braces"]
+	path = braces
+	url = https://github.com/micromatch/braces.git
+[submodule "brace-expansion"]
+	path = brace-expansion
+	url = https://github.com/juliangruber/brace-expansion.git
+[submodule "bower"]
+	path = bower
+	url = https://github.com/bower/bower.git
+[submodule "JSONStream"]
+	path = JSONStream
+	url = git://github.com/dominictarr/JSONStream.git
+[submodule "boom"]
+	path = boom
+	url = https://github.com/hapijs/boom.git
+[submodule "bn.js"]
+	path = bn.js
+	url = git@github.com:indutny/bn.js.git
+[submodule "bluebird"]
+	path = bluebird
+	url = https://github.com/isysd/tech-js-bluebird-gap-json.git
+[submodule "bl"]
+	path = bl
+	url = https://github.com/rvagg/bl.git
+[submodule "binary-extensions"]
+	path = binary-extensions
+	url = https://github.com/sindresorhus/binary-extensions.git
+[submodule "benchmarked"]
+	path = benchmarked
+	url = https://github.com/jonschlinkert/benchmarked.git
+[submodule "benchmark"]
+	path = benchmark
+	url = https://github.com/bestiejs/benchmark.js.git
+[submodule "batch"]
+	path = batch
+	url = https://github.com/visionmedia/batch.git
+[submodule "base64-js"]
+	path = base64-js
+	url = git://github.com/beatgammit/base64-js.git
+[submodule "base"]
+	path = base
+	url = https://github.com/node-base/base.git
+[submodule "base-option"]
+	path = base-option
+	url = https://github.com/node-base/base-option.git
+[submodule "base-cwd"]
+	path = base-cwd
+	url = https://github.com/node-base/base-cwd.git
+[submodule "balanced-match"]
+	path = balanced-match
+	url = https://github.com/juliangruber/balanced-match.git
+[submodule "baconjs"]
+	path = baconjs
+	url = https://github.com/isysd/tech-js-baconjs-gap-json.git
+[submodule "backbone"]
+	path = backbone
+	url = https://github.com/jashkenas/backbone.git
+[submodule "babylon"]
+	path = babylon
+	url = https://github.com/babel/babylon.git
+[submodule "babelify"]
+	path = babelify
+	url = https://github.com/babel/babelify.git
+[submodule "babel"]
+	path = babel
+	url = https://github.com/babel/babel.git
+[submodule "babel-preset-env"]
+	path = babel-preset-env
+	url = https://github.com/babel/babel-preset-env.git
+[submodule "babel-plugin-transform-unicode-property-regex"]
+	path = babel-plugin-transform-unicode-property-regex
+	url = https://github.com/mathiasbynens/babel-plugin-transform-unicode-property-regex.git
+[submodule "babel-plugin-istanbul"]
+	path = babel-plugin-istanbul
+	url = https://github.com/istanbuljs/babel-plugin-istanbul.git
+[submodule "babel-plugin-dynamic-import-node"]
+	path = babel-plugin-dynamic-import-node
+	url = https://github.com/airbnb/babel-plugin-dynamic-import-node.git
+[submodule "babel-plugin-add-module-exports"]
+	path = babel-plugin-add-module-exports
+	url = https://github.com/59naga/babel-plugin-add-module-exports.git
+[submodule "babel-loader"]
+	path = babel-loader
+	url = https://github.com/babel/babel-loader.git
+[submodule "babel-eslint"]
+	path = babel-eslint
+	url = https://github.com/babel/babel-eslint.git
+[submodule "aws4"]
+	path = aws4
+	url = https://github.com/mhart/aws4.git
+[submodule "aws-sign2"]
+	path = aws-sign2
+	url = https://github.com/mikeal/aws-sign.git
+[submodule "ava"]
+	path = ava
+	url = https://github.com/isysd/tech-js-ava-gap-json.git
+[submodule "ava-init"]
+	path = ava-init
+	url = https://github.com/avajs/ava-init.git
+[submodule "auto-bind"]
+	path = auto-bind
+	url = https://github.com/sindresorhus/auto-bind.git
+[submodule "author-regex"]
+	path = author-regex
+	url = https://github.com/jonschlinkert/author-regex.git
+[submodule "atoa"]
+	path = atoa
+	url = https://github.com/bevacqua/atoa.git
+[submodule "asynckit"]
+	path = asynckit
+	url = https://github.com/alexindigo/asynckit.git
+[submodule "async"]
+	path = async
+	url = https://github.com/caolan/async.git
+[submodule "async-each"]
+	path = async-each
+	url = git://github.com/paulmillr/async-each.git
+[submodule "astw"]
+	path = astw
+	url = git://github.com/substack/astw.git
+[submodule "assertions"]
+	path = assertions
+	url = git://github.com/dominictarr/assertions.git
+[submodule "assertion-error"]
+	path = assertion-error
+	url = git@github.com:chaijs/assertion-error.git
+[submodule "assert"]
+	path = assert
+	url = https://github.com/isysd/tech-js-assert-gap-json.git
+[submodule "assert-plus"]
+	path = assert-plus
+	url = https://github.com/mcavage/node-assert-plus.git
+[submodule "asn1"]
+	path = asn1
+	url = https://github.com/mcavage/node-asn1.git
+[submodule "asn1.js"]
+	path = asn1.js
+	url = git@github.com:indutny/asn1.js.git
+[submodule "askconfig"]
+	path = askconfig
+	url = https://github.com/okunishinishi/node-askconfig.git
+[submodule "arrify"]
+	path = arrify
+	url = https://github.com/sindresorhus/arrify.git
+[submodule "arrayreduce"]
+	path = arrayreduce
+	url = https://github.com/okunishinishi/node-arrayreduce.git
+[submodule "array-unique"]
+	path = array-unique
+	url = https://github.com/jonschlinkert/array-unique.git
+[submodule "array-uniq"]
+	path = array-uniq
+	url = https://github.com/sindresorhus/array-uniq.git
+[submodule "array-union"]
+	path = array-union
+	url = https://github.com/sindresorhus/array-union.git
+[submodule "array-slice"]
+	path = array-slice
+	url = https://github.com/jonschlinkert/array-slice.git
+[submodule "array-reduce"]
+	path = array-reduce
+	url = git://github.com/substack/array-reduce.git
+[submodule "array-map"]
+	path = array-map
+	url = git://github.com/substack/array-map.git
+[submodule "array-filter"]
+	path = array-filter
+	url = git://github.com/juliangruber/array-filter.git
+[submodule "arr-flatten"]
+	path = arr-flatten
+	url = https://github.com/jonschlinkert/arr-flatten.git
+[submodule "arr-exclude"]
+	path = arr-exclude
+	url = https://github.com/sindresorhus/arr-exclude
+[submodule "arr-diff"]
+	path = arr-diff
+	url = https://github.com/jonschlinkert/arr-diff.git
+[submodule "argx"]
+	path = argx
+	url = https://github.com/okunishinishi/node-argx.git
+[submodule "are-we-there-yet"]
+	path = are-we-there-yet
+	url = https://github.com/iarna/are-we-there-yet.git
+[submodule "archy"]
+	path = archy
+	url = http://github.com/substack/node-archy
+[submodule "ape-updating"]
+	path = ape-updating
+	url = https://github.com/ape-repo/ape-updating.git
+[submodule "ape-tmpl"]
+	path = ape-tmpl
+	url = https://github.com/ape-repo/ape-tmpl.git
+[submodule "ape-tasking"]
+	path = ape-tasking
+	url = https://github.com/ape-repo/ape-tasking.git
+[submodule "ape-reporting"]
+	path = ape-reporting
+	url = https://github.com/ape-repo/ape-reporting.git
+[submodule "ape-releasing"]
+	path = ape-releasing
+	url = https://github.com/ape-repo/ape-releasing.git
+[submodule "ape-formatting"]
+	path = ape-formatting
+	url = https://github.com/ape-repo/ape-formatting.git
+[submodule "ape-doc"]
+	path = ape-doc
+	url = https://github.com/ape-repo/ape-doc.git
+[submodule "ape-deploying"]
+	path = ape-deploying
+	url = https://github.com/ape-repo/ape-deploying.git
+[submodule "anymatch"]
+	path = anymatch
+	url = https://github.com/es128/anymatch
+[submodule "any-shell-escape"]
+	path = any-shell-escape
+	url = https://github.com/boazy/any-shell-escape
+[submodule "ansi"]
+	path = ansi
+	url = git://github.com/TooTallNate/ansi.js.git
+[submodule "ansi-wrap"]
+	path = ansi-wrap
+	url = https://github.com/jonschlinkert/ansi-wrap.git
+[submodule "ansi-styles"]
+	path = ansi-styles
+	url = https://github.com/chalk/ansi-styles.git
+[submodule "ansi-regex"]
+	path = ansi-regex
+	url = https://github.com/chalk/ansi-regex.git
+[submodule "ansi-html"]
+	path = ansi-html
+	url = git://github.com/Tjatse/ansi-html.git
+[submodule "ansi-escapes"]
+	path = ansi-escapes
+	url = https://github.com/sindresorhus/ansi-escapes.git
+[submodule "ansi-cyan"]
+	path = ansi-cyan
+	url = https://github.com/jonschlinkert/ansi-cyan.git
+[submodule "ansi-bold"]
+	path = ansi-bold
+	url = https://github.com/jonschlinkert/ansi-bold.git
+[submodule "amocha"]
+	path = amocha
+	url = https://github.com/a-labo/amocha.git
+[submodule "ajv"]
+	path = ajv
+	url = https://github.com/isysd/tech-js-ajv-gap-json.git
+[submodule "aglob"]
+	path = aglob
+	url = https://github.com/a-labo/aglob.git
+[submodule "acorn"]
+	path = acorn
+	url = https://github.com/isysd/tech-js-acorn-gap-json.git
+[submodule "acorn-jsx"]
+	path = acorn-jsx
+	url = https://github.com/RReverser/acorn-jsx.git
+[submodule "ace"]
+	path = ace
+	url = https://github.com/ajaxorg/ace.git
+[submodule "ace-builds"]
+	path = ace-builds
+	url = https://github.com/isysd/tech-js-ace-builds-gap-json.git
+[submodule "abbrev"]
+	path = abbrev
+	url = git@github.com:isaacs/abbrev-js.git
+[submodule "ababel"]
+	path = ababel
+	url = https://github.com/a-labo/ababel.git
+[submodule "ababel-es2015"]
+	path = ababel-es2015
+	url = https://github.com/a-labo/ababel-es2015.git
+[submodule "fs-extra"]
+	path = fs-extra
+	url = https://github.com/jprichardson/node-fs-extra.git
+[submodule "tether"]
+	path = tether
+	url = https://github.com/HubSpot/tether.git
+[submodule "simple-git"]
+	path = simple-git
+	url = https://github.com/steveukx/git-js.git
+[submodule "reveal.js"]
+	path = reveal.js
+	url = git://github.com/hakimel/reveal.js.git
+[submodule "marked"]
+	path = marked
+	url = https://github.com/isysd/tech-js-marked-gap-json.git
+[submodule "gpg"]
+	path = gpg
+	url = git://github.com/drudge/node-gpg.git
+[submodule "aframe"]
+	path = aframe
+	url = https://github.com/aframevr/aframe.git
+[submodule "mermaid"]
+	path = mermaid
+	url = https://github.com/knsv/mermaid.git
+[submodule "jquery"]
+	path = jquery
+	url = https://github.com/jquery/jquery.git
+[submodule "gitconfig"]
+	path = gitconfig
+	url = https://github.com/okunishinishi/node-gitconfig
+[submodule "bootstrap"]
+	path = bootstrap
+	url = https://github.com/twbs/bootstrap.git
+[submodule "package-json"]
+	path = package-json
+	url = https://github.com/sindresorhus/package-json.git
+[submodule "screenfull.js"]
+	path = screenfull.js
+	url = https://github.com/sindresorhus/screenfull.js.git
