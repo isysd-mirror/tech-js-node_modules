@@ -12,7 +12,7 @@
 	url = https://github.com/thejoshwolfe/yauzl.git
 [submodule "yargs"]
 	path = yargs
-	url = https://github.com/isysd/tech-js-yargs-gap-json.git
+	url = https://github.com/yargs/yargs.git
 [submodule "yargs-parser"]
 	path = yargs-parser
 	url = git@github.com:yargs/yargs-parser.git
@@ -33,7 +33,7 @@
 	url = git://github.com/Raynos/xtend.git
 [submodule "xo"]
 	path = xo
-	url = https://github.com/isysd/tech-js-xo-gap-json.git
+	url = https://github.com/sindresorhus/xo.git
 [submodule "xmlhttprequest"]
 	path = xmlhttprequest
 	url = git://github.com/driverdan/node-XMLHttpRequest.git
@@ -159,7 +159,7 @@
 	url = https://github.com/ForbesLindesay/umd
 [submodule "uglify-js"]
 	path = uglify-js
-	url = https://github.com/isysd/tech-js-uglify-js-gap-json.git
+	url = https://github.com/mishoo/UglifyJS2.git
 [submodule "typedarray"]
 	path = typedarray
 	url = git://github.com/substack/typedarray.git
@@ -228,7 +228,7 @@
 	url = https://github.com/nylen/taper.git
 [submodule "tape"]
 	path = tape
-	url = https://github.com/isysd/tech-js-tape-gap-json.git
+	url = https://github.com/substack/tape.git
 [submodule "tap"]
 	path = tap
 	url = https://github.com/tapjs/node-tap.git
@@ -285,7 +285,7 @@
 	url = https://github.com/jshttp/statuses
 [submodule "standard"]
 	path = standard
-	url = https://github.com/isysd/tech-js-standard-gap-json.git
+	url = https://github.com/standard/standard.git
 [submodule "standard-markdown"]
 	path = standard-markdown
 	url = https://github.com/zeke/standard-markdown.git
@@ -315,7 +315,7 @@
 	url = https://github.com/hueniverse/sntp.git
 [submodule "sinon"]
 	path = sinon
-	url = https://github.com/isysd/tech-js-sinon-gap-json.git
+	url = https://github.com/sinonjs/sinon.git
 [submodule "signal-exit"]
 	path = signal-exit
 	url = https://github.com/tapjs/signal-exit.git
@@ -363,7 +363,7 @@
 	url = git://github.com/substack/node-seq.git
 [submodule "semver"]
 	path = semver
-	url = https://github.com/isysd/tech-js-semver-gap-json.git
+	url = https://github.com/mojombo/semver.git
 [submodule "seedrandom"]
 	path = seedrandom
 	url = git://github.com/davidbau/seedrandom.git
@@ -378,7 +378,7 @@
 	url = git://github.com/feross/safe-buffer.git
 [submodule "rx"]
 	path = rx
-	url = https://github.com/isysd/tech-js-rx-gap-json.git
+	url = https://github.com/mattpodwysocki/rx.git
 [submodule "rsvp"]
 	path = rsvp
 	url = https://github.com/tildeio/rsvp.js.git
@@ -390,7 +390,7 @@
 	url = https://github.com/crypto-browserify/ripemd160.git
 [submodule "rimraf"]
 	path = rimraf
-	url = https://github.com/isysd/tech-js-rimraf-gap-json.git
+	url = https://github.com/isaacs/rimraf.git
 [submodule "reveal"]
 	path = reveal
 	url = https://github.com/ForbesLindesay/reveal
@@ -570,7 +570,7 @@
 	url = https://github.com/sindresorhus/path-is-absolute.git
 [submodule "path-exists"]
 	path = path-exists
-	url = https://github.com/isysd/tech-js-path-exists-gap-json.git
+	url = https://github.com/sindresorhus/path-exists.git
 [submodule "path-browserify"]
 	path = path-browserify
 	url = git://github.com/substack/path-browserify.git
@@ -633,7 +633,7 @@
 	url = git://github.com/gkz/optionator.git
 [submodule "optimist"]
 	path = optimist
-	url = https://github.com/isysd/tech-js-optimist-gap-json.git
+	url = https://github.com/substack/optimist.git
 [submodule "openpgp"]
 	path = openpgp
 	url = https://github.com/openpgpjs/openpgpjs.git
@@ -717,10 +717,10 @@
 	url = git://github.com/tschaub/mock-fs.git
 [submodule "mocha"]
 	path = mocha
-	url = https://github.com/isysd/tech-js-mocha-gap-json.git
+	url = https://github.com/dasilvacontin/mocha.git
 [submodule "mkdirp"]
 	path = mkdirp
-	url = https://github.com/isysd/tech-js-mkdirp-gap-json.git
+	url = https://github.com/substack/mkdirp.git
 [submodule "mixin-deep"]
 	path = mixin-deep
 	url = https://github.com/jonschlinkert/mixin-deep.git
@@ -729,7 +729,7 @@
 	url = git://github.com/substack/minimist.git
 [submodule "minimatch"]
 	path = minimatch
-	url = https://github.com/isysd/tech-js-minimatch-gap-json.git
+	url = https://github.com/isaacs/minimatch.git
 [submodule "minimalistic-crypto-utils"]
 	path = minimalistic-crypto-utils
 	url = git@github.com:indutny/minimalistic-crypto-utils.git
@@ -738,7 +738,7 @@
 	url = https://github.com/calvinmetcalf/minimalistic-assert
 [submodule "mime"]
 	path = mime
-	url = https://github.com/isysd/tech-js-mime-gap-json.git
+	url = https://github.com/broofa/mime.git
 [submodule "mime-types"]
 	path = mime-types
 	url = https://github.com/jshttp/mime-types.git
@@ -777,7 +777,7 @@
 	url = https://github.com/jonschlinkert/log-utils.git
 [submodule "lodash"]
 	path = lodash
-	url = https://github.com/isysd/tech-js-lodash-gap-json.git
+	url = https://github.com/jdalton/lodash.git
 [submodule "lodash.memoize"]
 	path = lodash.memoize
 	url = https://github.com/lodash/lodash.git
@@ -867,7 +867,7 @@
 	url = https://github.com/jprichardson/node-jsonfile.git
 [submodule "json3"]
 	path = json3
-	url = https://github.com/isysd/tech-js-json-3-gap-json.git
+	url = https://github.com/kitcambridge/json3.git
 [submodule "json-stringify-safe"]
 	path = json-stringify-safe
 	url = https://github.com/isaacs/json-stringify-safe.git
@@ -885,16 +885,16 @@
 	url = git@github.com:andreyvit/json-diff.git
 [submodule "jshint"]
 	path = jshint
-	url = https://github.com/isysd/tech-js-jshint-gap-json.git
+	url = https://github.com/jugglinmike/jshint.git
 [submodule "jshint-stylish"]
 	path = jshint-stylish
-	url = https://github.com/isysd/tech-js-jshint-stylish-gap-json.git
+	url = https://github.com/sindresorhus/jshint-stylish.git
 [submodule "jsdoc-to-markdown"]
 	path = jsdoc-to-markdown
-	url = https://github.com/isysd/tech-js-jsdoc-to-markdown-gap-json.git
+	url = https://github.com/75lb/jsdoc-to-markdown.git
 [submodule "js-yaml"]
 	path = js-yaml
-	url = https://github.com/isysd/tech-js-js-yaml-gap-json.git
+	url = https://github.com/vitaly/js-yaml.git
 [submodule "js-tokens"]
 	path = js-tokens
 	url = https://github.com/lydell/js-tokens.git
@@ -909,7 +909,7 @@
 	url = https://github.com/stevenvachon/isurl.git
 [submodule "istanbul"]
 	path = istanbul
-	url = https://github.com/isysd/tech-js-istanbul-gap-json.git
+	url = https://github.com/gotwarlost/istanbul.git
 [submodule "istanbul-threshold-checker"]
 	path = istanbul-threshold-checker
 	url = https://github.com/peterjwest/istanbul-threshold-checker.git
@@ -924,7 +924,7 @@
 	url = https://github.com/isaacs/isexe.git
 [submodule "isbinaryfile"]
 	path = isbinaryfile
-	url = https://github.com/isysd/tech-js-isbinaryfile-gap-json.git
+	url = https://github.com/gjtorikian/isbinaryfile.git
 [submodule "isarray"]
 	path = isarray
 	url = git://github.com/juliangruber/isarray.git
@@ -984,7 +984,7 @@
 	url = git://github.com/thlorenz/inline-source-map.git
 [submodule "ini"]
 	path = ini
-	url = https://github.com/isysd/tech-js-ini-gap-json.git
+	url = https://github.com/isaacs/ini.git
 [submodule "inherits"]
 	path = inherits
 	url = git://github.com/isaacs/inherits.git
@@ -1101,7 +1101,7 @@
 	url = https://github.com/gulpjs/gulplog.git
 [submodule "gulp"]
 	path = gulp
-	url = https://github.com/isysd/tech-js-gulp-gap-json.git
+	url = https://github.com/phated/gulp.git
 [submodule "gulp-watch"]
 	path = gulp-watch
 	url = git://github.com/floatdrop/gulp-watch.git
@@ -1113,13 +1113,13 @@
 	url = https://github.com/jonschlinkert/gulp-unused.git
 [submodule "gulp-uglify"]
 	path = gulp-uglify
-	url = https://github.com/isysd/tech-js-gulp-uglify-gap-json.git
+	url = https://github.com/terinjokes/gulp-uglify.git
 [submodule "gulp-tag-version"]
 	path = gulp-tag-version
 	url = git@github.com:ikari-pl/gulp-tag-version.git
 [submodule "gulp-plumber"]
 	path = gulp-plumber
-	url = https://github.com/isysd/tech-js-gulp-plumber-gap-json.git
+	url = https://github.com/floatdrop/gulp-plumber.git
 [submodule "gulp-newer"]
 	path = gulp-newer
 	url = git://github.com/tschaub/gulp-newer.git
@@ -1143,13 +1143,13 @@
 	url = https://github.com/adametry/gulp-eslint.git
 [submodule "gulp-concat"]
 	path = gulp-concat
-	url = https://github.com/isysd/tech-js-gulp-concat-gap-json.git
+	url = https://github.com/contra/gulp-concat.git
 [submodule "gulp-bump"]
 	path = gulp-bump
-	url = https://github.com/isysd/tech-js-gulp-bump-gap-json.git
+	url = https://github.com/stevelacy/gulp-bump.git
 [submodule "gulp-babel"]
 	path = gulp-babel
-	url = https://github.com/isysd/tech-js-gulp-babel-gap-json.git
+	url = https://github.com/sindresorhus/gulp-babel.git
 [submodule "guld-vrcave"]
 	path = guld-vrcave
 	url = git@github.com:isysd/guld-vrcave.git
@@ -1196,7 +1196,7 @@
 	url = https://github.com/sindresorhus/globals.git
 [submodule "glob"]
 	path = glob
-	url = https://github.com/isysd/tech-js-glob-gap-json.git
+	url = https://github.com/isaacs/glob.git
 [submodule "glob-promise"]
 	path = glob-promise
 	url = https://github.com/ahmadnassri/glob-promise.git
@@ -1323,7 +1323,7 @@
 	url = https://github.com/okunishinishi/node-findout.git
 [submodule "find-up"]
 	path = find-up
-	url = https://github.com/isysd/tech-js-find-up-gap-json.git
+	url = https://github.com/sindresorhus/find-up.git
 [submodule "find-nearest-file"]
 	path = find-nearest-file
 	url = git@github.com:bengourley/find-nearest-file.git
@@ -1353,7 +1353,7 @@
 	url = https://github.com/davepacheco/node-extsprintf.git
 [submodule "extract-zip"]
 	path = extract-zip
-	url = https://github.com/isysd/tech-js-extract-zip-gap-json.git
+	url = https://github.com/malept/extract-zip.git
 [submodule "extend"]
 	path = extend
 	url = https://github.com/justmoon/node-extend.git
@@ -1476,7 +1476,7 @@
 	url = git@github.com:estools/escodegen.git
 [submodule "escape-string-regexp"]
 	path = escape-string-regexp
-	url = https://github.com/isysd/tech-js-escape-string-regexp-gap-json.git
+	url = https://github.com/jbnicolai/escape-string-regexp.git
 [submodule "es6ify"]
 	path = es6ify
 	url = https://github.com/thlorenz/es6ify
@@ -1497,7 +1497,7 @@
 	url = git@github.com:indutny/elliptic.git
 [submodule "electron"]
 	path = electron
-	url = https://github.com/isysd/tech-js-electron-gap-json.git
+	url = https://github.com/jbnicolai/electron.git
 [submodule "electron-tabs"]
 	path = electron-tabs
 	url = https://github.com/brrd/electron-tabs.git
@@ -1509,19 +1509,19 @@
 	url = https://github.com/electron-userland/electron-prebuilt.git
 [submodule "electron-download"]
 	path = electron-download
-	url = https://github.com/isysd/tech-js-electron-download-gap-json.git
+	url = https://github.com/develar/electron-download.git
 [submodule "electron-dl"]
 	path = electron-dl
 	url = https://github.com/sindresorhus/electron-dl.git
 [submodule "electron-context-menu"]
 	path = electron-context-menu
-	url = https://github.com/isysd/tech-js-electron-context-menu-gap-json.git
+	url = https://github.com/sindresorhus/electron-context-menu.git
 [submodule "electron-builder"]
 	path = electron-builder
-	url = https://github.com/isysd/tech-js-electron-builder-gap-json.git
+	url = https://github.com/develar/electron-builder.git
 [submodule "ejs"]
 	path = ejs
-	url = https://github.com/isysd/tech-js-ejs-gap-json.git
+	url = https://github.com/mde/ejs.git
 [submodule "ee-first"]
 	path = ee-first
 	url = https://github.com/jonathanong/ee-first
@@ -1560,7 +1560,7 @@
 	url = https://github.com/crypto-browserify/diffie-hellman.git
 [submodule "diff"]
 	path = diff
-	url = https://github.com/isysd/tech-js-diff-gap-json.git
+	url = https://github.com/kpdecker/diff.git
 [submodule "di"]
 	path = di
 	url = git://github.com/vojtajina/node-di.git
@@ -1584,7 +1584,7 @@
 	url = https://github.com/felixge/node-delayed-stream.git
 [submodule "del"]
 	path = del
-	url = https://github.com/isysd/tech-js-del-gap-json.git
+	url = https://github.com/sindresorhus/del.git
 [submodule "defined"]
 	path = defined
 	url = git://github.com/Raynos/console-browserify.git
@@ -1614,7 +1614,7 @@
 	url = https://github.com/sindresorhus/decamelize.git
 [submodule "debug"]
 	path = debug
-	url = https://github.com/isysd/tech-js-debug-gap-json.git
+	url = https://github.com/tootallnate/debug.git
 [submodule "dateformat"]
 	path = dateformat
 	url = https://github.com/felixge/node-dateformat.git
@@ -1665,7 +1665,7 @@
 	url = https://github.com/zloirock/core-js.git
 [submodule "convert-source-map"]
 	path = convert-source-map
-	url = https://github.com/isysd/tech-js-convert-source-map-gap-json.git
+	url = https://github.com/thlorenz/convert-source-map.git
 [submodule "contra"]
 	path = contra
 	url = git://github.com/bevacqua/contra.git
@@ -1740,7 +1740,7 @@
 	url = http://github.com/substack/node-commondir
 [submodule "commander"]
 	path = commander
-	url = https://github.com/isysd/tech-js-commander-gap-json.git
+	url = https://github.com/abetomo/commander.git
 [submodule "combined-stream"]
 	path = combined-stream
 	url = https://github.com/felixge/node-combined-stream.git
@@ -1764,13 +1764,13 @@
 	url = https://github.com/qix-/color-convert.git
 [submodule "coffee-script"]
 	path = coffee-script
-	url = https://github.com/isysd/tech-js-coffee-script-gap-json.git
+	url = https://github.com/geoffreybooth/coffee-script.git
 [submodule "codecov"]
 	path = codecov
 	url = https://github.com/codecov/codecov-node.git
 [submodule "co"]
 	path = co
-	url = https://github.com/isysd/tech-js-co-gap-json.git
+	url = https://github.com/jongleberry/co.git
 [submodule "cloneable-readable"]
 	path = cloneable-readable
 	url = https://github.com/mcollina/cloneable-readable.git
@@ -1812,7 +1812,7 @@
 	url = git://github.com/marcello3d/node-char-split.git
 [submodule "chalk"]
 	path = chalk
-	url = https://github.com/isysd/tech-js-chalk-gap-json.git
+	url = https://github.com/qix/chalk.git
 [submodule "chai"]
 	path = chai
 	url = https://github.com/chaijs/chai.git
@@ -1845,7 +1845,7 @@
 	url = https://github.com/crypto-browserify/buffer-xor.git
 [submodule "browserify"]
 	path = browserify
-	url = https://github.com/isysd/tech-js-browserify-gap-json.git
+	url = https://github.com/feross/browserify.git
 [submodule "browserify-zlib"]
 	path = browserify-zlib
 	url = git://github.com/crypto-browserify/crypto-browserify.git
@@ -1899,7 +1899,7 @@
 	url = git@github.com:indutny/bn.js.git
 [submodule "bluebird"]
 	path = bluebird
-	url = https://github.com/isysd/tech-js-bluebird-gap-json.git
+	url = https://github.com/esailija/bluebird.git
 [submodule "bl"]
 	path = bl
 	url = https://github.com/rvagg/bl.git
@@ -1932,7 +1932,7 @@
 	url = https://github.com/juliangruber/balanced-match.git
 [submodule "baconjs"]
 	path = baconjs
-	url = https://github.com/isysd/tech-js-baconjs-gap-json.git
+	url = https://github.com/raimohanska/baconjs.git
 [submodule "backbone"]
 	path = backbone
 	url = https://github.com/jashkenas/backbone.git
@@ -1974,7 +1974,7 @@
 	url = https://github.com/mikeal/aws-sign.git
 [submodule "ava"]
 	path = ava
-	url = https://github.com/isysd/tech-js-ava-gap-json.git
+	url = https://github.com/novemberborn/ava.git
 [submodule "ava-init"]
 	path = ava-init
 	url = https://github.com/avajs/ava-init.git
@@ -2007,7 +2007,7 @@
 	url = git@github.com:chaijs/assertion-error.git
 [submodule "assert"]
 	path = assert
-	url = https://github.com/isysd/tech-js-assert-gap-json.git
+	url = https://github.com/cwmma/assert.git
 [submodule "assert-plus"]
 	path = assert-plus
 	url = https://github.com/mcavage/node-assert-plus.git
@@ -2124,13 +2124,13 @@
 	url = https://github.com/a-labo/amocha.git
 [submodule "ajv"]
 	path = ajv
-	url = https://github.com/isysd/tech-js-ajv-gap-json.git
+	url = https://github.com/esp/ajv.git
 [submodule "aglob"]
 	path = aglob
 	url = https://github.com/a-labo/aglob.git
 [submodule "acorn"]
 	path = acorn
-	url = https://github.com/isysd/tech-js-acorn-gap-json.git
+	url = https://github.com/marijn/acorn.git
 [submodule "acorn-jsx"]
 	path = acorn-jsx
 	url = https://github.com/RReverser/acorn-jsx.git
@@ -2163,7 +2163,7 @@
 	url = git://github.com/hakimel/reveal.js.git
 [submodule "marked"]
 	path = marked
-	url = https://github.com/isysd/tech-js-marked-gap-json.git
+	url = https://github.com/chjj/marked.git
 [submodule "gpg"]
 	path = gpg
 	url = git://github.com/drudge/node-gpg.git
