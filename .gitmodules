@@ -1156,9 +1156,11 @@
 [submodule "guld-import"]
 	path = guld-import
 	url = git@github.com:isysd/guld-import.git
+	branch = isysd
 [submodule "guld-browser"]
 	path = guld-browser
 	url = https://github.com/isysd/guld-browser.git
+	branch = isysd
 [submodule "grunt"]
 	path = grunt
 	url = https://github.com/gruntjs/grunt.git
@@ -1243,42 +1245,55 @@
 [submodule "gapp"]
 	path = gapp
 	url = https://github.com/isysd/gapp.git
+	branch = isysd
 [submodule "gapp-tech-js"]
 	path = gapp-tech-js
 	url = git@github.com:isysd/gapp-tech-js.git
+	branch = isysd
 [submodule "gapp-panafintech"]
 	path = gapp-panafintech
 	url = git@github.com:isysd/gapp-panafintech.git
+	branch = isysd
 [submodule "gapp-npm"]
 	path = gapp-npm
 	url = git@github.com:isysd/gapp-npm.git
+	branch = isysd
 [submodule "gapp-mit"]
 	path = gapp-mit
 	url = git@github.com:isysd/gapp-mit.git
+	branch = isysd
 [submodule "gapp-markdown"]
 	path = gapp-markdown
 	url = git@github.com:isysd/gapp-markdown.git
+	branch = isysd
 [submodule "gapp-life"]
 	path = gapp-life
 	url = https://github.com/isysd/gapp-life.git
+	branch = isysd
 [submodule "gapp-keys-pgp"]
 	path = gapp-keys-pgp
 	url = git@github.com:isysd/gapp-keys-pgp.git
+	branch = isysd
 [submodule "gapp-keybase"]
 	path = gapp-keybase
 	url = git@github.com:isysd/gapp-keybase.git
+	branch = isysd
 [submodule "gapp-image"]
 	path = gapp-image
 	url = git@github.com:isysd/gapp-image.git
+	branch = isysd
 [submodule "gapp-github"]
 	path = gapp-github
 	url = git@github.com:isysd/gapp-github.git
+	branch = isysd
 [submodule "gapp-community"]
 	path = gapp-community
 	url = git@github.com:isysd/gapp-community.git
+	branch = isysd
 [submodule "gapp-address-bar"]
 	path = gapp-address-bar
 	url = git@github.com:isysd/gapp-address-bar.git
+	branch = isysd
 [submodule "function-bind"]
 	path = function-bind
 	url = git://github.com/Raynos/function-bind.git
@@ -2124,7 +2139,7 @@
 	url = https://github.com/ajaxorg/ace.git
 [submodule "ace-builds"]
 	path = ace-builds
-	url = https://github.com/isysd/tech-js-ace-builds-gap-json.git
+	url = https://github.com/ajaxorg/ace-builds.git
 [submodule "abbrev"]
 	path = abbrev
 	url = git@github.com:isaacs/abbrev-js.git

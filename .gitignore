@@ -2,3 +2,5 @@
 node_modules
 npm-debug*
 package*.json
+gapp-build
+gapp-keys-ssh
