@@ -2130,7 +2130,7 @@
 	url = https://github.com/a-labo/aglob.git
 [submodule "acorn"]
 	path = acorn
-	url = https://github.com/marijn/acorn.git
+	url = https://github.com/ternjs/acorn.git
 [submodule "acorn-jsx"]
 	path = acorn-jsx
 	url = https://github.com/RReverser/acorn-jsx.git
