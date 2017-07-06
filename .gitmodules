@@ -2124,7 +2124,7 @@
 	url = https://github.com/a-labo/amocha.git
 [submodule "ajv"]
 	path = ajv
-	url = https://github.com/esp/ajv.git
+	url = https://github.com/epoberezkin/ajv.git
 [submodule "aglob"]
 	path = aglob
 	url = https://github.com/a-labo/aglob.git
