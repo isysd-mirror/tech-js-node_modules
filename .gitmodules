@@ -1501,9 +1501,6 @@
 [submodule "electron-tabs"]
 	path = electron-tabs
 	url = https://github.com/brrd/electron-tabs.git
-[submodule "electron-sample-apps"]
-	path = electron-sample-apps
-	url = https://github.com/hokein/electron-sample-apps.git
 [submodule "electron-prebuilt"]
 	path = electron-prebuilt
 	url = https://github.com/electron-userland/electron-prebuilt.git
@@ -2186,5 +2183,5 @@
 	path = package-json
 	url = https://github.com/sindresorhus/package-json.git
 [submodule "screenfull.js"]
-	path = screenfull.js
+	path = screenfull
 	url = https://github.com/sindresorhus/screenfull.js.git
