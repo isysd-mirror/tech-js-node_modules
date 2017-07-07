@@ -1845,7 +1845,7 @@
 	url = https://github.com/crypto-browserify/buffer-xor.git
 [submodule "browserify"]
 	path = browserify
-	url = https://github.com/feross/browserify.git
+	url = https://github.com/substack/node-browserify.git
 [submodule "browserify-zlib"]
 	path = browserify-zlib
 	url = git://github.com/crypto-browserify/crypto-browserify.git
