@@ -2893,3 +2893,6 @@
 [submodule "screenfull.js"]
 	path = screenfull
 	url = https://github.com/isysd/screenfull.js.git
+[submodule "global-dirs"]
+	path = global-dirs
+	url = git@github.com:isysd/global-dirs.git
