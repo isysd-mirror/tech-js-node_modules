@@ -2896,3 +2896,66 @@
 [submodule "global-dirs"]
 	path = global-dirs
 	url = git@github.com:isysd/global-dirs.git
+[submodule "BrowserFS"]
+	path = BrowserFS
+	url = https://github.com/isysd/BrowserFS.git
+[submodule "passclass"]
+	path = passclass
+	url = https://github.com/isysd/passclass.git
+[submodule "promise-or-cb"]
+	path = promise-or-cb
+	url = https://github.com/isysd/promise-or-cb.git
+[submodule "thig"]
+	path = thig
+	url = https://github.com/isysd/thig.git
+[submodule "read-or-fetch"]
+	path = read-or-fetch
+	url = https://github.com/isysd/read-or-fetch.git
+[submodule "js-gg-lib"]
+	path = js-gg-lib
+	url = https://github.com/isysd/js-gg-lib.git
+[submodule "js-guld-lib"]
+	path = js-guld-lib
+	url = https://github.com/isysd/js-guld-lib.git
+[submodule "flexfs"]
+	path = flexfs
+	url = https://github.com/isysd/flexfs.git
+[submodule "keyvaluedb"]
+	path = keyvaluedb
+	url = https://github.com/isysd/keyvaluedb.git
+[submodule "keyring-pgp"]
+	path = keyring-pgp
+	url = https://github.com/isysd/keyring-pgp.git
+[submodule "keyring-interface"]
+	path = keyring-interface
+	url = https://github.com/isysd/keyring-interface.git
+[submodule "decimal.js"]
+	path = decimal.js
+	url = https://github.com/MikeMcl/decimal.js.git
+[submodule "guld-chrome"]
+	path = guld-chrome
+	url = https://github.com/guldcoin/guld-chrome.git
+[submodule "gg-chrome"]
+	path = gg-chrome
+	url = https://github.com/guld-games/gg-chrome.git
+[submodule "guld-chat"]
+	path = guld-chat
+	url = https://github.com/guldcoin/guld-chat.git
+[submodule "ledger-types"]
+	path = ledger-types
+	url = https://github.com/isysd/ledger-types.git
+[submodule "ledger-rest"]
+	path = ledger-rest
+	url = https://github.com/isysd/ledger-rest.git
+[submodule "ledger-commodity"]
+	path = ledger-commodity
+	url = https://github.com/isysd/ledger-commodity.git
+[submodule "ledger-web"]
+	path = ledger-web
+	url = https://github.com/slashdotdash/node-ledger-web.git
+[submodule "object-to-class"]
+	path = object-to-class
+	url = https://github.com/slashdotdash/object-to-class.git
+[submodule "protected-plugin"]
+	path = protected-plugin
+	url = https://github.com/slashdotdash/protected-plugin.git
