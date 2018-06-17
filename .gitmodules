@@ -2333,3 +2333,6 @@
 [submodule "openpgp-git-mixin"]
 	path = openpgp-git-mixin
 	url = https://github.com/isysd/openpgp-git-mixin.git
+[submodule "bitbucketjs"]
+	path = bitbucketjs
+	url = git@bitbucket.org:atlassian/bitbucketjs.git
