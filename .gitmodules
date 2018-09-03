@@ -2462,3 +2462,6 @@
 [submodule "guld-sdk"]
 	path = guld-sdk
 	url = https://bitbucket.org/guld/tech-js-node_modules-guld-sdk
+[submodule "guld-git-config-ini"]
+	path = guld-git-config-ini
+	url = https://bitbucket.org/guld/tech-js-node_modules-guld-git-config-ini
