@@ -1,2233 +1,2221 @@
 [submodule "JSON2"]
 	path = JSON2
-	url = git://github.com/isysd/JSON-js.git
+	url = git://bitbucket.org/isysd/JSON-js.git
 [submodule "zuul"]
 	path = zuul
-	url = git://github.com/isysd/zuul.git
+	url = git://bitbucket.org/isysd/zuul.git
 [submodule "zuul-ngrok"]
 	path = zuul-ngrok
-	url = git://github.com/isysd/zuul-ngrok
+	url = git://bitbucket.org/isysd/zuul-ngrok
 [submodule "yauzl"]
 	path = yauzl
-	url = https://github.com/isysd/yauzl.git
+	url = https://bitbucket.org/isysd/yauzl.git
 [submodule "yargs"]
 	path = yargs
-	url = https://github.com/isysd/yargs.git
+	url = https://bitbucket.org/isysd/yargs.git
 [submodule "yargs-parser"]
 	path = yargs-parser
 	url = git@github.com:yargs/yargs-parser.git
 [submodule "yapool"]
 	path = yapool
-	url = https://github.com/isysd/yapool.git
+	url = https://bitbucket.org/isysd/yapool.git
 [submodule "yamlparser"]
 	path = yamlparser
-	url = git://github.com/isysd/commonjs-javascript-yaml-parser.git
+	url = git://bitbucket.org/isysd/commonjs-javascript-yaml-parser.git
 [submodule "yallist"]
 	path = yallist
-	url = https://github.com/isysd/yallist.git
+	url = https://bitbucket.org/isysd/yallist.git
 [submodule "y18n"]
 	path = y18n
 	url = git@github.com:yargs/y18n.git
 [submodule "xtend"]
 	path = xtend
-	url = git://github.com/isysd/xtend.git
+	url = git://bitbucket.org/isysd/xtend.git
 [submodule "xo"]
 	path = xo
-	url = https://github.com/isysd/xo.git
+	url = https://bitbucket.org/isysd/xo.git
 [submodule "xmlhttprequest"]
 	path = xmlhttprequest
-	url = git://github.com/isysd/node-XMLHttpRequest.git
+	url = git://bitbucket.org/isysd/node-XMLHttpRequest.git
 [submodule "ws"]
 	path = ws
-	url = https://github.com/isysd/ws.git
+	url = https://bitbucket.org/isysd/ws.git
 [submodule "write-pkg"]
 	path = write-pkg
-	url = https://github.com/isysd/write-pkg.git
+	url = https://bitbucket.org/isysd/write-pkg.git
 [submodule "wrappy"]
 	path = wrappy
-	url = https://github.com/isysd/wrappy.git
+	url = https://bitbucket.org/isysd/wrappy.git
 [submodule "wordwrap"]
 	path = wordwrap
-	url = http://github.com/isysd/deep-is
+	url = http://bitbucket.org/isysd/deep-is
 [submodule "window-or-global"]
 	path = window-or-global
-	url = https://github.com/isysd/window-or-global.git
+	url = https://bitbucket.org/isysd/window-or-global.git
 [submodule "win-fork"]
 	path = win-fork
-	url = https://github.com/isysd/win-spawn
+	url = https://bitbucket.org/isysd/win-spawn
 [submodule "which"]
 	path = which
-	url = https://github.com/isysd/node-which.git
+	url = https://bitbucket.org/isysd/node-which.git
 [submodule "which-module"]
 	path = which-module
-	url = https://github.com/isysd/which-module.git
+	url = https://bitbucket.org/isysd/which-module.git
 [submodule "webpack"]
 	path = webpack
-	url = https://github.com/isysd/webpack.git
+	url = https://bitbucket.org/isysd/webpack.git
 [submodule "webpack-dev-server"]
 	path = webpack-dev-server
-	url = git://github.com/isysd/webpack-dev-server.git
+	url = git://bitbucket.org/isysd/webpack-dev-server.git
 [submodule "watchify"]
 	path = watchify
-	url = git://github.com/isysd/watchify.git
+	url = git://bitbucket.org/isysd/watchify.git
 [submodule "vue-eslint-parser"]
 	path = vue-eslint-parser
-	url = https://github.com/isysd/vue-eslint-parser.git
+	url = https://bitbucket.org/isysd/vue-eslint-parser.git
 [submodule "vows"]
 	path = vows
-	url = https://github.com/isysd/vows.git
+	url = https://bitbucket.org/isysd/vows.git
 [submodule "void-elements"]
 	path = void-elements
-	url = https://github.com/isysd/void-elements.git
+	url = https://bitbucket.org/isysd/void-elements.git
 [submodule "vm-browserify"]
 	path = vm-browserify
-	url = http://github.com/isysd/vm-browserify
+	url = http://bitbucket.org/isysd/vm-browserify
 [submodule "vinyl"]
 	path = vinyl
-	url = https://github.com/isysd/vinyl.git
+	url = https://bitbucket.org/isysd/vinyl.git
 [submodule "vinyl-sourcemaps-apply"]
 	path = vinyl-sourcemaps-apply
-	url = git://github.com/isysd/vinyl-sourcemaps-apply.git
+	url = git://bitbucket.org/isysd/vinyl-sourcemaps-apply.git
 [submodule "vinyl-source-stream"]
 	path = vinyl-source-stream
-	url = git://github.com/isysd/vinyl-source-stream
+	url = git://bitbucket.org/isysd/vinyl-source-stream
 [submodule "vinyl-fs"]
 	path = vinyl-fs
-	url = git://github.com/isysd/vinyl-fs.git
+	url = git://bitbucket.org/isysd/vinyl-fs.git
 [submodule "vinyl-buffer"]
 	path = vinyl-buffer
-	url = git://github.com/isysd/vinyl-buffer
+	url = git://bitbucket.org/isysd/vinyl-buffer
 [submodule "verror"]
 	path = verror
-	url = https://github.com/isysd/node-verror.git
+	url = https://bitbucket.org/isysd/node-verror.git
 [submodule "validate-commit-msg"]
 	path = validate-commit-msg
-	url = https://github.com/isysd/validate-commit-msg.git
+	url = https://bitbucket.org/isysd/validate-commit-msg.git
 [submodule "v8flags"]
 	path = v8flags
-	url = git://github.com/isysd/node-v8flags.git
+	url = git://bitbucket.org/isysd/node-v8flags.git
 [submodule "uuid"]
 	path = uuid
-	url = https://github.com/isysd/node-uuid.git
+	url = https://bitbucket.org/isysd/node-uuid.git
 [submodule "utils-merge"]
 	path = utils-merge
-	url = git://github.com/isysd/utils-merge.git
+	url = git://bitbucket.org/isysd/utils-merge.git
 [submodule "util"]
 	path = util
-	url = git://github.com/isysd/node-util
+	url = git://bitbucket.org/isysd/node-util
 [submodule "util-deprecate"]
 	path = util-deprecate
-	url = git://github.com/isysd/util-deprecate.git
+	url = git://bitbucket.org/isysd/util-deprecate.git
 [submodule "useragent"]
 	path = useragent
 	url = git@github.com:3rd-Eden/useragent.git
 [submodule "user-home"]
 	path = user-home
-	url = https://github.com/isysd/user-home
+	url = https://bitbucket.org/isysd/user-home
 [submodule "urlgrey"]
 	path = urlgrey
-	url = git://github.com/isysd/urlgrey.git
+	url = git://bitbucket.org/isysd/urlgrey.git
 [submodule "url"]
 	path = url
-	url = https://github.com/isysd/node-url.git
+	url = https://bitbucket.org/isysd/node-url.git
 [submodule "url-to-options"]
 	path = url-to-options
-	url = https://github.com/isysd/url-to-options.git
+	url = https://bitbucket.org/isysd/url-to-options.git
 [submodule "url-parse-lax"]
 	path = url-parse-lax
-	url = https://github.com/isysd/url-parse-lax.git
+	url = https://bitbucket.org/isysd/url-parse-lax.git
 [submodule "unpipe"]
 	path = unpipe
-	url = https://github.com/isysd/unpipe
+	url = https://bitbucket.org/isysd/unpipe
 [submodule "universalify"]
 	path = universalify
-	url = https://github.com/isysd/universalify.git
+	url = https://bitbucket.org/isysd/universalify.git
 [submodule "universal-url"]
 	path = universal-url
-	url = https://github.com/isysd/universal-url.git
+	url = https://bitbucket.org/isysd/universal-url.git
 [submodule "unified"]
 	path = unified
-	url = https://github.com/isysd/unified.git
+	url = https://bitbucket.org/isysd/unified.git
 [submodule "unicode-9.0.0"]
 	path = unicode-9.0.0
-	url = https://github.com/isysd/unicode-9.0.0.git
+	url = https://bitbucket.org/isysd/unicode-9.0.0.git
 [submodule "underscore"]
 	path = underscore
-	url = git://github.com/isysd/underscore.git
+	url = git://bitbucket.org/isysd/underscore.git
 [submodule "umd"]
 	path = umd
-	url = https://github.com/isysd/umd
+	url = https://bitbucket.org/isysd/umd
 [submodule "uglify-js"]
 	path = uglify-js
-	url = https://github.com/isysd/UglifyJS2.git
+	url = https://bitbucket.org/isysd/UglifyJS2.git
 [submodule "typedarray"]
 	path = typedarray
-	url = git://github.com/isysd/typedarray.git
+	url = git://bitbucket.org/isysd/typedarray.git
 [submodule "type-is"]
 	path = type-is
-	url = https://github.com/isysd/type-is.git
+	url = https://bitbucket.org/isysd/type-is.git
 [submodule "type-detect"]
 	path = type-detect
 	url = git@github.com:chaijs/type-detect.git
 [submodule "type-check"]
 	path = type-check
-	url = git://github.com/isysd/type-check.git
+	url = git://bitbucket.org/isysd/type-check.git
 [submodule "tunnel-agent"]
 	path = tunnel-agent
-	url = https://github.com/isysd/tunnel-agent.git
+	url = https://bitbucket.org/isysd/tunnel-agent.git
 [submodule "tty-browserify"]
 	path = tty-browserify
-	url = git://github.com/isysd/node-syntax-error.git
+	url = git://bitbucket.org/isysd/node-syntax-error.git
 [submodule "trees"]
 	path = trees
-	url = git://github.com/isysd/trees.git
+	url = git://bitbucket.org/isysd/trees.git
 [submodule "tree-kill"]
 	path = tree-kill
-	url = git://github.com/isysd/node-tree-kill.git
+	url = git://bitbucket.org/isysd/node-tree-kill.git
 [submodule "traceur"]
 	path = traceur
-	url = https://github.com/isysd/traceur-compiler.git
+	url = https://bitbucket.org/isysd/traceur-compiler.git
 [submodule "tough-cookie"]
 	path = tough-cookie
-	url = https://github.com/isysd/tough-cookie.git
+	url = https://bitbucket.org/isysd/tough-cookie.git
 [submodule "tmp"]
 	path = tmp
-	url = https://github.com/isysd/node-tmp.git
+	url = https://bitbucket.org/isysd/node-tmp.git
 [submodule "tiny-lr"]
 	path = tiny-lr
-	url = git://github.com/isysd/tiny-lr.git
+	url = git://bitbucket.org/isysd/tiny-lr.git
 [submodule "timers-browserify"]
 	path = timers-browserify
-	url = git://github.com/isysd/timers-browserify.git
+	url = git://bitbucket.org/isysd/timers-browserify.git
 [submodule "timed-out"]
 	path = timed-out
-	url = https://github.com/isysd/timed-out.git
+	url = https://bitbucket.org/isysd/timed-out.git
 [submodule "tildify"]
 	path = tildify
-	url = https://github.com/isysd/tildify.git
+	url = https://bitbucket.org/isysd/tildify.git
 [submodule "ticky"]
 	path = ticky
-	url = https://github.com/isysd/ticky.git
+	url = https://bitbucket.org/isysd/ticky.git
 [submodule "through2"]
 	path = through2
-	url = https://github.com/isysd/through2.git
+	url = https://bitbucket.org/isysd/through2.git
 [submodule "through"]
 	path = through
-	url = https://github.com/isysd/through.git
+	url = https://bitbucket.org/isysd/through.git
 [submodule "testswarm"]
 	path = testswarm
-	url = git://github.com/isysd/node-testswarm.git
+	url = git://bitbucket.org/isysd/node-testswarm.git
 [submodule "temp"]
 	path = temp
-	url = https://github.com/isysd/temp.git
+	url = https://bitbucket.org/isysd/temp.git
 [submodule "temp-write"]
 	path = temp-write
-	url = https://github.com/isysd/temp-write.git
+	url = https://bitbucket.org/isysd/temp-write.git
 [submodule "taper"]
 	path = taper
-	url = https://github.com/isysd/taper.git
+	url = https://bitbucket.org/isysd/taper.git
 [submodule "tape"]
 	path = tape
-	url = https://github.com/isysd/tape.git
+	url = https://bitbucket.org/isysd/tape.git
 [submodule "tap"]
 	path = tap
-	url = https://github.com/isysd/node-tap.git
+	url = https://bitbucket.org/isysd/node-tap.git
 [submodule "tap-parser"]
 	path = tap-parser
-	url = git://github.com/isysd/tap-parser.git
+	url = git://bitbucket.org/isysd/tap-parser.git
 [submodule "syntax-error"]
 	path = syntax-error
-	url = git://github.com/isysd/node-syntax-error.git
+	url = git://bitbucket.org/isysd/node-syntax-error.git
 [submodule "superagent"]
 	path = superagent
-	url = git://github.com/isysd/superagent.git
+	url = git://bitbucket.org/isysd/superagent.git
 [submodule "subarg"]
 	path = subarg
-	url = git://github.com/isysd/string_decoder.git
+	url = git://bitbucket.org/isysd/string_decoder.git
 [submodule "strip-json-comments"]
 	path = strip-json-comments
-	url = https://github.com/isysd/strip-json-comments.git
+	url = https://bitbucket.org/isysd/strip-json-comments.git
 [submodule "strip-bom"]
 	path = strip-bom
-	url = https://github.com/isysd/strip-bom.git
+	url = https://bitbucket.org/isysd/strip-bom.git
 [submodule "strip-bom-stream"]
 	path = strip-bom-stream
-	url = https://github.com/isysd/strip-bom-stream.git
+	url = https://bitbucket.org/isysd/strip-bom-stream.git
 [submodule "stringstream"]
 	path = stringstream
-	url = https://github.com/isysd/StringStream.git
+	url = https://bitbucket.org/isysd/StringStream.git
 [submodule "stringcase"]
 	path = stringcase
-	url = https://github.com/isysd/node-stringcase.git
+	url = https://bitbucket.org/isysd/node-stringcase.git
 [submodule "string_decoder"]
 	path = string_decoder
-	url = git://github.com/isysd/string_decoder.git
+	url = git://bitbucket.org/isysd/string_decoder.git
 [submodule "string-width"]
 	path = string-width
-	url = https://github.com/isysd/string-width.git
+	url = https://bitbucket.org/isysd/string-width.git
 [submodule "streamfilter"]
 	path = streamfilter
 	url = git@github.com:nfroidure/streamfilter.git
 [submodule "stream-splicer"]
 	path = stream-splicer
-	url = git://github.com/isysd/stream-splicer.git
+	url = git://bitbucket.org/isysd/stream-splicer.git
 [submodule "stream-http"]
 	path = stream-http
-	url = git://github.com/isysd/stream-browserify.git
+	url = git://bitbucket.org/isysd/stream-browserify.git
 [submodule "stream-combiner2"]
 	path = stream-combiner2
-	url = git://github.com/isysd/stream-combiner2.git
+	url = git://bitbucket.org/isysd/stream-combiner2.git
 [submodule "stream-browserify"]
 	path = stream-browserify
-	url = git://github.com/isysd/stream-browserify.git
+	url = git://bitbucket.org/isysd/stream-browserify.git
 [submodule "statuses"]
 	path = statuses
-	url = https://github.com/isysd/statuses
+	url = https://bitbucket.org/isysd/statuses
 [submodule "standard"]
 	path = standard
-	url = https://github.com/isysd/standard.git
+	url = https://bitbucket.org/isysd/standard.git
 [submodule "standard-markdown"]
 	path = standard-markdown
-	url = https://github.com/isysd/standard-markdown.git
+	url = https://bitbucket.org/isysd/standard-markdown.git
 [submodule "stacktrace-js"]
 	path = stacktrace-js
-	url = git://github.com/isysd/stacktrace.js.git
+	url = git://bitbucket.org/isysd/stacktrace.js.git
 [submodule "stack-mapper"]
 	path = stack-mapper
-	url = git://github.com/isysd/stack-mapper.git
+	url = git://bitbucket.org/isysd/stack-mapper.git
 [submodule "sshpk"]
 	path = sshpk
-	url = https://github.com/isysd/node-sshpk.git
+	url = https://bitbucket.org/isysd/node-sshpk.git
 [submodule "sprintf"]
 	path = sprintf
-	url = https://github.com/isysd/node-sprintf.git
+	url = https://bitbucket.org/isysd/node-sprintf.git
 [submodule "spawn-command"]
 	path = spawn-command
-	url = https://github.com/isysd/spawn-command.git
+	url = https://bitbucket.org/isysd/spawn-command.git
 [submodule "source-map"]
 	path = source-map
-	url = https://github.com/isysd/eslint-plugin-standard.git
+	url = https://bitbucket.org/isysd/eslint-plugin-standard.git
 [submodule "source-map-support"]
 	path = source-map-support
-	url = https://github.com/isysd/node-source-map-support.git
+	url = https://bitbucket.org/isysd/node-source-map-support.git
 [submodule "sntp"]
 	path = sntp
-	url = https://github.com/isysd/sntp.git
+	url = https://bitbucket.org/isysd/sntp.git
 [submodule "sinon"]
 	path = sinon
-	url = https://github.com/isysd/sinon.git
+	url = https://bitbucket.org/isysd/sinon.git
 [submodule "signal-exit"]
 	path = signal-exit
-	url = https://github.com/isysd/signal-exit.git
+	url = https://bitbucket.org/isysd/signal-exit.git
 [submodule "shrinkydink"]
 	path = shrinkydink
-	url = git://github.com/isysd/shrinkydink.git
+	url = git://bitbucket.org/isysd/shrinkydink.git
   branch = isysd
 [submodule "should"]
 	path = should
-	url = https://github.com/isysd/should.js.git
+	url = https://bitbucket.org/isysd/should.js.git
 [submodule "should-type"]
 	path = should-type
-	url = https://github.com/isysd/type.git
+	url = https://bitbucket.org/isysd/type.git
 [submodule "should-equal"]
 	path = should-equal
-	url = https://github.com/isysd/equal.git
+	url = https://bitbucket.org/isysd/equal.git
 [submodule "shelljs"]
 	path = shelljs
-	url = git://github.com/isysd/shelljs.git
+	url = git://bitbucket.org/isysd/shelljs.git
 [submodule "shell-quote"]
 	path = shell-quote
 	url = git@github.com:substack/node-shell-quote.git
 [submodule "shasum"]
 	path = shasum
-	url = git://github.com/isysd/shasum.git
+	url = git://bitbucket.org/isysd/shasum.git
 [submodule "shallow-copy"]
 	path = shallow-copy
-	url = git://github.com/isysd/shallow-copy.git
+	url = git://bitbucket.org/isysd/shallow-copy.git
 [submodule "sha.js"]
 	path = sha.js
-	url = git://github.com/isysd/sha.js.git
+	url = git://bitbucket.org/isysd/sha.js.git
 [submodule "setprototypeof"]
 	path = setprototypeof
-	url = https://github.com/isysd/setprototypeof.git
+	url = https://bitbucket.org/isysd/setprototypeof.git
 [submodule "setimmediate"]
 	path = setimmediate
-	url = https://github.com/isysd/setImmediate.git
+	url = https://bitbucket.org/isysd/setImmediate.git
 [submodule "set-blocking"]
 	path = set-blocking
-	url = https://github.com/isysd/set-blocking.git
+	url = https://bitbucket.org/isysd/set-blocking.git
 [submodule "server-destroy"]
 	path = server-destroy
-	url = git://github.com/isysd/server-destroy.git
+	url = git://bitbucket.org/isysd/server-destroy.git
 [submodule "seq"]
 	path = seq
-	url = git://github.com/isysd/node-seq.git
+	url = git://bitbucket.org/isysd/node-seq.git
 [submodule "semver"]
 	path = semver
-	url = https://github.com/isysd/semver.git
+	url = https://bitbucket.org/isysd/semver.git
 [submodule "seedrandom"]
 	path = seedrandom
-	url = git://github.com/isysd/seedrandom.git
+	url = git://bitbucket.org/isysd/seedrandom.git
 [submodule "sections"]
 	path = sections
-	url = https://github.com/isysd/sections.git
+	url = https://bitbucket.org/isysd/sections.git
 [submodule "safe-publish-latest"]
 	path = safe-publish-latest
-	url = git://github.com/isysd/safe-publish-latest.git
+	url = git://bitbucket.org/isysd/safe-publish-latest.git
 [submodule "safe-buffer"]
 	path = safe-buffer
-	url = git://github.com/isysd/safe-buffer.git
+	url = git://bitbucket.org/isysd/safe-buffer.git
 [submodule "rx"]
 	path = rx
-	url = https://github.com/isysd/rx.git
+	url = https://bitbucket.org/isysd/rx.git
 [submodule "rsvp"]
 	path = rsvp
-	url = https://github.com/isysd/rsvp.js.git
+	url = https://bitbucket.org/isysd/rsvp.js.git
 [submodule "rollup"]
 	path = rollup
-	url = https://github.com/isysd/rollup.git
+	url = https://bitbucket.org/isysd/rollup.git
 [submodule "ripemd160"]
 	path = ripemd160
-	url = https://github.com/isysd/ripemd160.git
+	url = https://bitbucket.org/isysd/ripemd160.git
 [submodule "rimraf"]
 	path = rimraf
-	url = https://github.com/isysd/rimraf.git
+	url = https://bitbucket.org/isysd/rimraf.git
 [submodule "reveal"]
 	path = reveal
-	url = https://github.com/isysd/reveal
+	url = https://bitbucket.org/isysd/reveal
 [submodule "resolve"]
 	path = resolve
-	url = https://github.com/isysd/node-resolve.git
+	url = https://bitbucket.org/isysd/node-resolve.git
 [submodule "resolve-glob"]
 	path = resolve-glob
-	url = https://github.com/isysd/resolve-glob.git
+	url = https://bitbucket.org/isysd/resolve-glob.git
 [submodule "requires-port"]
 	path = requires-port
-	url = https://github.com/isysd/requires-port.git
+	url = https://bitbucket.org/isysd/requires-port.git
 [submodule "requirejs"]
 	path = requirejs
-	url = https://github.com/isysd/requirejs-npm.git
+	url = https://bitbucket.org/isysd/requirejs-npm.git
 [submodule "require-module"]
 	path = require-module
-	url = git://github.com/isysd/require-module.git
+	url = git://bitbucket.org/isysd/require-module.git
 [submodule "require-main-filename"]
 	path = require-main-filename
 	url = git@github.com:yargs/require-main-filename.git
 [submodule "require-directory"]
 	path = require-directory
-	url = git://github.com/isysd/node-require-directory.git
+	url = git://bitbucket.org/isysd/node-require-directory.git
 [submodule "require-dir"]
 	path = require-dir
-	url = git://github.com/isysd/requireDir.git
+	url = git://bitbucket.org/isysd/requireDir.git
 [submodule "request"]
 	path = request
-	url = https://github.com/isysd/request.git
+	url = https://bitbucket.org/isysd/request.git
 [submodule "replace-ext"]
 	path = replace-ext
-	url = https://github.com/isysd/replace-ext.git
+	url = https://bitbucket.org/isysd/replace-ext.git
 [submodule "remove-trailing-separator"]
 	path = remove-trailing-separator
-	url = https://github.com/isysd/remove-trailing-separator.git
+	url = https://bitbucket.org/isysd/remove-trailing-separator.git
 [submodule "remarkable"]
 	path = remarkable
-	url = https://github.com/isysd/remarkable.git
+	url = https://bitbucket.org/isysd/remarkable.git
 [submodule "remark"]
 	path = remark
-	url = https://github.com/isysd/remark.git
+	url = https://bitbucket.org/isysd/remark.git
 [submodule "registry-url"]
 	path = registry-url
-	url = https://github.com/isysd/registry-url.git
+	url = https://bitbucket.org/isysd/registry-url.git
 [submodule "registry-auth-token"]
 	path = registry-auth-token
-	url = https://github.com/isysd/registry-auth-token.git
+	url = https://bitbucket.org/isysd/registry-auth-token.git
 [submodule "readdirp"]
 	path = readdirp
-	url = git://github.com/isysd/readdirp.git
+	url = git://bitbucket.org/isysd/readdirp.git
 [submodule "readable-stream"]
 	path = readable-stream
-	url = git://github.com/isysd/readable-stream.git
+	url = git://bitbucket.org/isysd/readable-stream.git
 [submodule "read-pkg"]
 	path = read-pkg
-	url = https://github.com/isysd/read-pkg.git
+	url = https://bitbucket.org/isysd/read-pkg.git
 [submodule "read-pkg-up"]
 	path = read-pkg-up
-	url = https://github.com/isysd/read-pkg-up.git
+	url = https://bitbucket.org/isysd/read-pkg-up.git
 [submodule "read-only-stream"]
 	path = read-only-stream
-	url = git://github.com/isysd/read-only-stream.git
+	url = git://bitbucket.org/isysd/read-only-stream.git
 [submodule "read-dir-files"]
 	path = read-dir-files
-	url = git://github.com/isysd/node-read-dir-files.git
+	url = git://bitbucket.org/isysd/node-read-dir-files.git
 [submodule "rc"]
 	path = rc
-	url = https://github.com/isysd/rc.git
+	url = https://bitbucket.org/isysd/rc.git
 [submodule "raw-body"]
 	path = raw-body
-	url = https://github.com/isysd/raw-body.git
+	url = https://bitbucket.org/isysd/raw-body.git
 [submodule "range-parser"]
 	path = range-parser
-	url = https://github.com/isysd/range-parser
+	url = https://bitbucket.org/isysd/range-parser
 [submodule "randomstring"]
 	path = randomstring
-	url = git://github.com/isysd/node-randomstring.git
+	url = git://bitbucket.org/isysd/node-randomstring.git
 [submodule "randombytes"]
 	path = randombytes
 	url = git@github.com:crypto-browserify/randombytes.git
 [submodule "ramda"]
 	path = ramda
-	url = git://github.com/isysd/ramda.git
+	url = git://bitbucket.org/isysd/ramda.git
 [submodule "querystring"]
 	path = querystring
-	url = git://github.com/isysd/querystring.git
+	url = git://bitbucket.org/isysd/querystring.git
 [submodule "querystring-es3"]
 	path = querystring-es3
-	url = git://github.com/isysd/https-browserify.git
+	url = git://bitbucket.org/isysd/https-browserify.git
 [submodule "qs"]
 	path = qs
-	url = https://github.com/isysd/qs.git
+	url = https://bitbucket.org/isysd/qs.git
 [submodule "qjobs"]
 	path = qjobs
-	url = git://github.com/isysd/qjobs.git
+	url = git://bitbucket.org/isysd/qjobs.git
 [submodule "punycode"]
 	path = punycode
-	url = https://github.com/isysd/punycode.js.git
+	url = https://bitbucket.org/isysd/punycode.js.git
 [submodule "public-encrypt"]
 	path = public-encrypt
-	url = https://github.com/isysd/publicEncrypt.git
+	url = https://bitbucket.org/isysd/publicEncrypt.git
 [submodule "protocols"]
 	path = protocols
-	url = https://github.com/isysd/protocols.git
+	url = https://bitbucket.org/isysd/protocols.git
 [submodule "prompt"]
 	path = prompt
 	url = git@github.com:flatiron/prompt.git
 [submodule "process"]
 	path = process
-	url = git://github.com/isysd/node-process.git
+	url = git://bitbucket.org/isysd/node-process.git
 [submodule "process-nextick-args"]
 	path = process-nextick-args
-	url = https://github.com/isysd/process-nextick-args
+	url = https://bitbucket.org/isysd/process-nextick-args
 [submodule "pretty-remarkable"]
 	path = pretty-remarkable
-	url = https://github.com/isysd/pretty-remarkable.git
+	url = https://bitbucket.org/isysd/pretty-remarkable.git
 [submodule "pretty-hrtime"]
 	path = pretty-hrtime
-	url = git://github.com/isysd/pretty-hrtime.git
+	url = git://bitbucket.org/isysd/pretty-hrtime.git
 [submodule "prepend-http"]
 	path = prepend-http
-	url = https://github.com/isysd/prepend-http.git
+	url = https://bitbucket.org/isysd/prepend-http.git
 [submodule "prelude-ls"]
 	path = prelude-ls
-	url = https://github.com/isysd/prelude-ls.git
+	url = https://bitbucket.org/isysd/prelude-ls.git
 [submodule "pre-commit"]
 	path = pre-commit
-	url = git://github.com/isysd/pre-commit.git
+	url = git://bitbucket.org/isysd/pre-commit.git
 [submodule "pluralize"]
 	path = pluralize
-	url = https://github.com/isysd/pluralize.git
+	url = https://bitbucket.org/isysd/pluralize.git
 [submodule "plugin-log"]
 	path = plugin-log
-	url = https://github.com/isysd/plugin-log.git
+	url = https://bitbucket.org/isysd/plugin-log.git
 [submodule "plugin-error"]
 	path = plugin-error
-	url = git://github.com/isysd/plugin-error.git
+	url = git://bitbucket.org/isysd/plugin-error.git
 [submodule "platform"]
 	path = platform
-	url = https://github.com/isysd/platform.js.git
+	url = https://bitbucket.org/isysd/platform.js.git
 [submodule "pkg-dir"]
 	path = pkg-dir
-	url = https://github.com/isysd/pkg-dir.git
+	url = https://bitbucket.org/isysd/pkg-dir.git
 [submodule "pify"]
 	path = pify
-	url = https://github.com/isysd/pify.git
+	url = https://bitbucket.org/isysd/pify.git
 [submodule "phantomjs-prebuilt"]
 	path = phantomjs-prebuilt
-	url = git://github.com/isysd/phantomjs.git
+	url = git://bitbucket.org/isysd/phantomjs.git
 [submodule "phantom"]
 	path = phantom
-	url = git://github.com/isysd/phantomjs-node.git
+	url = git://bitbucket.org/isysd/phantomjs-node.git
 [submodule "performance-now"]
 	path = performance-now
-	url = https://github.com/isysd/performance-now.git
+	url = https://bitbucket.org/isysd/performance-now.git
 [submodule "pbkdf2"]
 	path = pbkdf2
-	url = https://github.com/isysd/pbkdf2.git
+	url = https://bitbucket.org/isysd/pbkdf2.git
 [submodule "pathval"]
 	path = pathval
 	url = git@github.com:chaijs/pathval.git
 [submodule "path-type"]
 	path = path-type
-	url = https://github.com/isysd/path-type.git
+	url = https://bitbucket.org/isysd/path-type.git
 [submodule "path-starts-with"]
 	path = path-starts-with
-	url = https://github.com/isysd/path-starts-with.git
+	url = https://bitbucket.org/isysd/path-starts-with.git
 [submodule "path-platform"]
 	path = path-platform
-	url = http://github.com/isysd/node-path-platform
+	url = http://bitbucket.org/isysd/node-path-platform
 [submodule "path-parse"]
 	path = path-parse
-	url = https://github.com/isysd/path-parse
+	url = https://bitbucket.org/isysd/path-parse
 [submodule "path-is-absolute"]
 	path = path-is-absolute
-	url = https://github.com/isysd/path-is-absolute.git
+	url = https://bitbucket.org/isysd/path-is-absolute.git
 [submodule "path-exists"]
 	path = path-exists
-	url = https://github.com/isysd/path-exists.git
+	url = https://bitbucket.org/isysd/path-exists.git
 [submodule "path-browserify"]
 	path = path-browserify
-	url = git://github.com/isysd/path-browserify.git
+	url = git://bitbucket.org/isysd/path-browserify.git
 [submodule "parseurl"]
 	path = parseurl
-	url = https://github.com/isysd/parseurl
+	url = https://bitbucket.org/isysd/parseurl
 [submodule "parse-url"]
 	path = parse-url
-	url = https://github.com/isysd/parse-url.git
+	url = https://bitbucket.org/isysd/parse-url.git
 [submodule "parse-json"]
 	path = parse-json
-	url = https://github.com/isysd/parse-json.git
+	url = https://bitbucket.org/isysd/parse-json.git
 [submodule "parse-author"]
 	path = parse-author
-	url = https://github.com/isysd/parse-author.git
+	url = https://bitbucket.org/isysd/parse-author.git
 [submodule "parse-asn1"]
 	path = parse-asn1
-	url = git://github.com/isysd/parse-asn1.git
+	url = git://bitbucket.org/isysd/parse-asn1.git
 [submodule "parents"]
 	path = parents
-	url = git://github.com/isysd/node-parents.git
+	url = git://bitbucket.org/isysd/node-parents.git
 [submodule "p-timeout"]
 	path = p-timeout
-	url = https://github.com/isysd/p-timeout.git
+	url = https://bitbucket.org/isysd/p-timeout.git
 [submodule "p-locate"]
 	path = p-locate
-	url = https://github.com/isysd/p-locate.git
+	url = https://bitbucket.org/isysd/p-locate.git
 [submodule "p-limit"]
 	path = p-limit
-	url = https://github.com/isysd/p-limit.git
+	url = https://bitbucket.org/isysd/p-limit.git
 [submodule "p-finally"]
 	path = p-finally
-	url = https://github.com/isysd/p-finally.git
+	url = https://bitbucket.org/isysd/p-finally.git
 [submodule "p-cancelable"]
 	path = p-cancelable
-	url = https://github.com/isysd/p-cancelable.git
+	url = https://bitbucket.org/isysd/p-cancelable.git
 [submodule "outpipe"]
 	path = outpipe
-	url = git://github.com/isysd/outpipe.git
+	url = git://bitbucket.org/isysd/outpipe.git
 [submodule "osenv"]
 	path = osenv
-	url = https://github.com/isysd/osenv.git
+	url = https://bitbucket.org/isysd/osenv.git
 [submodule "os-tmpdir"]
 	path = os-tmpdir
-	url = https://github.com/isysd/os-tmpdir.git
+	url = https://bitbucket.org/isysd/os-tmpdir.git
 [submodule "os-locale"]
 	path = os-locale
-	url = https://github.com/isysd/os-locale.git
+	url = https://bitbucket.org/isysd/os-locale.git
 [submodule "os-homedir"]
 	path = os-homedir
-	url = https://github.com/isysd/os-homedir.git
+	url = https://bitbucket.org/isysd/os-homedir.git
 [submodule "os-browserify"]
 	path = os-browserify
 	url = git@github.com:CoderPuppy/os-browserify.git
 [submodule "orchestrator"]
 	path = orchestrator
-	url = git://github.com/isysd/orchestrator.git
+	url = git://bitbucket.org/isysd/orchestrator.git
 [submodule "optionator"]
 	path = optionator
-	url = git://github.com/isysd/optionator.git
+	url = git://bitbucket.org/isysd/optionator.git
 [submodule "optimist"]
 	path = optimist
-	url = https://github.com/isysd/optimist.git
+	url = https://bitbucket.org/isysd/optimist.git
 [submodule "openpgp"]
 	path = openpgp
-	url = https://github.com/isysd/openpgpjs.git
+	url = https://bitbucket.org/isysd/openpgpjs.git
 [submodule "opener"]
 	path = opener
-	url = https://github.com/isysd/opener.git
+	url = https://bitbucket.org/isysd/opener.git
 [submodule "once"]
 	path = once
-	url = git://github.com/isysd/once.git
+	url = git://bitbucket.org/isysd/once.git
 [submodule "on-finished"]
 	path = on-finished
-	url = https://github.com/isysd/on-finished
+	url = https://bitbucket.org/isysd/on-finished
 [submodule "octonode"]
 	path = octonode
-	url = https://github.com/isysd/octonode.git
+	url = https://bitbucket.org/isysd/octonode.git
 [submodule "object-assign"]
 	path = object-assign
-	url = https://github.com/isysd/object-assign.git
+	url = https://bitbucket.org/isysd/object-assign.git
 [submodule "oauth-sign"]
 	path = oauth-sign
-	url = https://github.com/isysd/oauth-sign.git
+	url = https://bitbucket.org/isysd/oauth-sign.git
 [submodule "nyc"]
 	path = nyc
 	url = git@github.com:istanbuljs/nyc.git
 [submodule "nsp"]
 	path = nsp
-	url = git://github.com/isysd/nsp.git
+	url = git://bitbucket.org/isysd/nsp.git
 [submodule "npmlog"]
 	path = npmlog
-	url = https://github.com/isysd/npmlog.git
+	url = https://bitbucket.org/isysd/npmlog.git
 [submodule "npm-user"]
 	path = npm-user
-	url = https://github.com/isysd/npm-user.git
+	url = https://bitbucket.org/isysd/npm-user.git
 [submodule "npm-run-path"]
 	path = npm-run-path
-	url = https://github.com/isysd/npm-run-path.git
+	url = https://bitbucket.org/isysd/npm-run-path.git
 [submodule "npm-license"]
 	path = npm-license
 	url = git@github.com:AceMetrix/npm-license.git
 [submodule "normalize-path"]
 	path = normalize-path
-	url = https://github.com/isysd/normalize-path.git
+	url = https://bitbucket.org/isysd/normalize-path.git
 [submodule "nopt"]
 	path = nopt
-	url = https://github.com/isysd/nopt.git
+	url = https://bitbucket.org/isysd/nopt.git
 [submodule "nodegit"]
 	path = nodegit
-	url = git://github.com/isysd/nodegit.git
+	url = git://bitbucket.org/isysd/nodegit.git
 [submodule "node-pre-gyp"]
 	path = node-pre-gyp
-	url = git://github.com/isysd/node-pre-gyp.git
+	url = git://bitbucket.org/isysd/node-pre-gyp.git
 [submodule "node-ledger-web"]
 	path = node-ledger-web
-	url = https://github.com/isysd/node-ledger-web.git
+	url = https://bitbucket.org/isysd/node-ledger-web.git
 [submodule "node-ledger-rest"]
 	path = node-ledger-rest
-	url = https://github.com/isysd/node-ledger-rest.git
+	url = https://bitbucket.org/isysd/node-ledger-rest.git
 [submodule "nock"]
 	path = nock
-	url = git+ssh://git@github.com/isysd/nock.git
+	url = git+ssh://git@bitbucket.org/isysd/nock.git
 [submodule "netrc"]
 	path = netrc
-	url = https://github.com/isysd/netrc.git
+	url = https://bitbucket.org/isysd/netrc.git
 [submodule "native-promise-only"]
 	path = native-promise-only
-	url = git://github.com/isysd/native-promise-only.git
+	url = git://bitbucket.org/isysd/native-promise-only.git
 [submodule "mustache"]
 	path = mustache
-	url = https://github.com/isysd/mustache.js.git
+	url = https://bitbucket.org/isysd/mustache.js.git
 [submodule "multimatch"]
 	path = multimatch
-	url = https://github.com/isysd/multimatch
+	url = https://bitbucket.org/isysd/multimatch
 [submodule "ms"]
 	path = ms
-	url = https://github.com/isysd/ms.git
+	url = https://bitbucket.org/isysd/ms.git
 [submodule "module-deps"]
 	path = module-deps
-	url = git://github.com/isysd/module-deps.git
+	url = git://bitbucket.org/isysd/module-deps.git
 [submodule "mock-fs"]
 	path = mock-fs
-	url = git://github.com/isysd/mock-fs.git
+	url = git://bitbucket.org/isysd/mock-fs.git
 [submodule "mocha"]
 	path = mocha
-	url = https://github.com/isysd/mocha.git
+	url = https://bitbucket.org/isysd/mocha.git
 [submodule "mkdirp"]
 	path = mkdirp
-	url = https://github.com/isysd/mkdirp.git
+	url = https://bitbucket.org/isysd/mkdirp.git
 [submodule "mixin-deep"]
 	path = mixin-deep
-	url = https://github.com/isysd/mixin-deep.git
+	url = https://bitbucket.org/isysd/mixin-deep.git
 [submodule "minimist"]
 	path = minimist
-	url = git://github.com/isysd/minimist.git
+	url = git://bitbucket.org/isysd/minimist.git
 [submodule "minimatch"]
 	path = minimatch
-	url = https://github.com/isysd/minimatch.git
+	url = https://bitbucket.org/isysd/minimatch.git
 [submodule "minimalistic-crypto-utils"]
 	path = minimalistic-crypto-utils
 	url = git@github.com:indutny/minimalistic-crypto-utils.git
 [submodule "minimalistic-assert"]
 	path = minimalistic-assert
-	url = https://github.com/isysd/minimalistic-assert
+	url = https://bitbucket.org/isysd/minimalistic-assert
 [submodule "mime"]
 	path = mime
-	url = https://github.com/isysd/mime.git
+	url = https://bitbucket.org/isysd/mime.git
 [submodule "mime-types"]
 	path = mime-types
-	url = https://github.com/isysd/mime-types.git
+	url = https://bitbucket.org/isysd/mime-types.git
 [submodule "mime-db"]
 	path = mime-db
-	url = https://github.com/isysd/mime-db.git
+	url = https://bitbucket.org/isysd/mime-db.git
 [submodule "miller-rabin"]
 	path = miller-rabin
 	url = git@github.com:indutny/miller-rabin.git
 [submodule "micromatch"]
 	path = micromatch
-	url = https://github.com/isysd/micromatch.git
+	url = https://bitbucket.org/isysd/micromatch.git
 [submodule "media-typer"]
 	path = media-typer
-	url = https://github.com/isysd/media-typer
+	url = https://bitbucket.org/isysd/media-typer
 [submodule "markdownlint"]
 	path = markdownlint
-	url = https://github.com/isysd/markdownlint.git
+	url = https://bitbucket.org/isysd/markdownlint.git
 [submodule "markdown"]
 	path = markdown
-	url = git://github.com/isysd/markdown-js.git
+	url = git://bitbucket.org/isysd/markdown-js.git
 [submodule "map-stream"]
 	path = map-stream
-	url = git://github.com/isysd/map-stream.git
+	url = git://bitbucket.org/isysd/map-stream.git
 [submodule "make-dir"]
 	path = make-dir
-	url = https://github.com/isysd/make-dir.git
+	url = https://bitbucket.org/isysd/make-dir.git
 [submodule "lru-cache"]
 	path = lru-cache
-	url = git://github.com/isysd/node-lru-cache.git
+	url = git://bitbucket.org/isysd/node-lru-cache.git
 [submodule "lowercase-keys"]
 	path = lowercase-keys
-	url = https://github.com/isysd/lowercase-keys.git
+	url = https://bitbucket.org/isysd/lowercase-keys.git
 [submodule "log-utils"]
 	path = log-utils
-	url = https://github.com/isysd/log-utils.git
+	url = https://bitbucket.org/isysd/log-utils.git
 [submodule "lodash"]
 	path = lodash
-	url = https://github.com/isysd/lodash.git
+	url = https://bitbucket.org/isysd/lodash.git
 [submodule "lodash.memoize"]
 	path = lodash.memoize
-	url = https://github.com/isysd/lodash.git
+	url = https://bitbucket.org/isysd/lodash.git
 [submodule "lodash-es"]
 	path = lodash-es
-	url = https://github.com/isysd/lodash.git
+	url = https://bitbucket.org/isysd/lodash.git
 [submodule "locate-path"]
 	path = locate-path
-	url = https://github.com/isysd/locate-path.git
+	url = https://bitbucket.org/isysd/locate-path.git
 [submodule "load-script"]
 	path = load-script
-	url = git://github.com/isysd/load-script
+	url = git://bitbucket.org/isysd/load-script
 [submodule "load-json-file"]
 	path = load-json-file
-	url = https://github.com/isysd/load-json-file.git
+	url = https://bitbucket.org/isysd/load-json-file.git
 [submodule "load-grunt-tasks"]
 	path = load-grunt-tasks
-	url = https://github.com/isysd/load-grunt-tasks.git
+	url = https://bitbucket.org/isysd/load-grunt-tasks.git
 [submodule "linefix"]
 	path = linefix
-	url = http://github.com/isysd/linefix
+	url = http://bitbucket.org/isysd/linefix
 [submodule "liftoff"]
 	path = liftoff
-	url = git://github.com/isysd/js-liftoff.git
+	url = git://bitbucket.org/isysd/js-liftoff.git
 [submodule "lexical-scope"]
 	path = lexical-scope
-	url = git://github.com/isysd/lexical-scope.git
+	url = git://bitbucket.org/isysd/lexical-scope.git
 [submodule "levn"]
 	path = levn
-	url = git://github.com/isysd/type-check.git
+	url = git://bitbucket.org/isysd/type-check.git
 [submodule "lerna"]
 	path = lerna
-	url = https://github.com/isysd/lerna.git
+	url = https://bitbucket.org/isysd/lerna.git
 [submodule "ledger-cli"]
 	path = ledger-cli
-	url = git@github.com:isysd/node-ledger.git
+	url = git@bitbucket.org:isysd/node-ledger.git
 [submodule "lazy-cache"]
 	path = lazy-cache
-	url = https://github.com/isysd/lazy-cache.git
+	url = https://bitbucket.org/isysd/lazy-cache.git
 [submodule "labeled-stream-splicer"]
 	path = labeled-stream-splicer
-	url = git://github.com/isysd/labeled-stream-splicer.git
+	url = git://bitbucket.org/isysd/labeled-stream-splicer.git
 [submodule "kind-of"]
 	path = kind-of
-	url = https://github.com/isysd/kind-of.git
+	url = https://bitbucket.org/isysd/kind-of.git
 [submodule "keybase-user"]
 	path = keybase-user
-	url = https://github.com/isysd/keybase-user.git
+	url = https://bitbucket.org/isysd/keybase-user.git
 [submodule "kew"]
 	path = kew
-	url = https://github.com/isysd/kew.git
+	url = https://bitbucket.org/isysd/kew.git
 [submodule "karma"]
 	path = karma
-	url = git://github.com/isysd/karma.git
+	url = git://bitbucket.org/isysd/karma.git
 [submodule "karma-tap"]
 	path = karma-tap
-	url = https://github.com/isysd/karma-tap.git
+	url = https://bitbucket.org/isysd/karma-tap.git
 [submodule "karma-phantomjs-launcher"]
 	path = karma-phantomjs-launcher
-	url = git://github.com/isysd/karma-phantomjs-launcher.git
+	url = git://bitbucket.org/isysd/karma-phantomjs-launcher.git
 [submodule "karma-coverage"]
 	path = karma-coverage
-	url = git://github.com/isysd/karma-coverage.git
+	url = git://bitbucket.org/isysd/karma-coverage.git
 [submodule "karma-cli"]
 	path = karma-cli
-	url = git://github.com/isysd/karma-cli.git
+	url = git://bitbucket.org/isysd/karma-cli.git
 [submodule "karma-browserify"]
 	path = karma-browserify
-	url = git+ssh://git@github.com/isysd/karma-browserify.git
+	url = git+ssh://git@bitbucket.org/isysd/karma-browserify.git
 [submodule "jsx-ast-utils"]
 	path = jsx-ast-utils
-	url = https://github.com/isysd/jsx-ast-utils.git
+	url = https://bitbucket.org/isysd/jsx-ast-utils.git
 [submodule "jsprime"]
 	path = jsprime
-	url = https://github.com/isysd/jsprime.git
+	url = https://bitbucket.org/isysd/jsprime.git
 [submodule "jsprim"]
 	path = jsprim
-	url = https://github.com/isysd/node-jsprim.git
+	url = https://bitbucket.org/isysd/node-jsprim.git
 [submodule "jsonparse"]
 	path = jsonparse
 	url = git@github.com:creationix/jsonparse.git
 [submodule "jsonify"]
 	path = jsonify
-	url = git://github.com/isysd/jsonify.git
+	url = git://bitbucket.org/isysd/jsonify.git
 [submodule "jsonfile"]
 	path = jsonfile
-	url = https://github.com/isysd/node-jsonfile.git
+	url = https://bitbucket.org/isysd/node-jsonfile.git
 [submodule "json3"]
 	path = json3
-	url = https://github.com/isysd/json3.git
+	url = https://bitbucket.org/isysd/json3.git
 [submodule "json-stringify-safe"]
 	path = json-stringify-safe
-	url = https://github.com/isysd/json-stringify-safe.git
+	url = https://bitbucket.org/isysd/json-stringify-safe.git
 [submodule "json-stable-stringify"]
 	path = json-stable-stringify
-	url = git://github.com/isysd/json-stable-stringify.git
+	url = git://bitbucket.org/isysd/json-stable-stringify.git
 [submodule "json-schema"]
 	path = json-schema
 	url = git@github.com:kriszyp/json-schema.git
 [submodule "json-schema-traverse"]
 	path = json-schema-traverse
-	url = https://github.com/isysd/json-schema-traverse.git
+	url = https://bitbucket.org/isysd/json-schema-traverse.git
 [submodule "json-diff"]
 	path = json-diff
 	url = git@github.com:andreyvit/json-diff.git
 [submodule "jshint"]
 	path = jshint
-	url = https://github.com/isysd/jshint.git
+	url = https://bitbucket.org/isysd/jshint.git
 [submodule "jshint-stylish"]
 	path = jshint-stylish
-	url = https://github.com/isysd/jshint-stylish.git
+	url = https://bitbucket.org/isysd/jshint-stylish.git
 [submodule "jsdoc-to-markdown"]
 	path = jsdoc-to-markdown
-	url = https://github.com/isysd/jsdoc-to-markdown.git
+	url = https://bitbucket.org/isysd/jsdoc-to-markdown.git
 [submodule "js-yaml"]
 	path = js-yaml
-	url = https://github.com/isysd/js-yaml.git
+	url = https://bitbucket.org/isysd/js-yaml.git
 [submodule "js-tokens"]
 	path = js-tokens
-	url = https://github.com/isysd/js-tokens.git
+	url = https://bitbucket.org/isysd/js-tokens.git
 [submodule "jquery-ui"]
 	path = jquery-ui
-	url = git://github.com/isysd/jquery-ui.git
+	url = git://bitbucket.org/isysd/jquery-ui.git
 [submodule "jest"]
 	path = jest
-	url = https://github.com/isysd/jest.git
+	url = https://bitbucket.org/isysd/jest.git
 [submodule "isurl"]
 	path = isurl
-	url = https://github.com/isysd/isurl.git
+	url = https://bitbucket.org/isysd/isurl.git
 [submodule "istanbul"]
 	path = istanbul
-	url = https://github.com/isysd/istanbul.git
+	url = https://bitbucket.org/isysd/istanbul.git
 [submodule "istanbul-threshold-checker"]
 	path = istanbul-threshold-checker
-	url = https://github.com/isysd/istanbul-threshold-checker.git
+	url = https://bitbucket.org/isysd/istanbul-threshold-checker.git
 [submodule "istanbul-middleware"]
 	path = istanbul-middleware
 	url = git@github.com:gotwarlost/istanbul-middleware.git
 [submodule "isstream"]
 	path = isstream
-	url = https://github.com/isysd/isstream.git
+	url = https://bitbucket.org/isysd/isstream.git
 [submodule "isexe"]
 	path = isexe
-	url = https://github.com/isysd/isexe.git
+	url = https://bitbucket.org/isysd/isexe.git
 [submodule "isbinaryfile"]
 	path = isbinaryfile
-	url = https://github.com/isysd/isbinaryfile.git
+	url = https://bitbucket.org/isysd/isbinaryfile.git
 [submodule "isarray"]
 	path = isarray
-	url = git://github.com/isysd/isarray.git
+	url = git://bitbucket.org/isysd/isarray.git
 [submodule "is-windows"]
 	path = is-windows
-	url = https://github.com/isysd/is-windows.git
+	url = https://bitbucket.org/isysd/is-windows.git
 [submodule "is-typedarray"]
 	path = is-typedarray
-	url = https://github.com/isysd/is-typedarray.git
+	url = https://bitbucket.org/isysd/is-typedarray.git
 [submodule "is-stream"]
 	path = is-stream
-	url = https://github.com/isysd/is-stream.git
+	url = https://bitbucket.org/isysd/is-stream.git
 [submodule "is-ssh"]
 	path = is-ssh
-	url = https://github.com/isysd/is-ssh.git
+	url = https://bitbucket.org/isysd/is-ssh.git
 [submodule "is-retry-allowed"]
 	path = is-retry-allowed
-	url = https://github.com/isysd/is-retry-allowed.git
+	url = https://bitbucket.org/isysd/is-retry-allowed.git
 [submodule "is-plain-obj"]
 	path = is-plain-obj
-	url = https://github.com/isysd/is-plain-obj
+	url = https://bitbucket.org/isysd/is-plain-obj
 [submodule "is-object"]
 	path = is-object
-	url = https://github.com/isysd/is-object.git
+	url = https://bitbucket.org/isysd/is-object.git
 [submodule "is-mergeable-object"]
 	path = is-mergeable-object
-	url = git+ssh://git@github.com/isysd/is-mergeable-object.git
+	url = git+ssh://git@bitbucket.org/isysd/is-mergeable-object.git
 [submodule "is-glob"]
 	path = is-glob
-	url = https://github.com/isysd/is-glob.git
+	url = https://bitbucket.org/isysd/is-glob.git
 [submodule "is-extendable"]
 	path = is-extendable
-	url = https://github.com/isysd/is-extendable.git
+	url = https://bitbucket.org/isysd/is-extendable.git
 [submodule "is-buffer"]
 	path = is-buffer
-	url = git://github.com/isysd/is-buffer.git
+	url = git://bitbucket.org/isysd/is-buffer.git
 [submodule "is-binary-path"]
 	path = is-binary-path
-	url = https://github.com/isysd/is-binary-path.git
+	url = https://bitbucket.org/isysd/is-binary-path.git
 [submodule "is-arrayish"]
 	path = is-arrayish
-	url = https://github.com/isysd/node-is-arrayish.git
+	url = https://bitbucket.org/isysd/node-is-arrayish.git
 [submodule "invariant"]
 	path = invariant
-	url = https://github.com/isysd/invariant.git
+	url = https://bitbucket.org/isysd/invariant.git
 [submodule "interpret"]
 	path = interpret
-	url = git://github.com/isysd/node-interpret.git
+	url = git://bitbucket.org/isysd/node-interpret.git
 [submodule "insert-module-globals"]
 	path = insert-module-globals
-	url = git://github.com/isysd/insert-module-globals.git
+	url = git://bitbucket.org/isysd/insert-module-globals.git
 [submodule "inquirer"]
 	path = inquirer
-	url = https://github.com/isysd/Inquirer.js.git
+	url = https://bitbucket.org/isysd/Inquirer.js.git
 [submodule "inline-source-map"]
 	path = inline-source-map
-	url = git://github.com/isysd/inline-source-map.git
+	url = git://bitbucket.org/isysd/inline-source-map.git
 [submodule "ini"]
 	path = ini
-	url = https://github.com/isysd/ini.git
+	url = https://bitbucket.org/isysd/ini.git
 [submodule "inherits"]
 	path = inherits
-	url = git://github.com/isysd/inherits.git
+	url = git://bitbucket.org/isysd/inherits.git
 [submodule "inflight"]
 	path = inflight
-	url = https://github.com/isysd/inflight.git
+	url = https://bitbucket.org/isysd/inflight.git
 [submodule "inflection"]
 	path = inflection
-	url = https://github.com/isysd/node.inflection.git
+	url = https://bitbucket.org/isysd/node.inflection.git
 [submodule "in-publish"]
 	path = in-publish
-	url = https://github.com/isysd/in-publish.git
+	url = https://bitbucket.org/isysd/in-publish.git
 [submodule "ignore"]
 	path = ignore
 	url = git@github.com:kaelzhang/node-ignore.git
 [submodule "iftype"]
 	path = iftype
-	url = https://github.com/isysd/node-iftype.git
+	url = https://bitbucket.org/isysd/node-iftype.git
 [submodule "ieee754"]
 	path = ieee754
-	url = git://github.com/isysd/ieee754.git
+	url = git://bitbucket.org/isysd/ieee754.git
 [submodule "iconv-lite"]
 	path = iconv-lite
-	url = git://github.com/isysd/iconv-lite.git
+	url = git://bitbucket.org/isysd/iconv-lite.git
 [submodule "hyperquest"]
 	path = hyperquest
-	url = git://github.com/isysd/hyperquest.git
+	url = git://bitbucket.org/isysd/hyperquest.git
 [submodule "husky"]
 	path = husky
-	url = git://github.com/isysd/husky.git
+	url = git://bitbucket.org/isysd/husky.git
 [submodule "humanize-duration"]
 	path = humanize-duration
-	url = git://github.com/isysd/HumanizeDuration.js.git
+	url = git://bitbucket.org/isysd/HumanizeDuration.js.git
 [submodule "https-proxy-agent"]
 	path = https-proxy-agent
-	url = git://github.com/isysd/node-https-proxy-agent.git
+	url = git://bitbucket.org/isysd/node-https-proxy-agent.git
 [submodule "https-browserify"]
 	path = https-browserify
-	url = git://github.com/isysd/https-browserify.git
+	url = git://bitbucket.org/isysd/https-browserify.git
 [submodule "http2"]
 	path = http2
-	url = https://github.com/isysd/node-http2.git
+	url = https://bitbucket.org/isysd/node-http2.git
 [submodule "http-signature"]
 	path = http-signature
-	url = https://github.com/isysd/node-http-signature.git
+	url = https://bitbucket.org/isysd/node-http-signature.git
 [submodule "http-server"]
 	path = http-server
-	url = git://github.com/isysd/http-server.git
+	url = git://bitbucket.org/isysd/http-server.git
 [submodule "http-proxy"]
 	path = http-proxy
-	url = https://github.com/isysd/node-http-proxy.git
+	url = https://bitbucket.org/isysd/node-http-proxy.git
 [submodule "http-errors"]
 	path = http-errors
-	url = https://github.com/isysd/http-errors.git
+	url = https://bitbucket.org/isysd/http-errors.git
 [submodule "htmlparser2"]
 	path = htmlparser2
-	url = https://github.com/isysd/htmlparser2.git
+	url = https://bitbucket.org/isysd/htmlparser2.git
 [submodule "htmlescape"]
 	path = htmlescape
-	url = git://github.com/isysd/htmlescape.git
+	url = git://bitbucket.org/isysd/htmlescape.git
 [submodule "hoek"]
 	path = hoek
-	url = https://github.com/isysd/hoek.git
+	url = https://bitbucket.org/isysd/hoek.git
 [submodule "hmac-drbg"]
 	path = hmac-drbg
 	url = git@github.com:indutny/hmac-drbg.git
 [submodule "hkp-client"]
 	path = hkp-client
-	url = https://github.com/isysd/node-hkp-client.git
+	url = https://bitbucket.org/isysd/node-hkp-client.git
 [submodule "highlight.js"]
 	path = highlight.js
-	url = git://github.com/isysd/highlight.js.git
+	url = git://bitbucket.org/isysd/highlight.js.git
 [submodule "hbs"]
 	path = hbs
-	url = git://github.com/isysd/hbs.git
+	url = git://bitbucket.org/isysd/hbs.git
 [submodule "hawk"]
 	path = hawk
-	url = https://github.com/isysd/hawk.git
+	url = https://bitbucket.org/isysd/hawk.git
 [submodule "hashish"]
 	path = hashish
-	url = git://github.com/isysd/node-hashish.git
+	url = git://bitbucket.org/isysd/node-hashish.git
 [submodule "hash.js"]
 	path = hash.js
 	url = git@github.com:indutny/hash.js.git
 [submodule "hash-test-vectors"]
 	path = hash-test-vectors
-	url = git://github.com/isysd/hash-test-vectors.git
+	url = git://bitbucket.org/isysd/hash-test-vectors.git
 [submodule "hash-base"]
 	path = hash-base
-	url = https://github.com/isysd/hash-base.git
+	url = https://bitbucket.org/isysd/hash-base.git
 [submodule "hasbin"]
 	path = hasbin
-	url = https://github.com/isysd/hasbin.git
+	url = https://bitbucket.org/isysd/hasbin.git
 [submodule "has"]
 	path = has
-	url = git://github.com/isysd/has.git
+	url = git://bitbucket.org/isysd/has.git
 [submodule "has-values"]
 	path = has-values
-	url = https://github.com/isysd/has-values.git
+	url = https://bitbucket.org/isysd/has-values.git
 [submodule "has-to-string-tag-x"]
 	path = has-to-string-tag-x
-	url = https://github.com/isysd/has-to-string-tag-x.git
+	url = https://bitbucket.org/isysd/has-to-string-tag-x.git
 [submodule "has-symbol-support-x"]
 	path = has-symbol-support-x
-	url = https://github.com/isysd/has-symbol-support-x.git
+	url = https://bitbucket.org/isysd/has-symbol-support-x.git
 [submodule "has-flag"]
 	path = has-flag
-	url = https://github.com/isysd/has-flag.git
+	url = https://bitbucket.org/isysd/has-flag.git
 [submodule "handlebars"]
 	path = handlebars
-	url = https://github.com/isysd/handlebars.js.git
+	url = https://bitbucket.org/isysd/handlebars.js.git
 [submodule "gulplog"]
 	path = gulplog
-	url = https://github.com/isysd/gulplog.git
+	url = https://bitbucket.org/isysd/gulplog.git
 [submodule "gulp"]
 	path = gulp
-	url = https://github.com/isysd/gulp.git
+	url = https://bitbucket.org/isysd/gulp.git
 [submodule "gulp-watch"]
 	path = gulp-watch
-	url = git://github.com/isysd/gulp-watch.git
+	url = git://bitbucket.org/isysd/gulp-watch.git
 [submodule "gulp-util"]
 	path = gulp-util
-	url = https://github.com/isysd/gulp-util.git
+	url = https://bitbucket.org/isysd/gulp-util.git
 [submodule "gulp-unused"]
 	path = gulp-unused
-	url = https://github.com/isysd/gulp-unused.git
+	url = https://bitbucket.org/isysd/gulp-unused.git
 [submodule "gulp-uglify"]
 	path = gulp-uglify
-	url = https://github.com/isysd/gulp-uglify.git
+	url = https://bitbucket.org/isysd/gulp-uglify.git
 [submodule "gulp-tag-version"]
 	path = gulp-tag-version
 	url = git@github.com:ikari-pl/gulp-tag-version.git
 [submodule "gulp-plumber"]
 	path = gulp-plumber
-	url = https://github.com/isysd/gulp-plumber.git
+	url = https://bitbucket.org/isysd/gulp-plumber.git
 [submodule "gulp-newer"]
 	path = gulp-newer
-	url = git://github.com/isysd/gulp-newer.git
+	url = git://bitbucket.org/isysd/gulp-newer.git
 [submodule "gulp-mocha"]
 	path = gulp-mocha
-	url = https://github.com/isysd/gulp-mocha.git
+	url = https://bitbucket.org/isysd/gulp-mocha.git
 [submodule "gulp-istanbul"]
 	path = gulp-istanbul
-	url = git://github.com/isysd/gulp-istanbul.git
+	url = git://bitbucket.org/isysd/gulp-istanbul.git
 [submodule "gulp-git"]
 	path = gulp-git
 	url = git@github.com:stevelacy/gulp-git.git
 [submodule "gulp-format-md"]
 	path = gulp-format-md
-	url = https://github.com/isysd/gulp-format-md.git
+	url = https://bitbucket.org/isysd/gulp-format-md.git
 [submodule "gulp-filter"]
 	path = gulp-filter
-	url = https://github.com/isysd/gulp-filter.git
+	url = https://bitbucket.org/isysd/gulp-filter.git
 [submodule "gulp-eslint"]
 	path = gulp-eslint
-	url = https://github.com/isysd/gulp-eslint.git
+	url = https://bitbucket.org/isysd/gulp-eslint.git
 [submodule "gulp-concat"]
 	path = gulp-concat
-	url = https://github.com/isysd/gulp-concat.git
+	url = https://bitbucket.org/isysd/gulp-concat.git
 [submodule "gulp-bump"]
 	path = gulp-bump
-	url = https://github.com/isysd/gulp-bump.git
+	url = https://bitbucket.org/isysd/gulp-bump.git
 [submodule "gulp-babel"]
 	path = gulp-babel
-	url = https://github.com/isysd/gulp-babel.git
+	url = https://bitbucket.org/isysd/gulp-babel.git
 [submodule "guld-vrcave"]
 	path = guld-vrcave
-	url = git@github.com:isysd/guld-vrcave.git
-[submodule "guld-import"]
-	path = guld-import
-	url = git@github.com:isysd/guld-import.git
-[submodule "guld-browser"]
-	path = guld-browser
-	url = https://github.com/isysd/guld-browser.git
+	url = git@bitbucket.org:isysd/guld-vrcave.git
 [submodule "grunt"]
 	path = grunt
-	url = https://github.com/isysd/grunt.git
+	url = https://bitbucket.org/isysd/grunt.git
 [submodule "grunt-svgmin"]
 	path = grunt-svgmin
-	url = https://github.com/isysd/grunt-svgmin.git
+	url = https://bitbucket.org/isysd/grunt-svgmin.git
 [submodule "grunt-legacy-util"]
 	path = grunt-legacy-util
-	url = git://github.com/isysd/grunt-legacy-util.git
+	url = git://bitbucket.org/isysd/grunt-legacy-util.git
 [submodule "grunt-legacy-log"]
 	path = grunt-legacy-log
-	url = git://github.com/isysd/grunt-legacy-log.git
+	url = git://bitbucket.org/isysd/grunt-legacy-log.git
 [submodule "grunt-known-options"]
 	path = grunt-known-options
-	url = https://github.com/isysd/grunt-known-options.git
+	url = https://bitbucket.org/isysd/grunt-known-options.git
 [submodule "grunt-cli"]
 	path = grunt-cli
-	url = https://github.com/isysd/grunt-cli.git
+	url = https://bitbucket.org/isysd/grunt-cli.git
 [submodule "graceful-readlink"]
 	path = graceful-readlink
-	url = git://github.com/isysd/graceful-readlink.git
+	url = git://bitbucket.org/isysd/graceful-readlink.git
 [submodule "graceful-fs"]
 	path = graceful-fs
-	url = https://github.com/isysd/node-graceful-fs.git
+	url = https://bitbucket.org/isysd/node-graceful-fs.git
 [submodule "got"]
 	path = got
-	url = https://github.com/isysd/got.git
+	url = https://bitbucket.org/isysd/got.git
 [submodule "globs-to-files"]
 	path = globs-to-files
-	url = http://github.com/isysd/globs-to-files
+	url = http://bitbucket.org/isysd/globs-to-files
 [submodule "globals"]
 	path = globals
-	url = https://github.com/isysd/globals.git
+	url = https://bitbucket.org/isysd/globals.git
 [submodule "glob"]
 	path = glob
-	url = https://github.com/isysd/glob.git
+	url = https://bitbucket.org/isysd/glob.git
 [submodule "glob-promise"]
 	path = glob-promise
-	url = https://github.com/isysd/glob-promise.git
+	url = https://bitbucket.org/isysd/glob-promise.git
 [submodule "glob-parent"]
 	path = glob-parent
-	url = https://github.com/isysd/glob-parent.git
+	url = https://bitbucket.org/isysd/glob-parent.git
 [submodule "github"]
 	path = github
-	url = https://github.com/isysd/node-github.git
+	url = https://bitbucket.org/isysd/node-github.git
 [submodule "github-username"]
 	path = github-username
-	url = https://github.com/isysd/github-username.git
+	url = https://bitbucket.org/isysd/github-username.git
 [submodule "github-api"]
 	path = github-api
-	url = git://github.com/isysd/github.git
+	url = git://bitbucket.org/isysd/github.git
 [submodule "git-url-parse"]
 	path = git-url-parse
-	url = https://github.com/isysd/git-url-parse.git
+	url = https://bitbucket.org/isysd/git-url-parse.git
 [submodule "git-up"]
 	path = git-up
-	url = https://github.com/isysd/git-up.git
+	url = https://bitbucket.org/isysd/git-up.git
 [submodule "git-source"]
 	path = git-source
-	url = https://github.com/isysd/git-source.git
+	url = https://bitbucket.org/isysd/git-source.git
 [submodule "gh-user"]
 	path = gh-user
-	url = https://github.com/isysd/gh-user.git
+	url = https://bitbucket.org/isysd/gh-user.git
 [submodule "gh-pages-deploy"]
 	path = gh-pages-deploy
-	url = https://github.com/isysd/gh-pages-deploy.git
+	url = https://bitbucket.org/isysd/gh-pages-deploy.git
 [submodule "get-stream"]
 	path = get-stream
-	url = https://github.com/isysd/get-stream.git
+	url = https://bitbucket.org/isysd/get-stream.git
 [submodule "get-port"]
 	path = get-port
-	url = https://github.com/isysd/get-port.git
+	url = https://bitbucket.org/isysd/get-port.git
 [submodule "get-func-name"]
 	path = get-func-name
 	url = git@github.com:chaijs/get-func-name.git
 [submodule "get-caller-file"]
 	path = get-caller-file
-	url = https://github.com/isysd/get-caller-file.git
+	url = https://bitbucket.org/isysd/get-caller-file.git
 [submodule "gasket"]
 	path = gasket
-	url = https://github.com/isysd/gasket
+	url = https://bitbucket.org/isysd/gasket
 [submodule "gapp"]
 	path = gapp
-	url = https://github.com/isysd/gapp.git
+	url = https://bitbucket.org/isysd/gapp.git
 [submodule "gapp-tech-js"]
 	path = gapp-tech-js
-	url = git@github.com:isysd/gapp-tech-js.git
+	url = git@bitbucket.org:isysd/gapp-tech-js.git
 [submodule "gapp-panafintech"]
 	path = gapp-panafintech
-	url = git@github.com:isysd/gapp-panafintech.git
+	url = git@bitbucket.org:isysd/gapp-panafintech.git
 [submodule "gapp-npm"]
 	path = gapp-npm
-	url = git@github.com:isysd/gapp-npm.git
+	url = git@bitbucket.org:isysd/gapp-npm.git
 [submodule "gapp-mit"]
 	path = gapp-mit
-	url = git@github.com:isysd/gapp-mit.git
+	url = git@bitbucket.org:isysd/gapp-mit.git
 [submodule "gapp-markdown"]
 	path = gapp-markdown
-	url = git@github.com:isysd/gapp-markdown.git
+	url = git@bitbucket.org:isysd/gapp-markdown.git
 [submodule "gapp-life"]
 	path = gapp-life
-	url = https://github.com/isysd/gapp-life.git
-[submodule "gapp-keys-pgp"]
-	path = gapp-keys-pgp
-	url = git@github.com:isysd/gapp-keys-pgp.git
+	url = https://bitbucket.org/isysd/gapp-life.git
 [submodule "gapp-keybase"]
 	path = gapp-keybase
-	url = git@github.com:isysd/gapp-keybase.git
+	url = git@bitbucket.org:isysd/gapp-keybase.git
 [submodule "gapp-image"]
 	path = gapp-image
-	url = git@github.com:isysd/gapp-image.git
+	url = git@bitbucket.org:isysd/gapp-image.git
 [submodule "gapp-github"]
 	path = gapp-github
-	url = git@github.com:isysd/gapp-github.git
+	url = git@bitbucket.org:isysd/gapp-github.git
 [submodule "gapp-community"]
 	path = gapp-community
-	url = git@github.com:isysd/gapp-community.git
+	url = git@bitbucket.org:isysd/gapp-community.git
 [submodule "gapp-address-bar"]
 	path = gapp-address-bar
-	url = git@github.com:isysd/gapp-address-bar.git
+	url = git@bitbucket.org:isysd/gapp-address-bar.git
 [submodule "function-bind"]
 	path = function-bind
-	url = git://github.com/isysd/function-bind.git
+	url = git://bitbucket.org/isysd/function-bind.git
 [submodule "fsevents"]
 	path = fsevents
-	url = https://github.com/isysd/fsevents.git
+	url = https://bitbucket.org/isysd/fsevents.git
 [submodule "fs.realpath"]
 	path = fs.realpath
-	url = https://github.com/isysd/fs.realpath.git
+	url = https://bitbucket.org/isysd/fs.realpath.git
 [submodule "form-data"]
 	path = form-data
-	url = https://github.com/isysd/form-data.git
+	url = https://bitbucket.org/isysd/form-data.git
 [submodule "forever-agent"]
 	path = forever-agent
-	url = https://github.com/isysd/forever-agent.git
+	url = https://bitbucket.org/isysd/forever-agent.git
 [submodule "for-own"]
 	path = for-own
-	url = https://github.com/isysd/for-own.git
+	url = https://bitbucket.org/isysd/for-own.git
 [submodule "firefox-profile"]
 	path = firefox-profile
-	url = git://github.com/isysd/firefox-profile-js.git
+	url = git://bitbucket.org/isysd/firefox-profile-js.git
 [submodule "findup-sync"]
 	path = findup-sync
-	url = https://github.com/isysd/node-findup-sync.git
+	url = https://bitbucket.org/isysd/node-findup-sync.git
 [submodule "findout"]
 	path = findout
-	url = https://github.com/isysd/node-findout.git
+	url = https://bitbucket.org/isysd/node-findout.git
 [submodule "find-up"]
 	path = find-up
-	url = https://github.com/isysd/find-up.git
+	url = https://bitbucket.org/isysd/find-up.git
 [submodule "find-nearest-file"]
 	path = find-nearest-file
 	url = git@github.com:bengourley/find-nearest-file.git
 [submodule "find-cache-dir"]
 	path = find-cache-dir
-	url = https://github.com/isysd/find-cache-dir.git
+	url = https://bitbucket.org/isysd/find-cache-dir.git
 [submodule "file-reader"]
 	path = file-reader
-	url = https://github.com/isysd/file-reader.git
+	url = https://bitbucket.org/isysd/file-reader.git
 [submodule "faucet"]
 	path = faucet
-	url = git://github.com/isysd/faucet.git
+	url = git://bitbucket.org/isysd/faucet.git
 [submodule "fast-url-parser"]
 	path = fast-url-parser
-	url = git://github.com/isysd/urlparser.git
+	url = git://bitbucket.org/isysd/urlparser.git
 [submodule "fast-levenshtein"]
 	path = fast-levenshtein
-	url = https://github.com/isysd/fast-levenshtein.git
+	url = https://bitbucket.org/isysd/fast-levenshtein.git
 [submodule "fast-deep-equal"]
 	path = fast-deep-equal
-	url = https://github.com/isysd/fast-deep-equal.git
+	url = https://bitbucket.org/isysd/fast-deep-equal.git
 [submodule "fancytree"]
 	path = fancytree
-	url = https://github.com/isysd/fancytree.git
+	url = https://bitbucket.org/isysd/fancytree.git
 [submodule "extsprintf"]
 	path = extsprintf
-	url = https://github.com/isysd/node-extsprintf.git
+	url = https://bitbucket.org/isysd/node-extsprintf.git
 [submodule "extract-zip"]
 	path = extract-zip
-	url = https://github.com/isysd/extract-zip.git
+	url = https://bitbucket.org/isysd/extract-zip.git
 [submodule "extend"]
 	path = extend
-	url = https://github.com/isysd/node-extend.git
+	url = https://bitbucket.org/isysd/node-extend.git
 [submodule "extend-shallow"]
 	path = extend-shallow
-	url = https://github.com/isysd/extend-shallow.git
+	url = https://bitbucket.org/isysd/extend-shallow.git
 [submodule "express"]
 	path = express
-	url = https://github.com/isysd/express.git
+	url = https://bitbucket.org/isysd/express.git
 [submodule "express-state"]
 	path = express-state
-	url = git://github.com/isysd/express-state.git
+	url = git://bitbucket.org/isysd/express-state.git
 [submodule "expand-braces"]
 	path = expand-braces
-	url = https://github.com/isysd/expand-braces.git
+	url = https://bitbucket.org/isysd/expand-braces.git
 [submodule "exit"]
 	path = exit
-	url = git://github.com/isysd/node-exit.git
+	url = git://bitbucket.org/isysd/node-exit.git
 [submodule "execcli"]
 	path = execcli
-	url = https://github.com/isysd/node-execcli.git
+	url = https://bitbucket.org/isysd/node-execcli.git
 [submodule "execa"]
 	path = execa
-	url = https://github.com/isysd/execa.git
+	url = https://bitbucket.org/isysd/execa.git
 [submodule "evp_bytestokey"]
 	path = evp_bytestokey
-	url = https://github.com/isysd/EVP_BytesToKey.git
+	url = https://bitbucket.org/isysd/EVP_BytesToKey.git
 [submodule "events"]
 	path = events
-	url = https://github.com/isysd/duplexer2.git
+	url = https://bitbucket.org/isysd/duplexer2.git
 [submodule "eventemitter3"]
 	path = eventemitter3
-	url = git://github.com/isysd/eventemitter3.git
+	url = git://bitbucket.org/isysd/eventemitter3.git
 [submodule "eventemitter2"]
 	path = eventemitter2
-	url = git://github.com/isysd/EventEmitter2.git
+	url = git://bitbucket.org/isysd/EventEmitter2.git
 [submodule "esutils"]
 	path = esutils
-	url = http://github.com/isysd/esutils
+	url = http://bitbucket.org/isysd/esutils
 [submodule "estraverse"]
 	path = estraverse
 	url = git@github.com:estools/estraverse.git
 [submodule "esrecurse"]
 	path = esrecurse
-	url = https://github.com/isysd/esrecurse.git
+	url = https://bitbucket.org/isysd/esrecurse.git
 [submodule "esprima"]
 	path = esprima
-	url = https://github.com/isysd/esprima.git
+	url = https://bitbucket.org/isysd/esprima.git
 [submodule "espree"]
 	path = espree
-	url = https://github.com/isysd/espree.git
+	url = https://bitbucket.org/isysd/espree.git
 [submodule "eslint"]
 	path = eslint
-	url = https://github.com/isysd/eslint.git
+	url = https://bitbucket.org/isysd/eslint.git
 [submodule "eslint-scope"]
 	path = eslint-scope
-	url = https://github.com/isysd/eslint-scope.git
+	url = https://bitbucket.org/isysd/eslint-scope.git
 [submodule "eslint-release"]
 	path = eslint-release
-	url = https://github.com/isysd/eslint-release.git
+	url = https://bitbucket.org/isysd/eslint-release.git
 [submodule "eslint-plugin-standard"]
 	path = eslint-plugin-standard
-	url = https://github.com/isysd/eslint-plugin-standard.git
+	url = https://bitbucket.org/isysd/eslint-plugin-standard.git
 [submodule "eslint-plugin-react"]
 	path = eslint-plugin-react
-	url = https://github.com/isysd/eslint-plugin-react.git
+	url = https://bitbucket.org/isysd/eslint-plugin-react.git
 [submodule "eslint-plugin-promise"]
 	path = eslint-plugin-promise
 	url = git@github.com:xjamundx/eslint-plugin-promise.git
 [submodule "eslint-plugin-node"]
 	path = eslint-plugin-node
-	url = https://github.com/isysd/eslint-plugin-node.git
+	url = https://bitbucket.org/isysd/eslint-plugin-node.git
 [submodule "eslint-plugin-mysticatea"]
 	path = eslint-plugin-mysticatea
-	url = https://github.com/isysd/eslint-plugin.git
+	url = https://bitbucket.org/isysd/eslint-plugin.git
 [submodule "eslint-plugin-mocha"]
 	path = eslint-plugin-mocha
-	url = git://github.com/isysd/eslint-plugin-mocha.git
+	url = git://bitbucket.org/isysd/eslint-plugin-mocha.git
 [submodule "eslint-plugin-markdown"]
 	path = eslint-plugin-markdown
-	url = https://github.com/isysd/eslint-plugin-markdown.git
+	url = https://bitbucket.org/isysd/eslint-plugin-markdown.git
 [submodule "eslint-plugin-import"]
 	path = eslint-plugin-import
-	url = https://github.com/isysd/eslint-plugin-import.git
+	url = https://bitbucket.org/isysd/eslint-plugin-import.git
 [submodule "eslint-plugin-eslint-plugin"]
 	path = eslint-plugin-eslint-plugin
-	url = https://github.com/isysd/eslint-plugin-eslint-plugin.git
+	url = https://bitbucket.org/isysd/eslint-plugin-eslint-plugin.git
 [submodule "eslint-plugin-eslint-comments"]
 	path = eslint-plugin-eslint-comments
-	url = https://github.com/isysd/eslint-plugin-eslint-comments.git
+	url = https://bitbucket.org/isysd/eslint-plugin-eslint-comments.git
 [submodule "eslint-module-utils"]
 	path = eslint-module-utils
-	url = https://github.com/isysd/eslint-plugin-import.git
+	url = https://bitbucket.org/isysd/eslint-plugin-import.git
 [submodule "eslint-index"]
 	path = eslint-index
 	url = git@github.com:wagerfield/eslint-index.git
 [submodule "eslint-import-resolver-node"]
 	path = eslint-import-resolver-node
-	url = https://github.com/isysd/doctrine.git
+	url = https://bitbucket.org/isysd/doctrine.git
 [submodule "eslint-config-standard"]
 	path = eslint-config-standard
-	url = git://github.com/isysd/eslint-config-standard.git
+	url = git://bitbucket.org/isysd/eslint-config-standard.git
 [submodule "eslint-config-standard-jsx"]
 	path = eslint-config-standard-jsx
-	url = git://github.com/isysd/eslint-config-standard-jsx.git
+	url = git://bitbucket.org/isysd/eslint-config-standard-jsx.git
 [submodule "eslint-config-sinon"]
 	path = eslint-config-sinon
 	url = git@github.com:sinonjs/eslint-config-sinon.git
 [submodule "eslint-config-shouldjs"]
 	path = eslint-config-shouldjs
-	url = https://github.com/isysd/eslint-config-shouldjs.git
+	url = https://bitbucket.org/isysd/eslint-config-shouldjs.git
 [submodule "eslint-config-mysticatea"]
 	path = eslint-config-mysticatea
-	url = https://github.com/isysd/eslint-config.git
+	url = https://bitbucket.org/isysd/eslint-config.git
 [submodule "eslint-config-eslint"]
 	path = eslint-config-eslint
-	url = https://github.com/isysd/eslint.git
+	url = https://bitbucket.org/isysd/eslint.git
 [submodule "escodegen"]
 	path = escodegen
 	url = git@github.com:estools/escodegen.git
 [submodule "escape-string-regexp"]
 	path = escape-string-regexp
-	url = https://github.com/isysd/escape-string-regexp.git
+	url = https://bitbucket.org/isysd/escape-string-regexp.git
 [submodule "es6ify"]
 	path = es6ify
-	url = https://github.com/isysd/es6ify
+	url = https://bitbucket.org/isysd/es6ify
 [submodule "es6-set"]
 	path = es6-set
-	url = git://github.com/isysd/es6-set.git
+	url = git://bitbucket.org/isysd/es6-set.git
 [submodule "es6-promise"]
 	path = es6-promise
-	url = git://github.com/isysd/es6-promise.git
+	url = git://bitbucket.org/isysd/es6-promise.git
 [submodule "error-ex"]
 	path = error-ex
-	url = https://github.com/isysd/node-error-ex.git
+	url = https://bitbucket.org/isysd/node-error-ex.git
 [submodule "ent"]
 	path = ent
-	url = https://github.com/isysd/node-ent
+	url = https://bitbucket.org/isysd/node-ent
 [submodule "elliptic"]
 	path = elliptic
 	url = git@github.com:indutny/elliptic.git
 [submodule "electron"]
 	path = electron
-	url = https://github.com/isysd/electron.git
+	url = https://bitbucket.org/isysd/electron.git
 [submodule "electron-tabs"]
 	path = electron-tabs
-	url = https://github.com/isysd/electron-tabs.git
+	url = https://bitbucket.org/isysd/electron-tabs.git
 [submodule "electron-prebuilt"]
 	path = electron-prebuilt
-	url = https://github.com/isysd/electron-prebuilt.git
+	url = https://bitbucket.org/isysd/electron-prebuilt.git
 [submodule "electron-download"]
 	path = electron-download
-	url = https://github.com/isysd/electron-download.git
+	url = https://bitbucket.org/isysd/electron-download.git
 [submodule "electron-dl"]
 	path = electron-dl
-	url = https://github.com/isysd/electron-dl.git
+	url = https://bitbucket.org/isysd/electron-dl.git
 [submodule "electron-context-menu"]
 	path = electron-context-menu
-	url = https://github.com/isysd/electron-context-menu.git
+	url = https://bitbucket.org/isysd/electron-context-menu.git
 [submodule "electron-builder"]
 	path = electron-builder
-	url = https://github.com/isysd/electron-builder.git
+	url = https://bitbucket.org/isysd/electron-builder.git
 [submodule "ejs"]
 	path = ejs
-	url = https://github.com/isysd/ejs.git
+	url = https://bitbucket.org/isysd/ejs.git
 [submodule "ee-first"]
 	path = ee-first
-	url = https://github.com/isysd/ee-first
+	url = https://bitbucket.org/isysd/ee-first
 [submodule "duplexer3"]
 	path = duplexer3
-	url = https://github.com/isysd/duplexer3
+	url = https://bitbucket.org/isysd/duplexer3
 [submodule "duplexer2"]
 	path = duplexer2
-	url = https://github.com/isysd/duplexer2.git
+	url = https://bitbucket.org/isysd/duplexer2.git
 [submodule "duplexer"]
 	path = duplexer
-	url = git://github.com/isysd/duplexer.git
+	url = git://bitbucket.org/isysd/duplexer.git
 [submodule "dragula"]
 	path = dragula
-	url = https://github.com/isysd/dragula.git
+	url = https://bitbucket.org/isysd/dragula.git
 [submodule "domelementtype"]
 	path = domelementtype
-	url = https://github.com/isysd/domelementtype.git
+	url = https://bitbucket.org/isysd/domelementtype.git
 [submodule "domain-browser"]
 	path = domain-browser
-	url = git://github.com/isysd/defined.git
+	url = git://bitbucket.org/isysd/defined.git
 [submodule "dom-serializer"]
 	path = dom-serializer
-	url = https://github.com/isysd/dom-serializer.git
+	url = https://bitbucket.org/isysd/dom-serializer.git
 [submodule "dom-serialize"]
 	path = dom-serialize
-	url = git://github.com/isysd/dom-serialize.git
+	url = git://bitbucket.org/isysd/dom-serialize.git
 [submodule "documentation"]
 	path = documentation
-	url = https://github.com/isysd/documentation.git
+	url = https://bitbucket.org/isysd/documentation.git
 [submodule "docco"]
 	path = docco
-	url = https://github.com/isysd/docco.git
+	url = https://bitbucket.org/isysd/docco.git
 [submodule "diffie-hellman"]
 	path = diffie-hellman
-	url = https://github.com/isysd/diffie-hellman.git
+	url = https://bitbucket.org/isysd/diffie-hellman.git
 [submodule "diff"]
 	path = diff
-	url = https://github.com/isysd/diff.git
+	url = https://bitbucket.org/isysd/diff.git
 [submodule "di"]
 	path = di
-	url = git://github.com/isysd/node-di.git
+	url = git://bitbucket.org/isysd/node-di.git
 [submodule "detective"]
 	path = detective
-	url = git://github.com/isysd/node-detective.git
+	url = git://bitbucket.org/isysd/node-detective.git
 [submodule "des.js"]
 	path = des.js
 	url = git@github.com:indutny/des.js.git
 [submodule "deps-sort"]
 	path = deps-sort
-	url = git://github.com/isysd/deps-sort.git
+	url = git://bitbucket.org/isysd/deps-sort.git
 [submodule "deprecated"]
 	path = deprecated
-	url = git://github.com/isysd/deprecated.git
+	url = git://bitbucket.org/isysd/deprecated.git
 [submodule "depd"]
 	path = depd
-	url = https://github.com/isysd/nodejs-depd
+	url = https://bitbucket.org/isysd/nodejs-depd
 [submodule "delayed-stream"]
 	path = delayed-stream
-	url = https://github.com/isysd/node-delayed-stream.git
+	url = https://bitbucket.org/isysd/node-delayed-stream.git
 [submodule "del"]
 	path = del
-	url = https://github.com/isysd/del.git
+	url = https://bitbucket.org/isysd/del.git
 [submodule "defined"]
 	path = defined
-	url = git://github.com/isysd/console-browserify.git
+	url = git://bitbucket.org/isysd/console-browserify.git
 [submodule "define-property"]
 	path = define-property
-	url = https://github.com/isysd/define-property.git
+	url = https://bitbucket.org/isysd/define-property.git
 [submodule "deepmerge"]
 	path = deepmerge
-	url = https://github.com/isysd/deepmerge.git
+	url = https://bitbucket.org/isysd/deepmerge.git
 [submodule "deep-is"]
 	path = deep-is
-	url = http://github.com/isysd/deep-is
+	url = http://bitbucket.org/isysd/deep-is
 [submodule "deep-extend"]
 	path = deep-extend
-	url = https://github.com/isysd/node-deep-extend.git
+	url = https://bitbucket.org/isysd/node-deep-extend.git
 [submodule "deep-equal"]
 	path = deep-equal
-	url = git+ssh://git@github.com/isysd/node-deep-equal.git
+	url = git+ssh://git@bitbucket.org/isysd/node-deep-equal.git
 [submodule "deep-eql"]
 	path = deep-eql
 	url = git@github.com:chaijs/deep-eql.git
 [submodule "decompress-response"]
 	path = decompress-response
-	url = https://github.com/isysd/decompress-response.git
+	url = https://bitbucket.org/isysd/decompress-response.git
 [submodule "decamelize"]
 	path = decamelize
-	url = https://github.com/isysd/decamelize.git
+	url = https://bitbucket.org/isysd/decamelize.git
 [submodule "debug"]
 	path = debug
-	url = https://github.com/isysd/debug.git
+	url = https://bitbucket.org/isysd/debug.git
 [submodule "dateformat"]
 	path = dateformat
-	url = https://github.com/isysd/node-dateformat.git
+	url = https://bitbucket.org/isysd/node-dateformat.git
 [submodule "date-now"]
 	path = date-now
-	url = git://github.com/isysd/date-now.git
+	url = git://bitbucket.org/isysd/date-now.git
 [submodule "date-fns"]
 	path = date-fns
-	url = https://github.com/isysd/date-fns.git
+	url = https://bitbucket.org/isysd/date-fns.git
 [submodule "dargs"]
 	path = dargs
-	url = https://github.com/isysd/dargs.git
+	url = https://bitbucket.org/isysd/dargs.git
 [submodule "custom-event"]
 	path = custom-event
-	url = git://github.com/isysd/custom-event.git
+	url = git://bitbucket.org/isysd/custom-event.git
 [submodule "csv-parse"]
 	path = csv-parse
-	url = http://www.github.com/isysd/node-csv-parse
+	url = http://www.bitbucket.org/isysd/node-csv-parse
 [submodule "crypto-browserify"]
 	path = crypto-browserify
-	url = git://github.com/isysd/crypto-browserify.git
+	url = git://bitbucket.org/isysd/crypto-browserify.git
 [submodule "cryptiles"]
 	path = cryptiles
-	url = https://github.com/isysd/cryptiles.git
+	url = https://bitbucket.org/isysd/cryptiles.git
 [submodule "cross-env"]
 	path = cross-env
-	url = https://github.com/isysd/cross-env.git
+	url = https://bitbucket.org/isysd/cross-env.git
 [submodule "create-hmac"]
 	path = create-hmac
-	url = https://github.com/isysd/createHmac.git
+	url = https://bitbucket.org/isysd/createHmac.git
 [submodule "create-hash"]
 	path = create-hash
 	url = git@github.com:crypto-browserify/createHash.git
 [submodule "create-ecdh"]
 	path = create-ecdh
-	url = https://github.com/isysd/createECDH.git
+	url = https://bitbucket.org/isysd/createECDH.git
 [submodule "covert"]
 	path = covert
-	url = git://github.com/isysd/covert.git
+	url = git://bitbucket.org/isysd/covert.git
 [submodule "coveralls"]
 	path = coveralls
-	url = git://github.com/isysd/node-coveralls.git
+	url = git://bitbucket.org/isysd/node-coveralls.git
 [submodule "core-util-is"]
 	path = core-util-is
-	url = git://github.com/isysd/core-util-is.git
+	url = git://bitbucket.org/isysd/core-util-is.git
 [submodule "core-js"]
 	path = core-js
-	url = https://github.com/isysd/core-js.git
+	url = https://bitbucket.org/isysd/core-js.git
 [submodule "convert-source-map"]
 	path = convert-source-map
-	url = https://github.com/isysd/convert-source-map.git
+	url = https://bitbucket.org/isysd/convert-source-map.git
 [submodule "contra"]
 	path = contra
-	url = git://github.com/isysd/contra.git
+	url = git://bitbucket.org/isysd/contra.git
 [submodule "content-type"]
 	path = content-type
-	url = https://github.com/isysd/content-type.git
+	url = https://bitbucket.org/isysd/content-type.git
 [submodule "contains-path"]
 	path = contains-path
-	url = https://github.com/isysd/contains-path.git
+	url = https://bitbucket.org/isysd/contains-path.git
 [submodule "constants-browserify"]
 	path = constants-browserify
-	url = git://github.com/isysd/constants-browserify.git
+	url = git://bitbucket.org/isysd/constants-browserify.git
 [submodule "console-control-strings"]
 	path = console-control-strings
-	url = https://github.com/isysd/console-control-strings.git
+	url = https://bitbucket.org/isysd/console-control-strings.git
 [submodule "console-browserify"]
 	path = console-browserify
-	url = git://github.com/isysd/console-browserify.git
+	url = git://bitbucket.org/isysd/console-browserify.git
 [submodule "concurrently"]
 	path = concurrently
-	url = https://github.com/isysd/concurrently.git
+	url = https://bitbucket.org/isysd/concurrently.git
 [submodule "concat-with-sourcemaps"]
 	path = concat-with-sourcemaps
-	url = git://github.com/isysd/concat-with-sourcemaps.git
+	url = git://bitbucket.org/isysd/concat-with-sourcemaps.git
 [submodule "concat-stream"]
 	path = concat-stream
-	url = http://github.com/isysd/concat-stream
+	url = http://bitbucket.org/isysd/concat-stream
 [submodule "concat-map"]
 	path = concat-map
-	url = https://github.com/isysd/node-concat-map.git
+	url = https://bitbucket.org/isysd/node-concat-map.git
 [submodule "compression"]
 	path = compression
-	url = https://github.com/isysd/compression.git
+	url = https://bitbucket.org/isysd/compression.git
 [submodule "component"]
 	path = component
-	url = https://github.com/isysd/component
+	url = https://bitbucket.org/isysd/component
 [submodule "component-watcher"]
 	path = component-watcher
-	url = https://github.com/isysd/watcher.js
+	url = https://bitbucket.org/isysd/watcher.js
 [submodule "component-updater"]
 	path = component-updater
-	url = https://github.com/isysd/update.js
+	url = https://bitbucket.org/isysd/update.js
 [submodule "component-search2"]
 	path = component-search2
-	url = https://github.com/isysd/search.js
+	url = https://bitbucket.org/isysd/search.js
 [submodule "component-resolver"]
 	path = component-resolver
-	url = https://github.com/isysd/resolver.js
+	url = https://bitbucket.org/isysd/resolver.js
 [submodule "component-remotes"]
 	path = component-remotes
-	url = https://github.com/isysd/remotes.js
+	url = https://bitbucket.org/isysd/remotes.js
 [submodule "component-pin"]
 	path = component-pin
-	url = https://github.com/isysd/pin.js
+	url = https://bitbucket.org/isysd/pin.js
 [submodule "component-outdated2"]
 	path = component-outdated2
-	url = https://github.com/isysd/outdated.js
+	url = https://bitbucket.org/isysd/outdated.js
 [submodule "component-ls"]
 	path = component-ls
-	url = https://github.com/isysd/ls.js
+	url = https://bitbucket.org/isysd/ls.js
 [submodule "component-flatten"]
 	path = component-flatten
-	url = https://github.com/isysd/flatten.js
+	url = https://bitbucket.org/isysd/flatten.js
 [submodule "component-consoler"]
 	path = component-consoler
-	url = https://github.com/isysd/console.js
+	url = https://bitbucket.org/isysd/console.js
 [submodule "component-build"]
 	path = component-build
-	url = git://github.com/isysd/build.js
+	url = git://bitbucket.org/isysd/build.js
 [submodule "commondir"]
 	path = commondir
-	url = http://github.com/isysd/node-commondir
+	url = http://bitbucket.org/isysd/node-commondir
 [submodule "commander"]
 	path = commander
-	url = https://github.com/isysd/commander.git
+	url = https://bitbucket.org/isysd/commander.git
 [submodule "combined-stream"]
 	path = combined-stream
-	url = https://github.com/isysd/node-combined-stream.git
+	url = https://bitbucket.org/isysd/node-combined-stream.git
 [submodule "combine-source-map"]
 	path = combine-source-map
-	url = git://github.com/isysd/combine-source-map.git
+	url = git://bitbucket.org/isysd/combine-source-map.git
 [submodule "combine-lists"]
 	path = combine-lists
-	url = https://github.com/isysd/combine-lists.git
+	url = https://bitbucket.org/isysd/combine-lists.git
 [submodule "colors"]
 	path = colors
-	url = http://github.com/isysd/colors.js
+	url = http://bitbucket.org/isysd/colors.js
 [submodule "color-support"]
 	path = color-support
-	url = https://github.com/isysd/color-support.git
+	url = https://bitbucket.org/isysd/color-support.git
 [submodule "color-name"]
 	path = color-name
-	url = git+ssh://git@github.com/isysd/color-name.git
+	url = git+ssh://git@bitbucket.org/isysd/color-name.git
 [submodule "color-convert"]
 	path = color-convert
-	url = https://github.com/isysd/color-convert.git
+	url = https://bitbucket.org/isysd/color-convert.git
 [submodule "coffee-script"]
 	path = coffee-script
-	url = https://github.com/isysd/coffee-script.git
+	url = https://bitbucket.org/isysd/coffee-script.git
 [submodule "codecov"]
 	path = codecov
-	url = https://github.com/isysd/codecov-node.git
+	url = https://bitbucket.org/isysd/codecov-node.git
 [submodule "co"]
 	path = co
-	url = https://github.com/isysd/co.git
+	url = https://bitbucket.org/isysd/co.git
 [submodule "cloneable-readable"]
 	path = cloneable-readable
-	url = https://github.com/isysd/cloneable-readable.git
+	url = https://bitbucket.org/isysd/cloneable-readable.git
 [submodule "clone"]
 	path = clone
-	url = git://github.com/isysd/node-clone.git
+	url = git://bitbucket.org/isysd/node-clone.git
 [submodule "clone-stats"]
 	path = clone-stats
-	url = git://github.com/isysd/clone-stats.git
+	url = git://bitbucket.org/isysd/clone-stats.git
 [submodule "clone-buffer"]
 	path = clone-buffer
-	url = https://github.com/isysd/clone-buffer.git
+	url = https://bitbucket.org/isysd/clone-buffer.git
 [submodule "cliui"]
 	path = cliui
 	url = git@github.com:yargs/cliui.git
 [submodule "cli-table2"]
 	path = cli-table2
-	url = https://github.com/isysd/cli-table2.git
+	url = https://bitbucket.org/isysd/cli-table2.git
 [submodule "cli-color"]
 	path = cli-color
-	url = git://github.com/isysd/cli-color.git
+	url = git://bitbucket.org/isysd/cli-color.git
 [submodule "clean-css"]
 	path = clean-css
-	url = https://github.com/isysd/clean-css.git
+	url = https://bitbucket.org/isysd/clean-css.git
 [submodule "cipher-base"]
 	path = cipher-base
-	url = https://github.com/isysd/cipher-base.git
+	url = https://bitbucket.org/isysd/cipher-base.git
 [submodule "chokidar"]
 	path = chokidar
-	url = https://github.com/isysd/chokidar.git
+	url = https://bitbucket.org/isysd/chokidar.git
 [submodule "cheerio"]
 	path = cheerio
-	url = https://github.com/isysd/cheerio.git
+	url = https://bitbucket.org/isysd/cheerio.git
 [submodule "check-error"]
 	path = check-error
 	url = git@github.com:chaijs/check-error.git
 [submodule "char-split"]
 	path = char-split
-	url = git://github.com/isysd/node-char-split.git
+	url = git://bitbucket.org/isysd/node-char-split.git
 [submodule "chalk"]
 	path = chalk
-	url = https://github.com/isysd/chalk.git
+	url = https://bitbucket.org/isysd/chalk.git
 [submodule "chai"]
 	path = chai
-	url = https://github.com/isysd/chai.git
+	url = https://bitbucket.org/isysd/chai.git
 [submodule "caseless"]
 	path = caseless
-	url = https://github.com/isysd/caseless.git
+	url = https://bitbucket.org/isysd/caseless.git
 [submodule "camelcase"]
 	path = camelcase
-	url = https://github.com/isysd/camelcase.git
+	url = https://bitbucket.org/isysd/camelcase.git
 [submodule "caching-transform"]
 	path = caching-transform
-	url = https://github.com/isysd/caching-transform.git
+	url = https://bitbucket.org/isysd/caching-transform.git
 [submodule "cached-path-relative"]
 	path = cached-path-relative
-	url = git://github.com/isysd/cached-path-relative.git
+	url = git://bitbucket.org/isysd/cached-path-relative.git
 [submodule "bytes"]
 	path = bytes
-	url = https://github.com/isysd/bytes.js.git
+	url = https://bitbucket.org/isysd/bytes.js.git
 [submodule "bump-regex"]
 	path = bump-regex
-	url = https://github.com/isysd/bump-regex.git
+	url = https://bitbucket.org/isysd/bump-regex.git
 [submodule "builtin-modules"]
 	path = builtin-modules
-	url = https://github.com/isysd/builtin-modules.git
+	url = https://bitbucket.org/isysd/builtin-modules.git
 [submodule "buffer"]
 	path = buffer
-	url = git://github.com/isysd/buffer.git
+	url = git://bitbucket.org/isysd/buffer.git
 [submodule "buffer-xor"]
 	path = buffer-xor
-	url = https://github.com/isysd/buffer-xor.git
+	url = https://bitbucket.org/isysd/buffer-xor.git
 [submodule "browserify"]
 	path = browserify
-	url = https://github.com/isysd/node-browserify.git
+	url = https://bitbucket.org/isysd/node-browserify.git
 [submodule "browserify-zlib"]
 	path = browserify-zlib
-	url = git://github.com/isysd/crypto-browserify.git
+	url = git://bitbucket.org/isysd/crypto-browserify.git
 [submodule "browserify-sign"]
 	path = browserify-sign
-	url = https://github.com/isysd/browserify-sign.git
+	url = https://bitbucket.org/isysd/browserify-sign.git
 [submodule "browserify-rsa"]
 	path = browserify-rsa
 	url = git@github.com:crypto-browserify/browserify-rsa.git
 [submodule "browserify-istanbul"]
 	path = browserify-istanbul
-	url = git://github.com/isysd/browserify-istanbul.git
+	url = git://bitbucket.org/isysd/browserify-istanbul.git
 [submodule "browserify-des"]
 	path = browserify-des
-	url = https://github.com/isysd/browserify-des.git
+	url = https://bitbucket.org/isysd/browserify-des.git
 [submodule "browserify-cipher"]
 	path = browserify-cipher
 	url = git@github.com:crypto-browserify/browserify-cipher.git
 [submodule "browserify-aes"]
 	path = browserify-aes
-	url = git://github.com/isysd/browserify-aes.git
+	url = git://bitbucket.org/isysd/browserify-aes.git
 [submodule "browser-resolve"]
 	path = browser-resolve
-	url = git://github.com/isysd/node-browser-resolve.git
+	url = git://bitbucket.org/isysd/node-browser-resolve.git
 [submodule "browser-pack"]
 	path = browser-pack
-	url = git://github.com/isysd/browser-pack.git
+	url = git://bitbucket.org/isysd/browser-pack.git
 [submodule "brorand"]
 	path = brorand
 	url = git@github.com:indutny/brorand.git
 [submodule "broccoli-babel-transpiler"]
 	path = broccoli-babel-transpiler
-	url = https://github.com/isysd/broccoli-babel-transpiler.git
+	url = https://bitbucket.org/isysd/broccoli-babel-transpiler.git
 [submodule "braces"]
 	path = braces
-	url = https://github.com/isysd/braces.git
+	url = https://bitbucket.org/isysd/braces.git
 [submodule "brace-expansion"]
 	path = brace-expansion
-	url = https://github.com/isysd/brace-expansion.git
+	url = https://bitbucket.org/isysd/brace-expansion.git
 [submodule "bower"]
 	path = bower
-	url = https://github.com/isysd/bower.git
+	url = https://bitbucket.org/isysd/bower.git
 [submodule "JSONStream"]
 	path = JSONStream
-	url = git://github.com/isysd/JSONStream.git
+	url = git://bitbucket.org/isysd/JSONStream.git
 [submodule "boom"]
 	path = boom
-	url = https://github.com/isysd/boom.git
+	url = https://bitbucket.org/isysd/boom.git
 [submodule "bn.js"]
 	path = bn.js
 	url = git@github.com:indutny/bn.js.git
 [submodule "bluebird"]
 	path = bluebird
-	url = https://github.com/isysd/bluebird.git
+	url = https://bitbucket.org/isysd/bluebird.git
 [submodule "bl"]
 	path = bl
-	url = https://github.com/isysd/bl.git
+	url = https://bitbucket.org/isysd/bl.git
 [submodule "binary-extensions"]
 	path = binary-extensions
-	url = https://github.com/isysd/binary-extensions.git
+	url = https://bitbucket.org/isysd/binary-extensions.git
 [submodule "benchmarked"]
 	path = benchmarked
-	url = https://github.com/isysd/benchmarked.git
+	url = https://bitbucket.org/isysd/benchmarked.git
 [submodule "benchmark"]
 	path = benchmark
-	url = https://github.com/isysd/benchmark.js.git
+	url = https://bitbucket.org/isysd/benchmark.js.git
 [submodule "batch"]
 	path = batch
-	url = https://github.com/isysd/batch.git
+	url = https://bitbucket.org/isysd/batch.git
 [submodule "base64-js"]
 	path = base64-js
-	url = git://github.com/isysd/base64-js.git
+	url = git://bitbucket.org/isysd/base64-js.git
 [submodule "base"]
 	path = base
-	url = https://github.com/isysd/base.git
+	url = https://bitbucket.org/isysd/base.git
 [submodule "base-option"]
 	path = base-option
-	url = https://github.com/isysd/base-option.git
+	url = https://bitbucket.org/isysd/base-option.git
 [submodule "base-cwd"]
 	path = base-cwd
-	url = https://github.com/isysd/base-cwd.git
+	url = https://bitbucket.org/isysd/base-cwd.git
 [submodule "balanced-match"]
 	path = balanced-match
-	url = https://github.com/isysd/balanced-match.git
+	url = https://bitbucket.org/isysd/balanced-match.git
 [submodule "baconjs"]
 	path = baconjs
-	url = https://github.com/isysd/bacon.js.git
+	url = https://bitbucket.org/isysd/bacon.js.git
 [submodule "backbone"]
 	path = backbone
-	url = https://github.com/isysd/backbone.git
+	url = https://bitbucket.org/isysd/backbone.git
 [submodule "babylon"]
 	path = babylon
-	url = https://github.com/isysd/babylon.git
+	url = https://bitbucket.org/isysd/babylon.git
 [submodule "babelify"]
 	path = babelify
-	url = https://github.com/isysd/babelify.git
+	url = https://bitbucket.org/isysd/babelify.git
 [submodule "babel"]
 	path = babel
-	url = https://github.com/isysd/babel.git
+	url = https://bitbucket.org/isysd/babel.git
 [submodule "babel-preset-env"]
 	path = babel-preset-env
-	url = https://github.com/isysd/babel-preset-env.git
+	url = https://bitbucket.org/isysd/babel-preset-env.git
 [submodule "babel-plugin-transform-unicode-property-regex"]
 	path = babel-plugin-transform-unicode-property-regex
-	url = https://github.com/isysd/babel-plugin-transform-unicode-property-regex.git
+	url = https://bitbucket.org/isysd/babel-plugin-transform-unicode-property-regex.git
 [submodule "babel-plugin-istanbul"]
 	path = babel-plugin-istanbul
-	url = https://github.com/isysd/babel-plugin-istanbul.git
+	url = https://bitbucket.org/isysd/babel-plugin-istanbul.git
 [submodule "babel-plugin-dynamic-import-node"]
 	path = babel-plugin-dynamic-import-node
-	url = https://github.com/isysd/babel-plugin-dynamic-import-node.git
+	url = https://bitbucket.org/isysd/babel-plugin-dynamic-import-node.git
 [submodule "babel-plugin-add-module-exports"]
 	path = babel-plugin-add-module-exports
-	url = https://github.com/isysd/babel-plugin-add-module-exports.git
+	url = https://bitbucket.org/isysd/babel-plugin-add-module-exports.git
 [submodule "babel-loader"]
 	path = babel-loader
-	url = https://github.com/isysd/babel-loader.git
+	url = https://bitbucket.org/isysd/babel-loader.git
 [submodule "babel-eslint"]
 	path = babel-eslint
-	url = https://github.com/isysd/babel-eslint.git
+	url = https://bitbucket.org/isysd/babel-eslint.git
 [submodule "aws4"]
 	path = aws4
-	url = https://github.com/isysd/aws4.git
+	url = https://bitbucket.org/isysd/aws4.git
 [submodule "aws-sign2"]
 	path = aws-sign2
-	url = https://github.com/isysd/aws-sign.git
+	url = https://bitbucket.org/isysd/aws-sign.git
 [submodule "ava"]
 	path = ava
-	url = https://github.com/isysd/ava.git
+	url = https://bitbucket.org/isysd/ava.git
 [submodule "ava-init"]
 	path = ava-init
-	url = https://github.com/isysd/ava-init.git
+	url = https://bitbucket.org/isysd/ava-init.git
 [submodule "auto-bind"]
 	path = auto-bind
-	url = https://github.com/isysd/auto-bind.git
+	url = https://bitbucket.org/isysd/auto-bind.git
 [submodule "author-regex"]
 	path = author-regex
-	url = https://github.com/isysd/author-regex.git
+	url = https://bitbucket.org/isysd/author-regex.git
 [submodule "atoa"]
 	path = atoa
-	url = https://github.com/isysd/atoa.git
+	url = https://bitbucket.org/isysd/atoa.git
 [submodule "asynckit"]
 	path = asynckit
-	url = https://github.com/isysd/asynckit.git
+	url = https://bitbucket.org/isysd/asynckit.git
 [submodule "async"]
 	path = async
-	url = https://github.com/isysd/async.git
+	url = https://bitbucket.org/isysd/async.git
 [submodule "async-each"]
 	path = async-each
-	url = git://github.com/isysd/async-each.git
+	url = git://bitbucket.org/isysd/async-each.git
 [submodule "astw"]
 	path = astw
-	url = git://github.com/isysd/astw.git
+	url = git://bitbucket.org/isysd/astw.git
 [submodule "assertions"]
 	path = assertions
-	url = git://github.com/isysd/assertions.git
+	url = git://bitbucket.org/isysd/assertions.git
 [submodule "assertion-error"]
 	path = assertion-error
 	url = git@github.com:chaijs/assertion-error.git
 [submodule "assert"]
 	path = assert
-	url = https://github.com/isysd/commonjs-assert.git
+	url = https://bitbucket.org/isysd/commonjs-assert.git
 [submodule "assert-plus"]
 	path = assert-plus
-	url = https://github.com/isysd/node-assert-plus.git
+	url = https://bitbucket.org/isysd/node-assert-plus.git
 [submodule "asn1"]
 	path = asn1
-	url = https://github.com/isysd/node-asn1.git
+	url = https://bitbucket.org/isysd/node-asn1.git
 [submodule "asn1.js"]
 	path = asn1.js
 	url = git@github.com:indutny/asn1.js.git
 [submodule "askconfig"]
 	path = askconfig
-	url = https://github.com/isysd/node-askconfig.git
+	url = https://bitbucket.org/isysd/node-askconfig.git
 [submodule "arrify"]
 	path = arrify
-	url = https://github.com/isysd/arrify.git
+	url = https://bitbucket.org/isysd/arrify.git
 [submodule "arrayreduce"]
 	path = arrayreduce
-	url = https://github.com/isysd/node-arrayreduce.git
+	url = https://bitbucket.org/isysd/node-arrayreduce.git
 [submodule "array-unique"]
 	path = array-unique
-	url = https://github.com/isysd/array-unique.git
+	url = https://bitbucket.org/isysd/array-unique.git
 [submodule "array-uniq"]
 	path = array-uniq
-	url = https://github.com/isysd/array-uniq.git
+	url = https://bitbucket.org/isysd/array-uniq.git
 [submodule "array-union"]
 	path = array-union
-	url = https://github.com/isysd/array-union.git
+	url = https://bitbucket.org/isysd/array-union.git
 [submodule "array-slice"]
 	path = array-slice
-	url = https://github.com/isysd/array-slice.git
+	url = https://bitbucket.org/isysd/array-slice.git
 [submodule "array-reduce"]
 	path = array-reduce
-	url = git://github.com/isysd/array-reduce.git
+	url = git://bitbucket.org/isysd/array-reduce.git
 [submodule "array-map"]
 	path = array-map
-	url = git://github.com/isysd/array-map.git
+	url = git://bitbucket.org/isysd/array-map.git
 [submodule "array-filter"]
 	path = array-filter
-	url = git://github.com/isysd/array-filter.git
+	url = git://bitbucket.org/isysd/array-filter.git
 [submodule "arr-flatten"]
 	path = arr-flatten
-	url = https://github.com/isysd/arr-flatten.git
+	url = https://bitbucket.org/isysd/arr-flatten.git
 [submodule "arr-exclude"]
 	path = arr-exclude
-	url = https://github.com/isysd/arr-exclude
+	url = https://bitbucket.org/isysd/arr-exclude
 [submodule "arr-diff"]
 	path = arr-diff
-	url = https://github.com/isysd/arr-diff.git
+	url = https://bitbucket.org/isysd/arr-diff.git
 [submodule "argx"]
 	path = argx
-	url = https://github.com/isysd/node-argx.git
+	url = https://bitbucket.org/isysd/node-argx.git
 [submodule "are-we-there-yet"]
 	path = are-we-there-yet
-	url = https://github.com/isysd/are-we-there-yet.git
+	url = https://bitbucket.org/isysd/are-we-there-yet.git
 [submodule "archy"]
 	path = archy
-	url = http://github.com/isysd/node-archy
+	url = http://bitbucket.org/isysd/node-archy
 [submodule "ape-updating"]
 	path = ape-updating
-	url = https://github.com/isysd/ape-updating.git
+	url = https://bitbucket.org/isysd/ape-updating.git
 [submodule "ape-tmpl"]
 	path = ape-tmpl
-	url = https://github.com/isysd/ape-tmpl.git
+	url = https://bitbucket.org/isysd/ape-tmpl.git
 [submodule "ape-tasking"]
 	path = ape-tasking
-	url = https://github.com/isysd/ape-tasking.git
+	url = https://bitbucket.org/isysd/ape-tasking.git
 [submodule "ape-reporting"]
 	path = ape-reporting
-	url = https://github.com/isysd/ape-reporting.git
+	url = https://bitbucket.org/isysd/ape-reporting.git
 [submodule "ape-releasing"]
 	path = ape-releasing
-	url = https://github.com/isysd/ape-releasing.git
+	url = https://bitbucket.org/isysd/ape-releasing.git
 [submodule "ape-formatting"]
 	path = ape-formatting
-	url = https://github.com/isysd/ape-formatting.git
+	url = https://bitbucket.org/isysd/ape-formatting.git
 [submodule "ape-doc"]
 	path = ape-doc
-	url = https://github.com/isysd/ape-doc.git
+	url = https://bitbucket.org/isysd/ape-doc.git
 [submodule "ape-deploying"]
 	path = ape-deploying
-	url = https://github.com/isysd/ape-deploying.git
+	url = https://bitbucket.org/isysd/ape-deploying.git
 [submodule "anymatch"]
 	path = anymatch
-	url = https://github.com/isysd/anymatch
+	url = https://bitbucket.org/isysd/anymatch
 [submodule "any-shell-escape"]
 	path = any-shell-escape
-	url = https://github.com/isysd/any-shell-escape
+	url = https://bitbucket.org/isysd/any-shell-escape
 [submodule "ansi"]
 	path = ansi
-	url = git://github.com/isysd/ansi.js.git
+	url = git://bitbucket.org/isysd/ansi.js.git
 [submodule "ansi-wrap"]
 	path = ansi-wrap
-	url = https://github.com/isysd/ansi-wrap.git
+	url = https://bitbucket.org/isysd/ansi-wrap.git
 [submodule "ansi-styles"]
 	path = ansi-styles
-	url = https://github.com/isysd/ansi-styles.git
+	url = https://bitbucket.org/isysd/ansi-styles.git
 [submodule "ansi-regex"]
 	path = ansi-regex
-	url = https://github.com/isysd/ansi-regex.git
+	url = https://bitbucket.org/isysd/ansi-regex.git
 [submodule "ansi-html"]
 	path = ansi-html
-	url = git://github.com/isysd/ansi-html.git
+	url = git://bitbucket.org/isysd/ansi-html.git
 [submodule "ansi-escapes"]
 	path = ansi-escapes
-	url = https://github.com/isysd/ansi-escapes.git
+	url = https://bitbucket.org/isysd/ansi-escapes.git
 [submodule "ansi-cyan"]
 	path = ansi-cyan
-	url = https://github.com/isysd/ansi-cyan.git
+	url = https://bitbucket.org/isysd/ansi-cyan.git
 [submodule "ansi-bold"]
 	path = ansi-bold
-	url = https://github.com/isysd/ansi-bold.git
+	url = https://bitbucket.org/isysd/ansi-bold.git
 [submodule "amocha"]
 	path = amocha
-	url = https://github.com/isysd/amocha.git
+	url = https://bitbucket.org/isysd/amocha.git
 [submodule "ajv"]
 	path = ajv
-	url = https://github.com/isysd/ajv.git
+	url = https://bitbucket.org/isysd/ajv.git
 [submodule "aglob"]
 	path = aglob
-	url = https://github.com/isysd/aglob.git
+	url = https://bitbucket.org/isysd/aglob.git
 [submodule "acorn"]
 	path = acorn
-	url = https://github.com/isysd/acorn.git
+	url = https://bitbucket.org/isysd/acorn.git
 [submodule "acorn-jsx"]
 	path = acorn-jsx
-	url = https://github.com/isysd/acorn-jsx.git
+	url = https://bitbucket.org/isysd/acorn-jsx.git
 [submodule "ace"]
 	path = ace
-	url = https://github.com/isysd/ace.git
+	url = https://bitbucket.org/isysd/ace.git
 [submodule "ace-builds"]
 	path = ace-builds
-	url = https://github.com/isysd/ace-builds.git
+	url = https://bitbucket.org/isysd/ace-builds.git
 [submodule "abbrev"]
 	path = abbrev
 	url = git@github.com:isaacs/abbrev-js.git
 [submodule "ababel"]
 	path = ababel
-	url = https://github.com/isysd/ababel.git
+	url = https://bitbucket.org/isysd/ababel.git
 [submodule "ababel-es2015"]
 	path = ababel-es2015
-	url = https://github.com/isysd/ababel-es2015.git
+	url = https://bitbucket.org/isysd/ababel-es2015.git
 [submodule "fs-extra"]
 	path = fs-extra
-	url = https://github.com/isysd/node-fs-extra.git
+	url = https://bitbucket.org/isysd/node-fs-extra.git
 [submodule "tether"]
 	path = tether
-	url = https://github.com/isysd/tether.git
+	url = https://bitbucket.org/isysd/tether.git
 [submodule "simple-git"]
 	path = simple-git
-	url = https://github.com/isysd/git-js.git
+	url = https://bitbucket.org/isysd/git-js.git
 [submodule "reveal.js"]
 	path = reveal.js
-	url = git://github.com/isysd/reveal.js.git
+	url = git://bitbucket.org/isysd/reveal.js.git
 [submodule "marked"]
 	path = marked
-	url = https://github.com/isysd/marked.git
+	url = https://bitbucket.org/isysd/marked.git
 [submodule "gpg"]
 	path = gpg
-	url = git://github.com/isysd/node-gpg.git
+	url = git://bitbucket.org/isysd/node-gpg.git
 [submodule "aframe"]
 	path = aframe
-	url = https://github.com/isysd/aframe.git
+	url = https://bitbucket.org/isysd/aframe.git
 [submodule "mermaid"]
 	path = mermaid
-	url = https://github.com/isysd/mermaid.git
+	url = https://bitbucket.org/isysd/mermaid.git
 [submodule "jquery"]
 	path = jquery
-	url = https://github.com/isysd/jquery.git
+	url = https://bitbucket.org/isysd/jquery.git
 [submodule "gitconfig"]
 	path = gitconfig
-	url = https://github.com/isysd/node-gitconfig
+	url = https://bitbucket.org/isysd/node-gitconfig
 [submodule "bootstrap"]
 	path = bootstrap
-	url = https://github.com/isysd/bootstrap.git
+	url = https://bitbucket.org/isysd/bootstrap.git
 [submodule "package-json"]
 	path = package-json
-	url = https://github.com/isysd/package-json.git
+	url = https://bitbucket.org/isysd/package-json.git
 [submodule "screenfull.js"]
 	path = screenfull
-	url = https://github.com/isysd/screenfull.js.git
+	url = https://bitbucket.org/isysd/screenfull.js.git
 [submodule "global-dirs"]
 	path = global-dirs
-	url = git@github.com:isysd/global-dirs.git
+	url = git@bitbucket.org:isysd/global-dirs.git
 [submodule "BrowserFS"]
 	path = BrowserFS
-	url = https://github.com/isysd/BrowserFS.git
+	url = https://bitbucket.org/isysd/BrowserFS.git
 [submodule "passclass"]
 	path = passclass
-	url = https://github.com/isysd/passclass.git
+	url = https://bitbucket.org/isysd/passclass.git
 [submodule "promise-or-cb"]
 	path = promise-or-cb
-	url = https://github.com/isysd/promise-or-cb.git
+	url = https://bitbucket.org/isysd/promise-or-cb.git
 [submodule "thig"]
 	path = thig
-	url = https://github.com/isysd/thig.git
+	url = https://bitbucket.org/isysd/thig.git
 [submodule "read-or-fetch"]
 	path = read-or-fetch
-	url = https://github.com/isysd/read-or-fetch.git
+	url = https://bitbucket.org/isysd/read-or-fetch.git
 [submodule "js-gg-lib"]
 	path = js-gg-lib
-	url = https://github.com/isysd/js-gg-lib.git
+	url = https://bitbucket.org/isysd/js-gg-lib.git
 [submodule "js-guld-lib"]
 	path = js-guld-lib
-	url = https://github.com/isysd/js-guld-lib.git
+	url = https://bitbucket.org/isysd/js-guld-lib.git
 [submodule "flexfs"]
 	path = flexfs
-	url = https://github.com/isysd/flexfs.git
+	url = https://bitbucket.org/isysd/flexfs.git
 [submodule "keyvaluedb"]
 	path = keyvaluedb
-	url = https://github.com/isysd/keyvaluedb.git
+	url = https://bitbucket.org/isysd/keyvaluedb.git
 [submodule "keyring-pgp"]
 	path = keyring-pgp
-	url = https://github.com/isysd/keyring-pgp.git
+	url = https://bitbucket.org/isysd/keyring-pgp.git
 [submodule "keyring-interface"]
 	path = keyring-interface
-	url = https://github.com/isysd/keyring-interface.git
+	url = https://bitbucket.org/isysd/keyring-interface.git
 [submodule "decimal.js"]
 	path = decimal.js
 	url = https://github.com/MikeMcl/decimal.js.git
-[submodule "guld-chrome"]
-	path = guld-chrome
-	url = https://github.com/guldcoin/guld-chrome.git
 [submodule "gg-chrome"]
 	path = gg-chrome
 	url = https://github.com/guld-games/gg-chrome.git
 [submodule "guld-chat"]
 	path = guld-chat
-	url = https://github.com/guldcoin/guld-chat.git
+	url = https://bitbucket.org/guld/guld-chat.git
 [submodule "ledger-types"]
 	path = ledger-types
-	url = https://github.com/isysd/ledger-types.git
+	url = https://bitbucket.org/isysd/ledger-types.git
 [submodule "ledger-rest"]
 	path = ledger-rest
-	url = https://github.com/isysd/ledger-rest.git
+	url = https://bitbucket.org/isysd/ledger-rest.git
 [submodule "ledger-commodity"]
 	path = ledger-commodity
-	url = https://github.com/isysd/ledger-commodity.git
+	url = https://bitbucket.org/isysd/ledger-commodity.git
 [submodule "ledger-web"]
 	path = ledger-web
 	url = https://github.com/slashdotdash/node-ledger-web.git
@@ -2281,7 +2269,7 @@
 	url = https://github.com/gitterHQ/node-gitter.git
 [submodule "oauth2-hack-client"]
 	path = oauth2-hack-client
-	url = git@github.com:isysd/oauth2-hack-client.git
+	url = git@bitbucket.org:isysd/oauth2-hack-client.git
 [submodule "dropbox-sdk-js"]
 	path = dropbox-sdk-js
 	url = https://github.com/dropbox/dropbox-sdk-js.git
@@ -2293,25 +2281,25 @@
 	url = https://github.com/google/google-api-nodejs-client.git
 [submodule "chrome-storage-fs"]
 	path = chrome-storage-fs
-	url = https://github.com/isysd/chrome-browser-fs.git
+	url = https://bitbucket.org/isysd/chrome-browser-fs.git
 [submodule "create-torrent"]
 	path = create-torrent
 	url = https://github.com/webtorrent/create-torrent.git
 [submodule "PTYFintechHackathon"]
 	path = PTYFintechHackathon
-	url = https://github.com/isysd/FintechHackathon.git
+	url = https://bitbucket.org/isysd/FintechHackathon.git
 [submodule "guldDocs"]
 	path = guldDocs
 	url = https://github.com/chrissmejia/guldDocs.git
 [submodule "gapp-ace"]
 	path = gapp-ace
-	url = git@github.com:isysd/gapp-ace.git
+	url = git@bitbucket.org:isysd/gapp-ace.git
 [submodule "gapp-ledger"]
 	path = gapp-ledger
-	url = git@github.com:isysd/gapp-ledger.git
+	url = git@bitbucket.org:isysd/gapp-ledger.git
 [submodule "guld-ai"]
 	path = guld-ai
-	url = git@github.com:isysd/js-guld-ai.git
+	url = git@bitbucket.org:isysd/js-guld-ai.git
 [submodule "guldPresentation"]
 	path = guldPresentation
 	url = https://github.com/chrissmejia/guldPresentation.git
@@ -2320,10 +2308,10 @@
 	url = https://github.com/caolan/highland.git
 [submodule "isomorphic-git"]
 	path = isomorphic-git
-	url = https://github.com/isysd/isomorphic-git.git
+	url = https://bitbucket.org/isysd/isomorphic-git.git
 [submodule "isomorphic-module"]
 	path = isomorphic-module
-	url = git@github.com:isysd/isomorphic-module.git
+	url = git@bitbucket.org:isysd/isomorphic-module.git
 [submodule "markdown-folder-to-html"]
 	path = markdown-folder-to-html
 	url = https://github.com/joakin/markdown-folder-to-html.git
@@ -2332,7 +2320,145 @@
 	url = git://github.com/josdejong/mathjs.git
 [submodule "openpgp-git-mixin"]
 	path = openpgp-git-mixin
-	url = https://github.com/isysd/openpgp-git-mixin.git
+	url = https://bitbucket.org/isysd/openpgp-git-mixin.git
 [submodule "bitbucketjs"]
 	path = bitbucketjs
 	url = git@bitbucket.org:atlassian/bitbucketjs.git
+[submodule "insight-cli"]
+	path = insight-cli
+	url = https://github.com/you21979/node-insight-cli.git
+[submodule "blockchain.info"]
+	path = blockchain.info
+	url = https://github.com/blockchain/api-v1-client-node.git
+[submodule "guld-cli"]
+	path = guld-cli
+	url = git@bitbucket.org:guld/tech-js-node_modules-guld-cli.git
+[submodule "guld-env"]
+	path = guld-env
+	url = git@bitbucket.org:guld/tech-js-node_modules-guld-env.git
+[submodule "guld-env-cli"]
+	path = guld-env-cli
+	url = git@bitbucket.org:guld/tech-js-node_modules-guld-env-cli.git
+[submodule "guld-fs"]
+	path = guld-fs
+	url = git@bitbucket.org:guld/tech-js-node_modules-guld-fs.git
+[submodule "guld-fs-cli"]
+	path = guld-fs-cli
+	url = git@bitbucket.org:guld/tech-js-node_modules-guld-fs-cli.git
+[submodule "guld-fs-foreach"]
+	path = guld-fs-foreach
+	url = git@bitbucket.org:guld/tech-js-node_modules-guld-fs-foreach.git
+[submodule "guld-fs-foreach-cli"]
+	path = guld-fs-foreach-cli
+	url = git@bitbucket.org:guld/tech-js-node_modules-guld-fs-foreach-cli.git
+[submodule "guld-fs-str-replace"]
+	path = guld-fs-str-replace
+	url = git@bitbucket.org:guld/tech-js-node_modules-guld-fs-str-replace.git
+[submodule "guld-fs-str-replace-cli"]
+	path = guld-fs-str-replace-cli
+	url = git@bitbucket.org:guld/tech-js-node_modules-guld-fs-str-replace-cli.git
+[submodule "guld-git"]
+	path = guld-git
+	url = git@bitbucket.org:guld/tech-js-node_modules-guld-git.git
+[submodule "guld-git-cli"]
+	path = guld-git-cli
+	url = git@bitbucket.org:guld/tech-js-node_modules-guld-git-cli.git
+[submodule "guld-git-config"]
+	path = guld-git-config
+	url = git@bitbucket.org:guld/tech-js-node_modules-guld-git-config.git
+[submodule "guld-git-config-cli"]
+	path = guld-git-config-cli
+	url = git@bitbucket.org:guld/tech-js-node_modules-guld-git-config-cli.git
+[submodule "guld-git-host"]
+	path = guld-git-host
+	url = git@bitbucket.org:guld/tech-js-node_modules-guld-git-host.git
+[submodule "guld-git-host-bitbucket"]
+	path = guld-git-host-bitbucket
+	url = git@bitbucket.org:guld/tech-js-node_modules-guld-git-host-bitbucket.git
+[submodule "guld-git-host-cli"]
+	path = guld-git-host-cli
+	url = git@bitbucket.org:guld/tech-js-node_modules-guld-git-host-cli.git
+[submodule "guld-git-host-github"]
+	path = guld-git-host-github
+	url = git@bitbucket.org:guld/tech-js-node_modules-guld-git-host-github.git
+[submodule "guld-git-host-gitlab"]
+	path = guld-git-host-gitlab
+	url = git@bitbucket.org:guld/tech-js-node_modules-guld-git-host-gitlab.git
+[submodule "guld-git-path"]
+	path = guld-git-path
+	url = git@bitbucket.org:guld/tech-js-node_modules-guld-git-path.git
+[submodule "guld-git-path-cli"]
+	path = guld-git-path-cli
+	url = git@bitbucket.org:guld/.git
+[submodule "guld-git-remote"]
+	path = guld-git-remote
+	url = git@bitbucket.org:guld/.git
+[submodule "guld-git-remote-cli"]
+	path = guld-git-remote-cli
+	url = git@bitbucket.org:guld/.git
+[submodule "guld-keys"]
+	path = guld-keys
+	url = git@bitbucket.org:guld/.git
+[submodule "guld-keys-bitcoin"]
+	path = guld-keys-bitcoin
+	url = git@bitbucket.org:guld/tech-js-node_modules-guld-keys-bitcoin.git
+[submodule "guld-keys-cli"]
+	path = guld-keys-cli
+	url = git@bitbucket.org:guld/.git
+[submodule "guld-keys-dash"]
+	path = guld-keys-dash
+	url = git@bitbucket.org:guld/.git
+[submodule "guld-ledger"]
+	path = guld-ledger
+	url = git@bitbucket.org:guld/.git
+[submodule "guld-ledger-btc"]
+	path = guld-ledger-btc
+	url = git@bitbucket.org:guld/.git
+[submodule "guld-ledger-cli"]
+	path = guld-ledger-cli
+	url = git@bitbucket.org:guld/.git
+[submodule "guld-mail"]
+	path = guld-mail
+	url = git@bitbucket.org:guld/.git
+[submodule "guld-mail-cli"]
+	path = guld-mail-cli
+	url = git@bitbucket.org:guld/.git
+[submodule "guld-pass"]
+	path = guld-pass
+	url = git@bitbucket.org:guld/.git
+[submodule "guld-pass-cli"]
+	path = guld-pass-cli
+	url = git@bitbucket.org:guld/.git
+[submodule "guld-random"]
+	path = guld-random
+	url = git@bitbucket.org:guld/.git
+[submodule "guld-random-cli"]
+	path = guld-random-cli
+	url = git@bitbucket.org:guld/.git
+[submodule "guld-spawn"]
+	path = guld-spawn
+	url = git@bitbucket.org:guld/.git
+[submodule "guld-user"]
+	path = guld-user
+	url = git@bitbucket.org:guld/.git
+[submodule "guld-user-cli"]
+	path = guld-user-cli
+	url = git@bitbucket.org:guld/.git
+[submodule "guld-zip-fs"]
+	path = guld-zip-fs
+	url = git@bitbucket.org:guld/.git
+[submodule "git-config-ini"]
+	path = git-config-ini
+	url = git@bitbucket.org:guld/tech-js-node_modules-git-config-ini.git
+[submodule "gpg-conf"]
+	path = gpg-conf
+	url = git@bitbucket.org:guld/tech-js-node_modules-gpg-conf.git
+[submodule "guld-sdk-cli"]
+	path = guld-sdk-cli
+	url = git@bitbucket.org:guld/tech-js-node_modules-guld-sdk-cli.git
+[submodule "keyring-gpg"]
+	path = keyring-gpg
+	url = git@bitbucket.org:guld/tech-js-node_modules-keyring-gpg.git
+[submodule "guld-sdk"]
+	path = guld-sdk
+	url = https://bitbucket.org/guld/tech-js-node_modules-guld-sdk

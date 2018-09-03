@@ -4,3 +4,4 @@ npm-debug*
 package*.json
 gapp-build
 gapp-keys-ssh
+.bin
