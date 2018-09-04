@@ -2465,3 +2465,6 @@
 [submodule "guld-git-config-ini"]
 	path = guld-git-config-ini
 	url = https://bitbucket.org/guld/tech-js-node_modules-guld-git-config-ini
+[submodule "guld-cli-run"]
+	path = guld-cli-run
+	url = https://bitbucket.org/guld/tech-js-node_modules-guld-cli-run
