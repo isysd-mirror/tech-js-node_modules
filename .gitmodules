@@ -2468,3 +2468,6 @@
 [submodule "guld-cli-run"]
 	path = guld-cli-run
 	url = https://bitbucket.org/guld/tech-js-node_modules-guld-cli-run
+[submodule "asyncify"]
+	path = asyncify
+	url = https://bitbucket.org/guld/tech-js-node_modules-asyncify
