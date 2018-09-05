@@ -2288,9 +2288,6 @@
 [submodule "PTYFintechHackathon"]
 	path = PTYFintechHackathon
 	url = https://bitbucket.org/isysd/FintechHackathon.git
-[submodule "guldDocs"]
-	path = guldDocs
-	url = https://github.com/chrissmejia/guldDocs.git
 [submodule "gapp-ace"]
 	path = gapp-ace
 	url = git@bitbucket.org:isysd/gapp-ace.git
