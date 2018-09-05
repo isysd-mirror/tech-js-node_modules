@@ -2483,3 +2483,6 @@
 [submodule "solidity-flattener"]
 	path = solidity-flattener
 	url = https://github.com/poanetwork/solidity-flattener
+[submodule "qs-local-window"]
+	path = qs-local-window
+	url = https://bitbucket.org/guld/tech-js-node_modules-qs-local-window
