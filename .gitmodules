@@ -2474,3 +2474,6 @@
 [submodule "guld-ledger-cache"]
 	path = guld-ledger-cache
 	url = https://bitbucket.org/guld/tech-js-node_modules-guld-ledger-cache
+[submodule "guld-market-cli"]
+	path = guld-market-cli
+	url = https://bitbucket.org/guld/tech-js-node_modules-guld-market-cli
