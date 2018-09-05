@@ -2486,3 +2486,6 @@
 [submodule "qs-local-window"]
 	path = qs-local-window
 	url = https://bitbucket.org/guld/tech-js-node_modules-qs-local-window
+[submodule "markdown-folder-to-html-bootstrap"]
+	path = markdown-folder-to-html-bootstrap
+	url = git@bitbucket.org:guld/tech-js-node_modules-markdown-folder-to-html-bootstrap.git
