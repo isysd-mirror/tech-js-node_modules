@@ -2471,3 +2471,6 @@
 [submodule "asyncify"]
 	path = asyncify
 	url = https://bitbucket.org/guld/tech-js-node_modules-asyncify
+[submodule "guld-ledger-cache"]
+	path = guld-ledger-cache
+	url = https://bitbucket.org/guld/tech-js-node_modules-guld-ledger-cache
