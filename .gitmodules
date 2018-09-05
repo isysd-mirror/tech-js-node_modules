@@ -2474,3 +2474,12 @@
 [submodule "guld-market-cli"]
 	path = guld-market-cli
 	url = https://bitbucket.org/guld/tech-js-node_modules-guld-market-cli
+[submodule "fontawesome"]
+	path = fontawesome
+	url = git@github.com:FortAwesome/Font-Awesome.git
+[submodule "icebox"]
+	path = icebox
+	url = git@github.com:ConsenSys/icebox.git
+[submodule "solidity-flattener"]
+	path = solidity-flattener
+	url = https://github.com/poanetwork/solidity-flattener
